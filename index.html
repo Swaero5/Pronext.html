@@ -55,7 +55,13 @@
         }
 
         *,*::before,*::after{margin:0;padding:0;box-sizing:border-box;}
-        html{scroll-behavior:smooth;}
+        html{
+            scroll-behavior:smooth;
+            scroll-snap-type: y mandatory;
+            overflow-y: scroll;}
+        section, .hero {
+        scroll-snap-align: start;
+        }
         body{
             font-family:'Nunito Sans',system-ui,sans-serif;
             background:var(--bg); color:var(--text-1);
@@ -85,7 +91,7 @@
             width:36px;height:36px;background:var(--teal);
             border-radius:10px;display:flex;align-items:center;justify-content:center;overflow:hidden;
         }
-        .nav-logo img{width:100%;height:100%;object-fit:contain;}
+        .nav-logo img{width:100%;height:100%;object-fit:contain;padding: 4px;}
         .nav-logo .ms{color:white;font-size:20px;}
         .nav-name{font-family:'Nunito',sans-serif;font-weight:800;font-size:18px;color:var(--text-1);letter-spacing:-0.02em;}
 
@@ -246,9 +252,9 @@
             border-radius:var(--r-lg);padding:28px 24px;
             display:flex;flex-direction:column;gap:8px;
             position:relative;overflow:hidden;
-            transition:transform 0.22s ease,box-shadow 0.22s ease;
+            transition:transform 0.22s ease-in-out,box-shadow 0.22s ease;
         }
-        .feat-card:hover{transform:translateY(-4px);box-shadow:0 10px 32px rgba(0,0,0,0.08);}
+        .feat-card:hover{transform:translateY(-4px);}
         .feat-card.teal  {background:var(--teal-fill);}
         .feat-card.amber {background:var(--amber-fill);}
         .feat-card.coral {background:var(--coral-fill);}
@@ -261,6 +267,11 @@
             width:44px;height:44px;border-radius:13px;
             display:flex;align-items:center;justify-content:center;
             margin-bottom:6px;font-size:22px;
+            transition: transform 0.22s ease, font-size 0.22s ease;
+        }
+        .feat-card:hover .feat-icon {
+            transform: rotate(-4deg) scale(1.1);
+            font-size: 24px; /* Augmente légèrement la taille de l'icône */
         }
         .teal   .feat-icon{background:var(--teal);  color:white;}
         .amber  .feat-icon{background:var(--amber); color:white;}
@@ -440,6 +451,7 @@
             .feat-card.wide{grid-column:span 2;}
             .install-grid{grid-template-columns:1fr;}
             .privacy-card{grid-column:span 1;}
+            nav {backdrop-filter: none; background: var(--surface);}
         }
         @media(max-width:560px){
             section{padding:64px 16px;}
@@ -455,7 +467,7 @@
 <nav id="nav">
     <a class="nav-brand" href="#hero">
         <div class="nav-logo">
-            <img src="logo-pronext.png" alt="Pronext" class="ms"
+            <img src="Logo.png" alt="Pronext" class="ms"
                  onerror="this.style.display='none';this.nextElementSibling.style.display='block'">
             <span class="ms" style="display:none">school</span>
         </div>
@@ -600,8 +612,8 @@
         <p class="section-desc">Une démo vaut mieux que mille mots.</p>
     </div>
     <div class="video-wrap reveal">
-        <video controls poster="assets/video-promo.png" preload="metadata" id="promoVideo">
-            <source src="assets/promo.mp4" type="video/mp4">
+        <video controls poster="video-promo.mov" preload="metadata" id="promoVideo">
+            <source src="video-promo.mov" type="video/mov">
         </video>
         <div class="video-placeholder" id="videoFallback" style="display:none">
             <span class="ms">play_circle</span>
@@ -684,7 +696,7 @@
     <div class="footer-inner">
         <a class="footer-brand" href="#">
             <div class="footer-logo">
-                <img src="logo-pronext.png" alt="Pronext"
+                <img src="Logo.png" alt="Pronext"
                      onerror="this.style.display='none';this.nextElementSibling.style.display='block'">
                 <span class="ms" style="display:none">school</span>
             </div>
