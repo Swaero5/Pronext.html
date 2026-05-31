@@ -198,6 +198,7 @@
         /* ── Screenshot ── */
         .hero-screenshot-col {
             flex-shrink: 0;
+            margin-right: 5%;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -234,6 +235,7 @@
         @media (max-width: 900px) {
             .hero { padding: 90px 32px 72px; }
             .hero-inner { gap: 40px; }
+            .hero-screenshot-col { margin-right: 0; }
             .hero-screenshot-col img { width: 220px; }
         }
         
@@ -375,12 +377,6 @@
         .teal .feat-list li{color:var(--teal-dark);}
         .feat-list li .ms{font-size:16px;opacity:.6;}
 
-        /* ══ SCREENSHOTS ══ */
-        .screenshots-row{
-            display:flex;justify-content:center;gap:20px;
-            margin-top:52px;flex-wrap:wrap;
-            perspective:900px;
-        }
         /* ══ COMPARE ══ */
         .compare-wrap{
             background:var(--surface);border-radius:var(--r-xl);
