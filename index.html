@@ -127,52 +127,125 @@
         }
 
         /* ══ HERO ══ */
-        .hero{
-            min-height:100vh;
-            display:flex;flex-direction:column;align-items:center;justify-content:center;
-            text-align:center;padding:120px 24px 96px;
-            position:relative;overflow:hidden;
+        .hero {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 100px 48px 80px;
+            position: relative;
+            overflow: hidden;
         }
-
-        /* Soft static gradient backdrop */
-        .hero::before{
-            content:'';position:absolute;inset:0;z-index:0;
+        .hero::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            z-index: 0;
             background:
-                radial-gradient(ellipse 55% 50% at 15% 25%, rgba(29,158,117,0.13) 0%, transparent 65%),
-                radial-gradient(ellipse 45% 55% at 85% 75%, rgba(127,119,221,0.10) 0%, transparent 65%);
-            pointer-events:none;
+                radial-gradient(ellipse 55% 60% at 10% 30%, rgba(29,158,117,0.12) 0%, transparent 65%),
+                radial-gradient(ellipse 40% 50% at 90% 70%, rgba(127,119,221,0.09) 0%, transparent 65%);
+            pointer-events: none;
+        }
+        .hero-inner {
+            position: relative;
+            z-index: 1;
+            width: 100%;
+            max-width: 1080px;
+            display: flex;
+            align-items: center;
+            gap: 72px;
+        }
+        .hero-text { flex: 1; min-width: 0; }
+        
+        .hero-badge {
+            display: inline-flex; align-items: center; gap: 7px;
+            padding: 7px 16px;
+            background: var(--surface);
+            border: 1px solid rgba(29,158,117,0.22);
+            border-radius: 40px;
+            font-size: 13px; font-weight: 700; color: var(--teal);
+            margin-bottom: 24px;
+            box-shadow: 0 2px 10px rgba(29,158,117,0.10);
+        }
+        .hero-badge .ms { font-size: 15px; }
+        
+        .hero-title {
+            font-family: 'Nunito', sans-serif;
+            font-size: clamp(38px, 5.5vw, 72px);
+            font-weight: 900;
+            letter-spacing: -0.035em;
+            line-height: 1.04;
+            color: var(--text-1);
+            margin-bottom: 20px;
+        }
+        .hero-title .accent { color: var(--teal); }
+        
+        .hero-sub {
+            font-size: clamp(15px, 1.8vw, 17px);
+            color: var(--text-2);
+            line-height: 1.65;
+            max-width: 440px;
+            margin-bottom: 36px;
+        }
+        
+        .hero-actions {
+            display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
         }
 
-        .hero-content{position:relative;z-index:1;}
-
-        .hero-badge{
-            display:inline-flex;align-items:center;gap:7px;
-            padding:7px 16px;
-            background:var(--surface);
-            border:1px solid rgba(29,158,117,0.22);
-            border-radius:40px;
-            font-size:13px;font-weight:700;color:var(--teal);
-            margin-bottom:28px;
-            box-shadow:0 2px 10px rgba(29,158,117,0.10);
-        }
-        .hero-badge .ms{font-size:15px;}
-
-        .hero-title{
-            font-family:'Nunito',sans-serif;
-            font-size:clamp(44px,8vw,88px);
-            font-weight:900;letter-spacing:-0.035em;line-height:1.03;
-            color:var(--text-1);margin-bottom:22px;
-        }
-        .hero-title .accent{color:var(--teal);}
-
-        .hero-sub{
-            font-size:clamp(16px,2.2vw,20px);color:var(--text-2);
-            max-width:520px;line-height:1.65;margin:0 auto 40px;
+        .hero-pills {
+            display: flex; gap: 10px; flex-wrap: wrap; margin-top: 32px;
         }
 
-        .hero-actions{
-            display:flex;align-items:center;gap:12px;
-            flex-wrap:wrap;justify-content:center;
+        /* ── Screenshot ── */
+        .hero-screenshot-col {
+            flex-shrink: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative; 
+        }
+        .hero-screenshot-col img {
+            width: 260px;
+            height: auto;
+            display: block;
+            border-radius: 32px;
+            /* Ombre douce pour le détacher du fond */
+            box-shadow: 0 24px 72px rgba(0,0,0,0.16), 0 4px 16px rgba(0,0,0,0.08);
+        }
+
+        .hero-screenshot-col::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 40px;
+            background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.2));
+            border-radius: 0 0 32px 32px;
+            pointer-events: none;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            .hero-screenshot-col::after {
+                background: linear-gradient(to bottom, transparent, rgba(22, 20, 18, 0.4)); /* Utilise la couleur du fond sombre */
+            }
+        }
+        
+        /* ── Responsive ── */
+        @media (max-width: 900px) {
+            .hero { padding: 90px 32px 72px; }
+            .hero-inner { gap: 40px; }
+            .hero-screenshot-col img { width: 220px; }
+        }
+        
+        @media (max-width: 680px) {
+            .hero { padding: 90px 20px 64px; text-align: center; }
+            .hero-inner { flex-direction: column; gap: 40px; align-items: center; }
+            .hero-sub { max-width: 100%; }
+            .hero-actions { justify-content: center; }
+            .hero-pills { justify-content: center; }
+            .hero-screenshot-col { order: 2; }
+            .hero-screenshot-col img { width: 200px; }
         }
 
         .btn-primary{
@@ -494,31 +567,37 @@
 
 <!-- HERO -->
 <div class="hero" id="hero">
-    <div class="hero-content">
-        <div class="hero-badge">
-            <span class="ms">auto_awesome</span> Pronote, réinventé
+    <div class="hero-inner">
+ 
+        <div class="hero-text">
+            <div class="hero-badge">
+                <span class="ms">auto_awesome</span> The Pronote experience, reimagined.
+            </div>
+            <h1 class="hero-title">
+                L'appli scolaire<br>que tu <span class="accent">mérites</span>
+            </h1>
+            <p class="hero-sub">
+                Pronext améliore ton emploi du temps Pronote avec une interface moderne,
+                des statistiques avancées et des fonctions sociales inédites — sans jamais
+                toucher à tes données.
+            </p>
+            <div class="hero-actions">
+                <a class="btn-primary" href="https://github.com/swaero5/pronext/releases">
+                    <span class="ms">android</span> Télécharger l'APK
+                </a>
+            </div>
+            <div class="hero-pills">
+                <div class="pill pill-teal"><span class="ms">lock</span> 100% local</div>
+                <div class="pill pill-amber"><span class="ms">bolt</span> Rapide</div>
+                <div class="pill pill-purple"><span class="ms">palette</span> Material You</div>
+            </div>
         </div>
-        <h1 class="hero-title">
-            L'appli scolaire<br>que tu <span class="accent">mérites</span>
-        </h1>
-        <p class="hero-sub">
-            Pronext remplace Pronote avec une interface moderne, des statistiques avancées et des fonctions sociales inédites — sans jamais toucher à tes données.
-        </p>
-        <div class="hero-actions">
-            <a class="btn-primary" href="https://github.com/swaero5/pronext/releases">
-                <span class="ms">android</span> Télécharger l'APK
-            </a>
-            <!--
-            <a class="btn-secondary" href="#features">
-                <span class="ms">explore</span> Découvrir
-            </a>
-            -->
+ 
+        <div class="hero-screenshot-col">
+            <!-- Remplace "screenshot.png" par le nom de ton fichier image -->
+            <img src="screenshot.png" alt="Capture d'écran Pronext" />
         </div>
-        <div class="hero-pills">
-            <div class="pill pill-teal"><span class="ms">lock</span> 100% local</div>
-            <div class="pill pill-amber"><span class="ms">bolt</span> Rapide</div>
-            <div class="pill pill-purple"><span class="ms">palette</span> Material You</div>
-        </div>
+ 
     </div>
 </div>
 
