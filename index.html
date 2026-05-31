@@ -38,6 +38,9 @@
             --green:       #639922;
             --green-fill:  #eaf3de;
             --green-dark:  #27500A;
+            --pink:        #D1005C;
+            --pink-fill:  #ffe0e9;
+            --pink-dark:  #d1005c;
             --r-sm:14px; --r-md:20px; --r-lg:28px; --r-xl:36px;
         }
         @media(prefers-color-scheme:dark){
@@ -51,6 +54,7 @@
                 --purple-fill:#1a1840; --purple-dark:#CECBF6;
                 --blue-fill:#051a30; --blue-dark:#B5D4F4;
                 --green-fill:#0f2200; --green-dark:#C0DD97;
+                --pink-fill:#2e001c; --pink-dark:#F5C4B3;
             }
         }
 
@@ -78,7 +82,7 @@
         nav{
             position:fixed; top:0; left:0; right:0; z-index:200;
             display:flex; align-items:center; justify-content:space-between;
-            padding:14px 32px;
+            padding:14px 44px;
             background: linear-gradient(to bottom, rgba(245,243,238,0.98), rgba(255, 248, 245, 0.67));
             backdrop-filter:blur(44px); -webkit-backdrop-filter:blur(20px);
             border-bottom:1px solid var(--border);
@@ -93,7 +97,7 @@
             width:34px;height:34px;background: transparent;
             border-radius:2px;display:flex;align-items:center;justify-content:center;overflow:hidden;
         }
-        .nav-logo img{width:100%;height:100%;padding-top: 2px;object-fit:contain;}
+        .nav-logo img{width:100%;height:100%;padding-top: 4px;object-fit:contain;}
         .nav-logo .ms{color:white;font-size:20px;}
         .nav-name{font-family:'Nunito',sans-serif;font-weight:800;font-size:22px;color:var(--teal);letter-spacing:-0.02em;}
         @media (prefers-color-scheme: dark) {
@@ -205,10 +209,10 @@
             position: relative; 
         }
         .hero-screenshot-col img {
-            width: 260px;
+            width: 290px;
             height: auto;
             display: block;
-            border-radius: 12px;
+            border-radius: 9px;
             /* Ombre douce pour le détacher du fond 
             box-shadow: 0 24px 72px rgba(0,0,0,0.16), 0 4px 16px rgba(0,0,0,0.08); */
         }
@@ -219,9 +223,9 @@
             bottom: 0;
             left: 0;
             right: 0;
-            height: 20px;
+            height: 23px;
             background: linear-gradient(to bottom, transparent, var(--bg));
-            border-radius: 0 0 12px 12px;
+            border-radius: 0 0 8px 8px;
             pointer-events: none;
         }
 
@@ -337,6 +341,7 @@
         .feat-card.purple{background:var(--purple-fill);}
         .feat-card.blue  {background:var(--blue-fill);}
         .feat-card.green {background:var(--green-fill);}
+        .feat-card.pink  {background:var(--pink-fill);}
         .feat-card.wide  {grid-column:span 2;}
 
         .feat-icon{
@@ -355,6 +360,7 @@
         .purple .feat-icon{background:var(--purple);color:white;}
         .blue   .feat-icon{background:var(--blue);  color:white;}
         .green  .feat-icon{background:var(--green); color:white;}
+        .pink   .feat-icon{background:var(--pink);  color:white;}
 
         .feat-title{font-family:'Nunito',sans-serif;font-size:18px;font-weight:800;letter-spacing:-0.01em;}
         .teal   .feat-title{color:var(--teal-dark);}
@@ -363,6 +369,7 @@
         .purple .feat-title{color:var(--purple-dark);}
         .blue   .feat-title{color:var(--blue-dark);}
         .green  .feat-title{color:var(--green-dark);}
+        .pink   .feat-title{color:var(--pink-dark);}
 
         .feat-desc{font-size:14px;line-height:1.55;}
         .teal   .feat-desc{color:var(--teal-dark);  opacity:.72;}
@@ -371,10 +378,12 @@
         .purple .feat-desc{color:var(--purple-dark);opacity:.72;}
         .blue   .feat-desc{color:var(--blue-dark);  opacity:.72;}
         .green  .feat-desc{color:var(--green-dark); opacity:.72;}
+        .pink   .feat-desc{color:var(--pink-dark); opacity:.72;}
 
         .feat-list{list-style:none;display:flex;flex-direction:column;gap:7px;margin-top:6px;}
         .feat-list li{display:flex;align-items:center;gap:8px;font-size:13px;font-weight:600;}
         .teal .feat-list li{color:var(--teal-dark);}
+        .pink .feat-list li{color:var(--pink-dark);}
         .feat-list li .ms{font-size:16px;opacity:.6;}
 
         /* ══ COMPARE ══ */
@@ -513,6 +522,7 @@
         .reveal-d4{transition-delay:0.24s;}
         .reveal-d5{transition-delay:0.30s;}
         .reveal-d6{transition-delay:0.36s;}
+        .reveal-d7{transition-delay:0.42s;}
 
         /* ══ RESPONSIVE ══ */
         @media(max-width:860px){
@@ -603,31 +613,37 @@
             <div class="feat-title">Emploi du temps intelligent</div>
             <div class="feat-desc">Affichage en temps réel avec mises à jour automatiques lors des annulations ou déplacements de cours.</div>
             <ul class="feat-list">
-                <li><span class="ms">notifications</span> Notification juste avant ton prochain cours</li>
                 <li><span class="ms">widgets</span> Widget contextuel : cours, cantine, résumé hebdo</li>
                 <li><span class="ms">offline_pin</span> Fonctionne hors ligne après import</li>
             </ul>
         </div>
-        <div class="feat-card amber reveal reveal-d2">
+         <div class="feat-card pink reveal reveal-d2">
+            <div class="feat-icon"><span class="ms">notifications</span></div>
+            <div class="feat-title">Notifications intelligentes</div>
+            <div class="feat-desc">Reçois des alertes personnalisées pour tes cours, devoirs importants et événements.</div>
+            <ul class="feat-list">
+            <li><span class="ms">notifications</span> Notifications dynamiques affichées sur l'écran de verrouillage (Android 15+ : Now Bar, Live Activities…). </li>
+        </div>
+        <div class="feat-card amber reveal reveal-d3">
             <div class="feat-icon"><span class="ms">bar_chart</span></div>
             <div class="feat-title">Statistiques scolaires</div>
 <div class="feat-desc">Répartition par matière, progression de l'année et comparaison des EDT avec tes amis — tout analysé localement.</div>        </div>
-        <div class="feat-card coral reveal reveal-d3">
+        <div class="feat-card coral reveal reveal-d4">
             <div class="feat-icon"><span class="ms">group</span></div>
             <div class="feat-title">Fonctions sociales</div>
             <div class="feat-desc">EDT de tes amis, pauses communes,  partage rapide par QR code ou NFC.</div>
         </div>
-        <div class="feat-card purple reveal reveal-d4">
+        <div class="feat-card purple reveal reveal-d5">
             <div class="feat-icon"><span class="ms">palette</span></div>
             <div class="feat-title">Design moderne</div>
             <div class="feat-desc">Interface moderne avec couleurs dynamiques selon ton thème système.</div>
         </div>
-        <div class="feat-card blue reveal reveal-d5">
+        <div class="feat-card blue reveal reveal-d6">
             <div class="feat-icon"><span class="ms">restaurant</span></div>
             <div class="feat-title">Menu de cantine</div>
             <div class="feat-desc">Disponible dans certaines grandes villes, avec météo du jour si la localisation est activée.</div>
         </div>
-        <div class="feat-card green reveal reveal-d6">
+        <div class="feat-card green reveal reveal-d7">
             <div class="feat-icon"><span class="ms">shield</span></div>
             <div class="feat-title">Vie privée totale</div>
             <div class="feat-desc">Aucun compte, aucun serveur. Tes données restent sur ton téléphone.</div>
@@ -689,8 +705,10 @@
         <p class="section-desc">Une démo vaut mieux que mille mots.</p>
     </div>
     <div class="video-wrap reveal">
-        <video controls poster="video.mov" preload="metadata" id="promoVideo">
-            <source src="video.mov" type="video/mov">
+        <video controls poster="poster.jpg" preload="metadata" id="promoVideo">
+            <source src="video.mp4" type="video/mp4">
+            <source src="video.webm" type="video/webm">
+            Ton navigateur ne supporte pas la balise vidéo.
         </video>
         <div class="video-placeholder" id="videoFallback" style="display:none">
             <span class="ms">play_circle</span>
