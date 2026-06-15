@@ -54,48 +54,39 @@ Salle : S.204
 END:VEVENT
 
 BEGIN:VEVENT
-CATEGORIES:Devoir
+CATEGORIES:Évaluation
 DTSTAMP:20260615T100000Z
 LAST-MODIFIED:20260614T120000Z
-UID:Devoir-003-1-20260615T100000Z-Index-Education
+UID:Evaluation-PC-001-20260615T100000Z-Index-Education
 DTSTART:20260615T140000Z
 DTEND:20260615T150000Z
-SUMMARY;LANGUAGE=fr:DM MATHÉMATIQUES - DUPONT J.
-LOCATION;LANGUAGE=fr:S.101
-DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES
-Professeur : DUPONT J.
-Type : Devoir à la maison
-Salle : S.101
+SUMMARY;LANGUAGE=fr:Contrôle PHYSIQUE-CHIMIE - MARTIN L. - Chapitres 8 et 9
+LOCATION;LANGUAGE=fr:S.204
+DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE
+Professeur : MARTIN L.
+Type : Contrôle
+Sujet : Chapitre 8 (le travail des forces, le théorème de l'énergie cinétique et la conservation de l'énergie mécanique) et Chapitre 9 (demi-équation électronique et équation bilan d'oxydoréduction)
+Salle : S.204
 
-À rendre le 16/06/2026 :Exercices sur les dérivées.
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MARTIN L.<br/>Type : Contrôle<br/>Sujet : Chapitre 8 (le travail des forces, le théorème de l'énergie cinétique et la conservation de l'énergie mécanique) et Chapitre 9 (demi-équation électronique et équation bilan d'oxydoréduction)<br/>Salle : S.204
 
-X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES
-Professeur : DUPONT J.
-Type : Devoir à la maison
-Salle : S.101
-
-À rendre le 16/06/2026 : 
-Exercices sur les dérivées.
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260615T100000Z
 LAST-MODIFIED:20260614T120000Z
-UID:Evaluation-004-1-20260615T100000Z-Index-Education
+UID:Evaluation-MATH-001-20260615T100000Z-Index-Education
 DTSTART:20260615T160000Z
 DTEND:20260615T170000Z
-SUMMARY;LANGUAGE=fr:DS PHYSIQUE-CHIMIE - MARTIN L.
-LOCATION;LANGUAGE=fr:S.204
-DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
+SUMMARY;LANGUAGE=fr:DS MATHÉMATIQUES - DUPONT J.
+LOCATION;LANGUAGE=fr:S.101
+DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES
+Professeur : DUPONT J.
 Type : Devoir surveillé
-Salle : S.204
+Salle : S.101
 
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
-Type : Devoir surveillé
-Salle : S.204
+X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPONT J.<br/>Type : Devoir surveillé<br/>Salle : S.101
 
 END:VEVENT
 
@@ -145,65 +136,57 @@ LAST-MODIFIED:20260615T120000Z
 UID:Cours-006-2-20260616T100000Z-Index-Education
 DTSTART:20260616T100000Z
 DTEND:20260616T115500Z
-SUMMARY;LANGUAGE=fr:FRANÇAIS - LEFEVRE P. - [T_FR01] - <TSTI2D 1> FR
-LOCATION;LANGUAGE=fr:S.201
-DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS
-Professeur : LEFEVRE P.
-Groupe : [T_FR01]
-Partie de classe : <TSTI2D 1> FR
-Salle : S.201
+SUMMARY;LANGUAGE=fr:ESPAGNOL - GARCIA S. - [T_ESP01] - <TSTI2D 1> ESP
+LOCATION;LANGUAGE=fr:S.102
+DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL
+Professeur : GARCIA S.
+Groupe : [T_ESP01]
+Partie de classe : <TSTI2D 1> ESP
+Salle : S.102
 
-X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS
-Professeur : LEFEVRE P.
-Groupe : [T_FR01]
-Partie de classe : &lt;TSTI2D 1&gt; FR
-Salle : S.201
+X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL
+Professeur : GARCIA S.
+Groupe : [T_ESP01]
+Partie de classe : &lt;TSTI2D 1&gt; ESP
+Salle : S.102
 
-END:VEVENT
-
-BEGIN:VEVENT
-CATEGORIES:Devoir
-DTSTAMP:20260616T100000Z
-LAST-MODIFIED:20260615T120000Z
-UID:Devoir-007-1-20260616T100000Z-Index-Education
-DTSTART:20260616T140000Z
-DTEND:20260616T150000Z
-SUMMARY;LANGUAGE=fr:Exercice FRANÇAIS - LEFEVRE P.
-LOCATION;LANGUAGE=fr:S.201
-DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS
-Professeur : LEFEVRE P.
-Type : Exercice
-Salle : S.201
-
-À rendre le 17/06/2026 :Analyse de texte.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS
-Professeur : LEFEVRE P.
-Type : Exercice
-Salle : S.201
-
-À rendre le 17/06/2026 : 
-Analyse de texte.
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260616T100000Z
 LAST-MODIFIED:20260615T120000Z
-UID:Evaluation-008-1-20260616T100000Z-Index-Education
+UID:Evaluation-ESP-001-20260616T100000Z-Index-Education
+DTSTART:20260616T140000Z
+DTEND:20260616T150000Z
+SUMMARY;LANGUAGE=fr:Contrôle ESPAGNOL - GARCIA S. - Lieux emblématiques et gastronomie
+LOCATION;LANGUAGE=fr:S.102
+DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL
+Professeur : GARCIA S.
+Type : Contrôle de connaissances
+Sujet : Lieux emblématiques, caractéristiques, activités, monuments Valencia/éléments de gastronomie
+Salle : S.102
+
+X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.<br/>Type : Contrôle de connaissances<br/>Sujet : Lieux emblématiques, caractéristiques, activités, monuments Valencia/éléments de gastronomie<br/>Salle : S.102
+
+END:VEVENT
+
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260616T100000Z
+LAST-MODIFIED:20260615T120000Z
+UID:Evaluation-HG-001-20260616T100000Z-Index-Education
 DTSTART:20260616T160000Z
 DTEND:20260616T170000Z
-SUMMARY;LANGUAGE=fr:Interrogation Écrite HISTOIRE-GÉOGRAPHIE - DURAND M.
+SUMMARY;LANGUAGE=fr:Préparation Évaluation HISTOIRE-GÉOGRAPHIE - DURAND M.
 LOCATION;LANGUAGE=fr:S.301
 DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE
 Professeur : DURAND M.
-Type : Interrogation écrite
+Type : Préparation évaluation
+Sujet : La colonisation et la première guerre mondiale
 Salle : S.301
 
-X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE
-Professeur : DURAND M.
-Type : Interrogation écrite
-Salle : S.301
+X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur : DURAND M.<br/>Type : Préparation évaluation<br/>Sujet : La colonisation et la première guerre mondiale<br/>Salle : S.301
 
 END:VEVENT
 
@@ -272,10 +255,10 @@ Salle : S.003
 END:VEVENT
 
 BEGIN:VEVENT
-CATEGORIES:Devoir
+CATEGORIES:Évaluation
 DTSTAMP:20260617T100000Z
 LAST-MODIFIED:20260616T120000Z
-UID:Devoir-011-1-20260617T100000Z-Index-Education
+UID:Evaluation-INFO-001-20260617T100000Z-Index-Education
 DTSTART:20260617T140000Z
 DTEND:20260617T150000Z
 SUMMARY;LANGUAGE=fr:TP INFORMATIQUE - MOREAU T.
@@ -285,7 +268,7 @@ Professeur : MOREAU T.
 Type : Travaux Pratiques
 Salle : Salle Info 1
 
-À rendre le 18/06/2026 :Algorithme de tri.
+À rendre le 18/06/2026 : Algorithme de tri.
 
 X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE
 Professeur : MOREAU T.
@@ -300,7 +283,7 @@ BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260617T100000Z
 LAST-MODIFIED:20260616T120000Z
-UID:Evaluation-012-1-20260617T100000Z-Index-Education
+UID:Evaluation-ANG-001-20260617T100000Z-Index-Education
 DTSTART:20260617T160000Z
 DTEND:20260617T170000Z
 SUMMARY;LANGUAGE=fr:DS ANGLAIS - SMITH A.
@@ -364,10 +347,10 @@ Salle : S.105
 END:VEVENT
 
 BEGIN:VEVENT
-CATEGORIES:Devoir
+CATEGORIES:Évaluation
 DTSTAMP:20260618T100000Z
 LAST-MODIFIED:20260617T120000Z
-UID:Devoir-015-1-20260618T100000Z-Index-Education
+UID:Evaluation-PHIL-001-20260618T100000Z-Index-Education
 DTSTART:20260618T140000Z
 DTEND:20260618T150000Z
 SUMMARY;LANGUAGE=fr:DM PHILOSOPHIE - VATTIER V.
@@ -377,7 +360,7 @@ Professeur : VATTIER V.
 Type : Devoir à la maison
 Salle : D.151
 
-À rendre le 19/06/2026 :Dissertation sur la liberté.
+À rendre le 19/06/2026 : Dissertation sur la liberté.
 
 X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE
 Professeur : VATTIER V.
@@ -392,7 +375,7 @@ BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260618T100000Z
 LAST-MODIFIED:20260617T120000Z
-UID:Evaluation-016-1-20260618T100000Z-Index-Education
+UID:Evaluation-SVT-001-20260618T100000Z-Index-Education
 DTSTART:20260618T160000Z
 DTEND:20260618T170000Z
 SUMMARY;LANGUAGE=fr:DS SVT - LEROY C.
@@ -474,10 +457,10 @@ Salle : S.204
 END:VEVENT
 
 BEGIN:VEVENT
-CATEGORIES:Devoir
+CATEGORIES:Évaluation
 DTSTAMP:20260619T100000Z
 LAST-MODIFIED:20260618T120000Z
-UID:Devoir-019-1-20260619T100000Z-Index-Education
+UID:Evaluation-PC-002-20260619T100000Z-Index-Education
 DTSTART:20260619T140000Z
 DTEND:20260619T150000Z
 SUMMARY;LANGUAGE=fr:Exercice PHYSIQUE-CHIMIE - MARTIN L.
@@ -487,7 +470,7 @@ Professeur : MARTIN L.
 Type : Exercice
 Salle : S.204
 
-À rendre le 20/06/2026 :Problème sur les réactions chimiques.
+À rendre le 20/06/2026 : Problème sur les réactions chimiques.
 
 X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE
 Professeur : MARTIN L.
@@ -502,7 +485,7 @@ BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260619T100000Z
 LAST-MODIFIED:20260618T120000Z
-UID:Evaluation-020-1-20260619T100000Z-Index-Education
+UID:Evaluation-MATH-002-20260619T100000Z-Index-Education
 DTSTART:20260619T160000Z
 DTEND:20260619T170000Z
 SUMMARY;LANGUAGE=fr:Bac Blanc MATHÉMATIQUES - DUPONT J.
@@ -585,10 +568,10 @@ Salle : S.201
 END:VEVENT
 
 BEGIN:VEVENT
-CATEGORIES:Devoir
+CATEGORIES:Évaluation
 DTSTAMP:20260620T100000Z
 LAST-MODIFIED:20260619T120000Z
-UID:Devoir-023-1-20260620T100000Z-Index-Education
+UID:Evaluation-FR-001-20260620T100000Z-Index-Education
 DTSTART:20260620T140000Z
 DTEND:20260620T150000Z
 SUMMARY;LANGUAGE=fr:DM FRANÇAIS - LEFEVRE P.
@@ -598,7 +581,7 @@ Professeur : LEFEVRE P.
 Type : Devoir à la maison
 Salle : S.201
 
-À rendre le 21/06/2026 :Commentaire composé sur un extrait littéraire.
+À rendre le 21/06/2026 : Commentaire composé sur un extrait littéraire.
 
 X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS
 Professeur : LEFEVRE P.
@@ -613,7 +596,7 @@ BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260620T100000Z
 LAST-MODIFIED:20260619T120000Z
-UID:Evaluation-024-1-20260620T100000Z-Index-Education
+UID:Evaluation-HG-002-20260620T100000Z-Index-Education
 DTSTART:20260620T160000Z
 DTEND:20260620T170000Z
 SUMMARY;LANGUAGE=fr:Interrogation Écrite HISTOIRE-GÉOGRAPHIE - DURAND M.
@@ -693,10 +676,10 @@ Salle : S.003
 END:VEVENT
 
 BEGIN:VEVENT
-CATEGORIES:Devoir
+CATEGORIES:Évaluation
 DTSTAMP:20260623T100000Z
 LAST-MODIFIED:20260622T120000Z
-UID:Devoir-027-1-20260623T100000Z-Index-Education
+UID:Evaluation-INFO-002-20260623T100000Z-Index-Education
 DTSTART:20260623T140000Z
 DTEND:20260623T150000Z
 SUMMARY;LANGUAGE=fr:TP INFORMATIQUE - MOREAU T.
@@ -706,7 +689,7 @@ Professeur : MOREAU T.
 Type : Travaux Pratiques
 Salle : Salle Info 1
 
-À rendre le 24/06/2026 :Projet base de données.
+À rendre le 24/06/2026 : Projet base de données.
 
 X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE
 Professeur : MOREAU T.
@@ -721,7 +704,7 @@ BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260623T100000Z
 LAST-MODIFIED:20260622T120000Z
-UID:Evaluation-028-1-20260623T100000Z-Index-Education
+UID:Evaluation-ANG-002-20260623T100000Z-Index-Education
 DTSTART:20260623T160000Z
 DTEND:20260623T170000Z
 SUMMARY;LANGUAGE=fr:DS ANGLAIS - SMITH A.
@@ -785,10 +768,10 @@ Salle : S.105
 END:VEVENT
 
 BEGIN:VEVENT
-CATEGORIES:Devoir
+CATEGORIES:Évaluation
 DTSTAMP:20260624T100000Z
 LAST-MODIFIED:20260623T120000Z
-UID:Devoir-031-1-20260624T100000Z-Index-Education
+UID:Evaluation-SVT-002-20260624T100000Z-Index-Education
 DTSTART:20260624T140000Z
 DTEND:20260624T150000Z
 SUMMARY;LANGUAGE=fr:DM SVT - LEROY C.
@@ -798,7 +781,7 @@ Professeur : LEROY C.
 Type : Devoir à la maison
 Salle : S.105
 
-À rendre le 25/06/2026 :Étude d'un écosystème.
+À rendre le 25/06/2026 : Étude d'un écosystème.
 
 X-ALT-DESC;FMTTYPE=text/html:Matière : SVT
 Professeur : LEROY C.
@@ -813,7 +796,7 @@ BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260624T100000Z
 LAST-MODIFIED:20260623T120000Z
-UID:Evaluation-032-1-20260624T100000Z-Index-Education
+UID:Evaluation-PHIL-002-20260624T100000Z-Index-Education
 DTSTART:20260624T160000Z
 DTEND:20260624T170000Z
 SUMMARY;LANGUAGE=fr:DS PHILOSOPHIE - VATTIER V.
@@ -877,10 +860,10 @@ Salle : S.204
 END:VEVENT
 
 BEGIN:VEVENT
-CATEGORIES:Devoir
+CATEGORIES:Évaluation
 DTSTAMP:20260625T100000Z
 LAST-MODIFIED:20260624T120000Z
-UID:Devoir-035-1-20260625T100000Z-Index-Education
+UID:Evaluation-PC-003-20260625T100000Z-Index-Education
 DTSTART:20260625T140000Z
 DTEND:20260625T150000Z
 SUMMARY;LANGUAGE=fr:Exercice PHYSIQUE-CHIMIE - MARTIN L.
@@ -890,7 +873,7 @@ Professeur : MARTIN L.
 Type : Exercice
 Salle : S.204
 
-À rendre le 26/06/2026 :Exercices sur l'électricité.
+À rendre le 26/06/2026 : Exercices sur l'électricité.
 
 X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE
 Professeur : MARTIN L.
@@ -905,7 +888,7 @@ BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260625T100000Z
 LAST-MODIFIED:20260624T120000Z
-UID:Evaluation-036-1-20260625T100000Z-Index-Education
+UID:Evaluation-MATH-003-20260625T100000Z-Index-Education
 DTSTART:20260625T160000Z
 DTEND:20260625T170000Z
 SUMMARY;LANGUAGE=fr:Bac Blanc MATHÉMATIQUES - DUPONT J.
@@ -926,7 +909,7 @@ BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260625T100000Z
 LAST-MODIFIED:20260624T120000Z
-UID:Evaluation-037-1-20260625T100000Z-Index-Education
+UID:Evaluation-INFO-003-20260625T100000Z-Index-Education
 DTSTART:20260625T140000Z
 DTEND:20260625T150000Z
 SUMMARY;LANGUAGE=fr:DS INFORMATIQUE - MOREAU T.
