@@ -10,7 +10,6 @@ X-WR-CALNAME;LANGUAGE=fr:Calendrier - Berger Julie 04/07/2008 - du 15 juin
 X-WR-CALDESC;LANGUAGE=fr:Calendrier Berger Julie 04/07/2008 généré par le l
  ogiciel PRONOTE (©INDEX ÉDUCATION) le 15 juin 2026 - LYCEE L.Bramson - sem
  aines 24 - 25
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260615T081231Z
@@ -23,12 +22,18 @@ SUMMARY;LANGUAGE=fr:MATHÉMATIQUES - DUPONT J. - [T_MATH01] - <TSTI2D 1> MA
 LOCATION;LANGUAGE=fr:S.101
 DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nGr
  oupe : [T_MATH01]\nPartie de classe : &lt;TSTI2D 1&gt; MATH\nSalle : S.101
- \n
+ \n\n<strong>Contenu pédagogique : \n</strong><div>Dérivation : règles de ca
+ lcul\, fonctions composées. Correction des exercices 14 à 18 p.203.</div>\n
+ \n<strong>Donné le 15/06/2026 : \n</strong><div>Finir les exercices 19 et 
+ 20 p.203 sur les dérivées. À rendre le 16/06/2026.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
- T J.<br/>Groupe : [T_MATH01]<br/>Partie de classe : &lt;TSTI2D 1&gt; MATH
- br/>Salle : S.101<br/>
+ T J.<br/>Groupe : [T_MATH01]<br/>Partie de classe : &lt;TSTI2D 1&gt; MATH<
+ br/>Salle : S.101<br/><br/><strong>Contenu pédagogique : <br/></strong><div
+ >Dérivation : règles de calcul, fonctions composées. Correction des exercic
+ es 14 à 18 p.203.</div><br/><strong>Donné le 15/06/2026 : <br/></strong><d
+ iv>Finir les exercices 19 et 20 p.203 sur les dérivées. À rendre le 16/06/
+ 2026.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260615T081231Z
@@ -40,11 +45,19 @@ SUMMARY;LANGUAGE=fr:PHYSIQUE-CHIMIE - MARTIN L. - [T_PC02] - <TSTI2D 1> PC
 LOCATION;LANGUAGE=fr:S.204
 DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
  Groupe : [T_PC02]\nPartie de classe : &lt;TSTI2D 1&gt; PC\nSalle : S.204\n
+ \n<strong>Contenu pédagogique : \n</strong><div>Chapitre 8 : Travail des fo
+ rces et théorème de l'énergie cinétique. Rappels et exercices d'application
+ .</div>\n\n<strong>Donné le 15/06/2026 : \n</strong><div>Revoir la démonstr
+ ation du théorème de l'énergie cinétique (p.187). Contrôle chapitres 8 et 9
+  le 15/06/2026 à 14h.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
  TIN L.<br/>Groupe : [T_PC02]<br/>Partie de classe : &lt;TSTI2D 1&gt; PC<br
- />Salle : S.204<br/>
+ />Salle : S.204<br/><br/><strong>Contenu pédagogique : <br/></strong><div>C
+ hapitre 8 : Travail des forces et théorème de l'énergie cinétique. Rappels 
+ et exercices d'application.</div><br/><strong>Donné le 15/06/2026 : <br/><
+ /strong><div>Revoir la démonstration du théorème de l'énergie cinétique (p.
+ 187). Contrôle chapitres 8 et 9 le 15/06/2026 à 14h.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260615T081231Z
@@ -55,17 +68,16 @@ DTEND:20260615T145500Z
 SUMMARY;LANGUAGE=fr:Contrôle PHYSIQUE-CHIMIE - MARTIN L. - Chapitres 8 et 9
 LOCATION;LANGUAGE=fr:S.204
 DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
- Type : Contrôle\nSujet : Chapitre 8 (le travail des forces\, le théorème d
- e l'énergie cinétique et la conservation de l'énergie mécanique) et Chapit
- re 9 (demi-équation électronique et équation bilan d'oxydoréduction)\nSall
- e : S.204\n
+ Type : Contrôle\nSujet : Chapitre 8 (le travail des forces\, le théorème de
+  l'énergie cinétique et la conservation de l'énergie mécanique) et Chapitr
+ e 9 (demi-équation électronique et équation bilan d'oxydoréduction)\nSalle 
+ : S.204\n
 X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
- TIN L.<br/>Type : Contrôle<br/>Sujet : Chapitre 8 (le travail des forces, 
- le théorème de l'énergie cinétique et la conservation de l'énergie mécaniqu
- e) et Chapitre 9 (demi-équation électronique et équation bilan d'oxydorédu
- ction)<br/>Salle : S.204<br/>
+ TIN L.<br/>Type : Contrôle<br/>Sujet : Chapitre 8 (le travail des forces, l
+ e théorème de l'énergie cinétique et la conservation de l'énergie mécanique
+ ) et Chapitre 9 (demi-équation électronique et équation bilan d'oxydoréduct
+ ion)<br/>Salle : S.204<br/>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260615T081231Z
@@ -80,22 +92,6 @@ DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nTy
 X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
  T J.<br/>Type : Devoir surveillé<br/>Salle : S.101<br/>
 END:VEVENT
-
-BEGIN:VEVENT
-CATEGORIES:Cours - Sortie pédagogique
-DTSTAMP:20260616T081231Z
-LAST-MODIFIED:20260615T120000Z
-UID:Cours-50875-1-20260616T091231Z-Index-Education
-DTSTART:20260616T090000Z
-DTEND:20260616T115500Z
-SUMMARY;LANGUAGE=fr:Sortie pédagogique - Musée des Sciences
-LOCATION;LANGUAGE=fr:Extérieur
-DESCRIPTION;LANGUAGE=fr:Type : Sortie pédagogique\nLieu : Musée des Science
- s\n
-X-ALT-DESC;FMTTYPE=text/html:Type : Sortie pédagogique<br/>Lieu : Musée des
-  Sciences<br/>
-END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260616T081231Z
@@ -108,12 +104,19 @@ SUMMARY;LANGUAGE=fr:HISTOIRE-GÉOGRAPHIE - DURAND M. - [T_HG03] - <TSTI2D 1
 LOCATION;LANGUAGE=fr:S.301
 DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
  M.\nGroupe : [T_HG03]\nPartie de classe : &lt;TSTI2D 1&gt; HG\nSalle : S.3
- 01\n
+ 01\n\n<strong>Contenu pédagogique : \n</strong><div>La colonisation europea
+ ine au XIXe siècle : causes\, acteurs\, territoires. Étude de documents car
+ tographiques.</div>\n\n<strong>Donné le 16/06/2026 : \n</strong><div>Appren
+ dre les dates clés de la colonisation (fiche distribuée). Interrogation écr
+ ite le 20/06/2026.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
   DURAND M.<br/>Groupe : [T_HG03]<br/>Partie de classe : &lt;TSTI2D 1&gt; H
- G<br/>Salle : S.301<br/>
+ G<br/>Salle : S.301<br/><br/><strong>Contenu pédagogique : <br/></strong><d
+ iv>La colonisation europeaine au XIXe siècle : causes, acteurs, territoires.
+  Étude de documents cartographiques.</div><br/><strong>Donné le 16/06/2026 
+ : <br/></strong><div>Apprendre les dates clés de la colonisation (fiche dis
+ tribuée). Interrogation écrite le 20/06/2026.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260616T081231Z
@@ -124,12 +127,43 @@ DTEND:20260616T105500Z
 SUMMARY;LANGUAGE=fr:ESPAGNOL - GARCIA S. - [T_ESP01] - <TSTI2D 1> ESP
 LOCATION;LANGUAGE=fr:S.102
 DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL\nProfesseur : GARCIA S.\nGroupe 
- : [T_ESP01]\nPartie de classe : &lt;TSTI2D 1&gt; ESP\nSalle : S.102\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.
+ : [T_ESP01]\nPartie de classe : &lt;TSTI2D 1&gt; ESP\nSalle : S.102\n\n<st
+ rong>Contenu pédagogique : \n</strong><div>Valencia : monuments\, gastrono
+ mie\, traditions. Travail sur le vocabulaire thématique et expressions oral
+ es.</div>\n\n<strong>Donné le 16/06/2026 : \n</strong><div>Réviser le vocab
+ ulaire de Valencia (liste de mots p.54) et les structures grammaticales du 
+ passé composé. Contrôle le 16/06/2026 à 14h.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.<
  br/>Groupe : [T_ESP01]<br/>Partie de classe : &lt;TSTI2D 1&gt; ESP<br/>Sal
- le : S.102<br/>
+ le : S.102<br/><br/><strong>Contenu pédagogique : <br/></strong><div>Valenc
+ ia : monuments, gastronomie, traditions. Travail sur le vocabulaire thémati
+ que et expressions orales.</div><br/><strong>Donné le 16/06/2026 : <br/></s
+ trong><div>Réviser le vocabulaire de Valencia (liste de mots p.54) et les s
+ tructures grammaticales du passé composé. Contrôle le 16/06/2026 à 14h.</d
+ iv>
 END:VEVENT
-
+BEGIN:VEVENT
+CATEGORIES:Cours - Sortie pédagogique
+DTSTAMP:20260616T081231Z
+LAST-MODIFIED:20260615T120000Z
+UID:Cours-50875-1-20260616T091231Z-Index-Education
+DTSTART:20260616T090000Z
+DTEND:20260616T115500Z
+SUMMARY;LANGUAGE=fr:Sortie pédagogique - Musée des Sciences
+LOCATION;LANGUAGE=fr:Extérieur
+DESCRIPTION;LANGUAGE=fr:Type : Sortie pédagogique\nLieu : Musée des Science
+ s\n\n<strong>Contenu pédagogique : \n</strong><div>Visite de l'exposition p
+ ermanente sur les énergies renouvelables et l'électricité. Compte-rendu de 
+ visite à rédiger.</div>\n\n<strong>Donné le 16/06/2026 : \n</strong><div>R
+ édiger un compte-rendu de visite (1 page min) en lien avec le cours sur l'é
+ nergie. À rendre le 19/06/2026.</div>
+X-ALT-DESC;FMTTYPE=text/html:Type : Sortie pédagogique<br/>Lieu : Musée des
+  Sciences<br/><br/><strong>Contenu pédagogique : <br/></strong><div>Visite 
+ de l'exposition permanente sur les énergies renouvelables et l'électricité. 
+ Compte-rendu de visite à rédiger.</div><br/><strong>Donné le 16/06/2026 : <
+ br/></strong><div>Rédiger un compte-rendu de visite (1 page min) en lien av
+ ec le cours sur l'énergie. À rendre le 19/06/2026.</div>
+END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260616T081231Z
@@ -143,12 +177,11 @@ LOCATION;LANGUAGE=fr:S.102
 DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL\nProfesseur : GARCIA S.\nType : 
  Contrôle de connaissances\nSujet : Lieux emblématiques\, caractéristiques\,
   activités\, monuments Valencia/éléments de gastronomie\nSalle : S.102\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.
+X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.<
  br/>Type : Contrôle de connaissances<br/>Sujet : Lieux emblématiques, carac
  téristiques, activités, monuments Valencia/éléments de gastronomie<br/>Sall
  e : S.102<br/>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260616T081231Z
@@ -165,7 +198,6 @@ X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
   DURAND M.<br/>Type : Préparation évaluation<br/>Sujet : La colonisation et
   la première guerre mondiale<br/>Salle : S.301<br/>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours - Prof. absent
 DTSTAMP:20260617T081231Z
@@ -180,7 +212,6 @@ DESCRIPTION;LANGUAGE=fr:Prof. absent\nMatière : ANGLAIS\nProfesseur : SMITH
 X-ALT-DESC;FMTTYPE=text/html:Prof. absent<br/>Matière : ANGLAIS<br/>Profess
  eur : SMITH A.<br/>Salle : S.003<br/>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260617T081231Z
@@ -192,12 +223,20 @@ SUMMARY;LANGUAGE=fr:INFORMATIQUE - MOREAU T. - [T_INFO01] - <TSTI2D 1> INFO
 LOCATION;LANGUAGE=fr:Salle Info 1
 DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE\nProfesseur : MOREAU T.\nGro
  upe : [T_INFO01]\nPartie de classe : &lt;TSTI2D 1&gt; INFO\nSalle : Salle I
- nfo 1\n
+ nfo 1\n\n<strong>Contenu pédagogique : \n</strong><div>Algorithmes de tri :
+  tri à bulles\, tri par insertion\, tri rapide. Comparaison des complexités.
+ </div>\n\n<strong>Donné le 17/06/2026 : \n</strong><div>Implémenter le tri 
+ fusion en Python et tester avec un tableau de 1000 éléments. TP noté le 17/
+ 06/2026 à 14h — algorithme de tri à rendre.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE<br/>Professeur : MOREAU
   T.<br/>Groupe : [T_INFO01]<br/>Partie de classe : &lt;TSTI2D 1&gt; INFO<b
- r/>Salle : Salle Info 1<br/>
+ r/>Salle : Salle Info 1<br/><br/><strong>Contenu pédagogique : <br/></stron
+ g><div>Algorithmes de tri : tri à bulles, tri par insertion, tri rapide. Com
+ paraison des complexités.</div><br/><strong>Donné le 17/06/2026 : <br/></st
+ rong><div>Implémenter le tri fusion en Python et tester avec un tableau de 1
+ 000 éléments. TP noté le 17/06/2026 à 14h — algorithme de tri à rendre.</d
+ iv>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260617T081231Z
@@ -208,12 +247,20 @@ DTEND:20260617T105500Z
 SUMMARY;LANGUAGE=fr:ANGLAIS - SMITH A. - [T_ANG01] - <TSTI2D 1> ANG
 LOCATION;LANGUAGE=fr:S.003
 DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nGroupe : 
- [T_ANG01]\nPartie de classe : &lt;TSTI2D 1&gt; ANG\nSalle : S.003\n
+ [T_ANG01]\nPartie de classe : &lt;TSTI2D 1&gt; ANG\nSalle : S.003\n\n<stro
+ ng>Contenu pédagogique : \n</strong><div>Technology and society : reading c
+ omprehension on AI ethics. Debate vocabulary and connectors.</div>\n\n<stro
+ ng>Donné le 17/06/2026 : \n</strong><div>Rédiger un essay de 250 mots mini
+ mum sur "Is artificial intelligence a threat to humanity?". À rendre le 21/
+ 06/2026. DS le 17/06/2026 à 16h.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
  />Groupe : [T_ANG01]<br/>Partie de classe : &lt;TSTI2D 1&gt; ANG<br/>Salle
-  : S.003<br/>
+  : S.003<br/><br/><strong>Contenu pédagogique : <br/></strong><div>Technolo
+ gy and society : reading comprehension on AI ethics. Debate vocabulary and c
+ onnectors.</div><br/><strong>Donné le 17/06/2026 : <br/></strong><div>Rédiger
+  un essay de 250 mots minimum sur "Is artificial intelligence a threat to hu
+ manity?". À rendre le 21/06/2026. DS le 17/06/2026 à 16h.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260617T081231Z
@@ -221,16 +268,17 @@ LAST-MODIFIED:20260616T120000Z
 UID:Cours-65453-1-20260617T091231Z-Index-Education
 DTSTART:20260617T140000Z
 DTEND:20260617T145500Z
-SUMMARY;LANGUAGE=fr:TP INFORMATIQUE - MOREAU T.
+SUMMARY;LANGUAGE=fr:TP INFORMATIQUE - MOREAU T. - Algorithme de tri
 LOCATION;LANGUAGE=fr:Salle Info 1
 DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE\nProfesseur : MOREAU T.\nTyp
- e : Travaux Pratiques\nSalle : Salle Info 1\n\nÀ rendre le 18/06/2026 : Al
- gorithme de tri.
+ e : Travaux Pratiques\nSalle : Salle Info 1\n\n<strong>À rendre le 18/06/2
+ 026 : \n</strong><div>Algorithme de tri (implémentation tri fusion en Python
+ \, complexité commentée).</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE<br/>Professeur : MOREAU
-  T.<br/>Type : Travaux Pratiques<br/>Salle : Salle Info 1<br/><br/>À rendr
- e le 18/06/2026 : Algorithme de tri.
+  T.<br/>Type : Travaux Pratiques<br/>Salle : Salle Info 1<br/><br/><strong>
+ À rendre le 18/06/2026 : <br/></strong><div>Algorithme de tri (implémentat
+ ion tri fusion en Python, complexité commentée).</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260617T081231Z
@@ -245,7 +293,6 @@ DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nType : De
 X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
  />Type : Devoir surveillé<br/>Salle : S.003<br/>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260618T081231Z
@@ -257,11 +304,20 @@ SUMMARY;LANGUAGE=fr:PHILOSOPHIE - VATTIER V. - [T_PHIL01] - <TSTI2D 1> PHIL
 LOCATION;LANGUAGE=fr:D.151
 DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nGro
  upe : [T_PHIL01]\nPartie de classe : &lt;TSTI2D 1&gt; PHIL\nSalle : D.151\n
+ \n<strong>Contenu pédagogique : \n</strong><div>La liberté : déterminisme e
+ t libre arbitre. Sartre\, Spinoza\, Kant — confrontation des thèses.</div>\n
+ \n<strong>Donné le 18/06/2026 : \n</strong><div>Rédiger une dissertation co
+ mplète sur "La liberté est-elle une illusion ?" (plan détaillé + intro + co
+ nclusion minimum). À rendre le 19/06/2026. DM noté.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
   V.<br/>Groupe : [T_PHIL01]<br/>Partie de classe : &lt;TSTI2D 1&gt; PHIL<b
- r/>Salle : D.151<br/>
+ r/>Salle : D.151<br/><br/><strong>Contenu pédagogique : <br/></strong><div>
+ La liberté : déterminisme et libre arbitre. Sartre, Spinoza, Kant — confron
+ tation des thèses.</div><br/><strong>Donné le 18/06/2026 : <br/></strong><d
+ iv>Rédiger une dissertation complète sur "La liberté est-elle une illusion ?
+ " (plan détaillé + intro + conclusion minimum). À rendre le 19/06/2026. DM 
+ noté.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260618T081231Z
@@ -272,12 +328,20 @@ DTEND:20260618T105500Z
 SUMMARY;LANGUAGE=fr:SVT - LEROY C. - [T_SVT01] - <TSTI2D 1> SVT
 LOCATION;LANGUAGE=fr:S.105
 DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nGroupe : [T_S
- VT01]\nPartie de classe : &lt;TSTI2D 1&gt; SVT\nSalle : S.105\n
+ VT01]\nPartie de classe : &lt;TSTI2D 1&gt; SVT\nSalle : S.105\n\n<strong>C
+ ontenu pédagogique : \n</strong><div>Génétique et hérédité : lois de Mendel
+ \, arbre généalogique\, maladies récessives/dominantes.</div>\n\n<strong>Do
+ nné le 18/06/2026 : \n</strong><div>Faire l'exercice 3 p.214 (analyse d'un
+  arbre généalogique). DS SVT le 18/06/2026 à 16h — revoir chapitres 6 et 7.
+ </div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Gr
  oupe : [T_SVT01]<br/>Partie de classe : &lt;TSTI2D 1&gt; SVT<br/>Salle : S
- .105<br/>
+ .105<br/><br/><strong>Contenu pédagogique : <br/></strong><div>Génétique et 
+ hérédité : lois de Mendel, arbre généalogique, maladies récessives/dominant
+ es.</div><br/><strong>Donné le 18/06/2026 : <br/></strong><div>Faire l'exer
+ cice 3 p.214 (analyse d'un arbre généalogique). DS SVT le 18/06/2026 à 16h 
+ — revoir chapitres 6 et 7.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260618T081231Z
@@ -285,16 +349,19 @@ LAST-MODIFIED:20260617T120000Z
 UID:Cours-50434-2-20260618T091231Z-Index-Education
 DTSTART:20260618T140000Z
 DTEND:20260618T145500Z
-SUMMARY;LANGUAGE=fr:DM PHILOSOPHIE - VATTIER V.
+SUMMARY;LANGUAGE=fr:DM PHILOSOPHIE - VATTIER V. - Dissertation sur la libert
+ é
 LOCATION;LANGUAGE=fr:D.151
 DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nTyp
- e : Devoir à la maison\nSalle : D.151\n\nÀ rendre le 19/06/2026 : Disserta
- tion sur la liberté.
+ e : Devoir à la maison\nSalle : D.151\n\n<strong>À rendre le 19/06/2026 : 
+ \n</strong><div>Dissertation sur la liberté : "La liberté est-elle une illu
+ sion ?" (plan complet\, introduction et conclusion rédigées).</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
-  V.<br/>Type : Devoir à la maison<br/>Salle : D.151<br/><br/>À rendre le 1
- 9/06/2026 : Dissertation sur la liberté.
+  V.<br/>Type : Devoir à la maison<br/>Salle : D.151<br/><br/><strong>À rend
+ re le 19/06/2026 : <br/></strong><div>Dissertation sur la liberté : "La lib
+ erté est-elle une illusion ?" (plan complet, introduction et conclusion rédi
+ gées).</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260618T081231Z
@@ -302,14 +369,15 @@ LAST-MODIFIED:20260617T120000Z
 UID:Cours-50848-2-20260618T091231Z-Index-Education
 DTSTART:20260618T160000Z
 DTEND:20260618T165500Z
-SUMMARY;LANGUAGE=fr:DS SVT - LEROY C.
+SUMMARY;LANGUAGE=fr:DS SVT - LEROY C. - Génétique et hérédité
 LOCATION;LANGUAGE=fr:S.105
 DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nType : Devoir
-  surveillé\nSalle : S.105\n
+  surveillé\nSujet : Chapitres 6 (génétique) et 7 (hérédité et maladies géné
+ tiques)\nSalle : S.105\n
 X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Ty
- pe : Devoir surveillé<br/>Salle : S.105<br/>
+ pe : Devoir surveillé<br/>Sujet : Chapitres 6 (génétique) et 7 (hérédité et
+  maladies génétiques)<br/>Salle : S.105<br/>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours - Cours annulé
 DTSTAMP:20260619T081231Z
@@ -324,7 +392,6 @@ DESCRIPTION;LANGUAGE=fr:Cours annulé\nMatière : PHYSIQUE-CHIMIE\nProfesseur
 X-ALT-DESC;FMTTYPE=text/html:Cours annulé<br/>Matière : PHYSIQUE-CHIMIE<br/
  >Professeur : MARTIN L.<br/>Salle : S.204<br/>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260619T081231Z
@@ -337,12 +404,17 @@ SUMMARY;LANGUAGE=fr:MATHÉMATIQUES - DUPONT J. - [T_MATH01] - <TSTI2D 1> MA
 LOCATION;LANGUAGE=fr:S.101
 DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nGr
  oupe : [T_MATH01]\nPartie de classe : &lt;TSTI2D 1&gt; MATH\nSalle : S.101
- \n
+ \n\n<strong>Contenu pédagogique : \n</strong><div>Probabilités : loi binomi
+ ale\, espérance\, variance. Exercices types BAC.</div>\n\n<strong>Donné le 
+ 19/06/2026 : \n</strong><div>Faire les exercices 7 à 10 p.298 sur la loi bi
+ nomiale. Bac Blanc maths le 19/06/2026 à 16h.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
- T J.<br/>Groupe : [T_MATH01]<br/>Partie de classe : &lt;TSTI2D 1&gt; MATH
- br/>Salle : S.101<br/>
+ T J.<br/>Groupe : [T_MATH01]<br/>Partie de classe : &lt;TSTI2D 1&gt; MATH<
+ br/>Salle : S.101<br/><br/><strong>Contenu pédagogique : <br/></strong><div>
+ Probabilités : loi binomiale, espérance, variance. Exercices types BAC.</div
+ ><br/><strong>Donné le 19/06/2026 : <br/></strong><div>Faire les exercices 7
+  à 10 p.298 sur la loi binomiale. Bac Blanc maths le 19/06/2026 à 16h.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260619T081231Z
@@ -354,11 +426,19 @@ SUMMARY;LANGUAGE=fr:PHYSIQUE-CHIMIE - MARTIN L. - [T_PC02] - <TSTI2D 1> PC
 LOCATION;LANGUAGE=fr:S.204
 DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
  Groupe : [T_PC02]\nPartie de classe : &lt;TSTI2D 1&gt; PC\nSalle : S.204\n
+ \n<strong>Contenu pédagogique : \n</strong><div>Oxydoréduction : équilibrag
+ e de demi-équations électroniques et équations bilans. Exercices type BAC.
+ </div>\n\n<strong>Donné le 19/06/2026 : \n</strong><div>Résoudre le problèm
+ e p.201 sur les réactions chimiques (oxydoréduction). À rendre le 20/06/202
+ 6.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
  TIN L.<br/>Groupe : [T_PC02]<br/>Partie de classe : &lt;TSTI2D 1&gt; PC<br
- />Salle : S.204<br/>
+ />Salle : S.204<br/><br/><strong>Contenu pédagogique : <br/></strong><div>O
+ xydoréduction : équilibrage de demi-équations électroniques et équations bil
+ ans. Exercices type BAC.</div><br/><strong>Donné le 19/06/2026 : <br/></str
+ ong><div>Résoudre le problème p.201 sur les réactions chimiques (oxydoréduct
+ ion). À rendre le 20/06/2026.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260619T081231Z
@@ -366,16 +446,17 @@ LAST-MODIFIED:20260618T120000Z
 UID:Cours-51036-2-20260619T091231Z-Index-Education
 DTSTART:20260619T140000Z
 DTEND:20260619T145500Z
-SUMMARY;LANGUAGE=fr:Exercice PHYSIQUE-CHIMIE - MARTIN L.
+SUMMARY;LANGUAGE=fr:Exercice PHYSIQUE-CHIMIE - MARTIN L. - Oxydoréduction
 LOCATION;LANGUAGE=fr:S.204
 DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
- Type : Exercice\nSalle : S.204\n\nÀ rendre le 20/06/2026 : Problème sur le
- s réactions chimiques.
+ Type : Exercice\nSalle : S.204\n\n<strong>À rendre le 20/06/2026 : \n</str
+ ong><div>Problème sur les réactions d'oxydoréduction (p.201 du manuel).</di
+ v>
 X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
- TIN L.<br/>Type : Exercice<br/>Salle : S.204<br/><br/>À rendre le 20/06/20
- 26 : Problème sur les réactions chimiques.
+ TIN L.<br/>Type : Exercice<br/>Salle : S.204<br/><br/><strong>À rendre le 2
+ 0/06/2026 : <br/></strong><div>Problème sur les réactions d'oxydoréduction 
+ (p.201 du manuel).</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260619T081231Z
@@ -386,11 +467,12 @@ DTEND:20260619T165500Z
 SUMMARY;LANGUAGE=fr:Bac Blanc MATHÉMATIQUES - DUPONT J.
 LOCATION;LANGUAGE=fr:S.101
 DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nTy
- pe : Bac Blanc\nSalle : S.101\n
+ pe : Bac Blanc\nSujet : Probabilités\, suites\, dérivées et fonctions\nSall
+ e : S.101\n
 X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
- T J.<br/>Type : Bac Blanc<br/>Salle : S.101<br/>
+ T J.<br/>Type : Bac Blanc<br/>Sujet : Probabilités, suites, dérivées et fon
+ ctions<br/>Salle : S.101<br/>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours - Changement de salle
 DTSTAMP:20260620T081231Z
@@ -406,7 +488,6 @@ X-ALT-DESC;FMTTYPE=text/html:Changement de salle<br/>Matière : FRANÇAIS<br/
  >Professeur : LEFEVRE P.<br/>Ancienne salle : S.201<br/>Nouvelle salle : Am
  phi A<br/>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260620T081231Z
@@ -419,12 +500,19 @@ SUMMARY;LANGUAGE=fr:HISTOIRE-GÉOGRAPHIE - DURAND M. - [T_HG03] - <TSTI2D 1
 LOCATION;LANGUAGE=fr:S.301
 DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
  M.\nGroupe : [T_HG03]\nPartie de classe : &lt;TSTI2D 1&gt; HG\nSalle : S.3
- 01\n
+ 01\n\n<strong>Contenu pédagogique : \n</strong><div>La Première Guerre Mond
+ iale : causes\, alliances\, grandes batailles. Analyse de sources historique
+ s.</div>\n\n<strong>Donné le 20/06/2026 : \n</strong><div>Apprendre les cau
+ ses et conséquences de la WWI (fiche de révision). Interrogation écrite le 2
+ 0/06/2026 à 16h.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
   DURAND M.<br/>Groupe : [T_HG03]<br/>Partie de classe : &lt;TSTI2D 1&gt; H
- G<br/>Salle : S.301<br/>
+ G<br/>Salle : S.301<br/><br/><strong>Contenu pédagogique : <br/></strong><d
+ iv>La Première Guerre Mondiale : causes, alliances, grandes batailles. Analy
+ se de sources historiques.</div><br/><strong>Donné le 20/06/2026 : <br/></s
+ trong><div>Apprendre les causes et conséquences de la WWI (fiche de révision
+ ). Interrogation écrite le 20/06/2026 à 16h.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260620T081231Z
@@ -433,14 +521,22 @@ UID:Cours-65453-2-20260620T091231Z-Index-Education
 DTSTART:20260620T100000Z
 DTEND:20260620T105500Z
 SUMMARY;LANGUAGE=fr:FRANÇAIS - LEFEVRE P. - [T_FR01] - <TSTI2D 1> FR
-LOCATION;LANGUAGE=fr:S.201
+LOCATION;LANGUAGE=fr:Amphi A
 DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS\nProfesseur : LEFEVRE P.\nGroupe
-  : [T_FR01]\nPartie de classe : &lt;TSTI2D 1&gt; FR\nSalle : S.201\n
+  : [T_FR01]\nPartie de classe : &lt;TSTI2D 1&gt; FR\nSalle : Amphi A\n\n<s
+ trong>Contenu pédagogique : \n</strong><div>Victor Hugo : étude d'un extrai
+ t des Misérables. Méthodologie du commentaire composé.</div>\n\n<strong>Don
+ né le 20/06/2026 : \n</strong><div>Rédiger le commentaire composé de l'extr
+ ait de Hugo étudié en classe (Cosette\, tome I). À rendre le 21/06/2026.</d
+ iv>
 X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.
  <br/>Groupe : [T_FR01]<br/>Partie de classe : &lt;TSTI2D 1&gt; FR<br/>Sall
- e : S.201<br/>
+ e : Amphi A<br/><br/><strong>Contenu pédagogique : <br/></strong><div>Victo
+ r Hugo : étude d'un extrait des Misérables. Méthodologie du commentaire com
+ posé.</div><br/><strong>Donné le 20/06/2026 : <br/></strong><div>Rédiger le
+  commentaire composé de l'extrait de Hugo étudié en classe (Cosette, tome I)
+ . À rendre le 21/06/2026.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260620T081231Z
@@ -448,16 +544,17 @@ LAST-MODIFIED:20260619T120000Z
 UID:Cours-65462-2-20260620T091231Z-Index-Education
 DTSTART:20260620T140000Z
 DTEND:20260620T145500Z
-SUMMARY;LANGUAGE=fr:DM FRANÇAIS - LEFEVRE P.
+SUMMARY;LANGUAGE=fr:DM FRANÇAIS - LEFEVRE P. - Commentaire composé Hugo
 LOCATION;LANGUAGE=fr:S.201
 DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS\nProfesseur : LEFEVRE P.\nType :
-  Devoir à la maison\nSalle : S.201\n\nÀ rendre le 21/06/2026 : Commentaire
-  composé sur un extrait littéraire.
+  Devoir à la maison\nSalle : S.201\n\n<strong>À rendre le 21/06/2026 : \n<
+ /strong><div>Commentaire composé sur l'extrait des Misérables de Victor Hugo
+  (Cosette\, tome I\, chapitre 4).</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.
- <br/>Type : Devoir à la maison<br/>Salle : S.201<br/><br/>À rendre le 21/0
- 6/2026 : Commentaire composé sur un extrait littéraire.
+ <br/>Type : Devoir à la maison<br/>Salle : S.201<br/><br/><strong>À rendre 
+ le 21/06/2026 : <br/></strong><div>Commentaire composé sur l'extrait des Mi
+ sérables de Victor Hugo (Cosette, tome I, chapitre 4).</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260620T081231Z
@@ -468,11 +565,12 @@ DTEND:20260620T165500Z
 SUMMARY;LANGUAGE=fr:Interrogation Écrite HISTOIRE-GÉOGRAPHIE - DURAND M.
 LOCATION;LANGUAGE=fr:S.301
 DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
- M.\nType : Interrogation écrite\nSalle : S.301\n
+ M.\nType : Interrogation écrite\nSujet : La colonisation et la Première Gue
+ rre Mondiale\nSalle : S.301\n
 X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
-  DURAND M.<br/>Type : Interrogation écrite<br/>Salle : S.301<br/>
+  DURAND M.<br/>Type : Interrogation écrite<br/>Sujet : La colonisation et l
+ a Première Guerre Mondiale<br/>Salle : S.301<br/>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours - Exceptionnel
 DTSTAMP:20260623T081231Z
@@ -483,11 +581,14 @@ DTEND:20260623T145500Z
 SUMMARY;LANGUAGE=fr:Cours exceptionnel - Conférence sur l'IA
 LOCATION;LANGUAGE=fr:Amphi B
 DESCRIPTION;LANGUAGE=fr:Type : Cours exceptionnel\nSujet : Conférence sur l
- 'intelligence artificielle\n
+ 'intelligence artificielle\n\n<strong>Donné le 23/06/2026 : \n</strong><di
+ v>Rédiger une synthèse d'une page sur les enjeux éthiques de l'IA abordés e
+ n conférence. À rendre le 25/06/2026.</div>
 X-ALT-DESC;FMTTYPE=text/html:Type : Cours exceptionnel<br/>Sujet : Conféren
- ce sur l'intelligence artificielle<br/>
+ ce sur l'intelligence artificielle<br/><br/><strong>Donné le 23/06/2026 : <
+ br/></strong><div>Rédiger une synthèse d'une page sur les enjeux éthiques de
+  l'IA abordés en conférence. À rendre le 25/06/2026.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260623T081231Z
@@ -499,12 +600,22 @@ SUMMARY;LANGUAGE=fr:INFORMATIQUE - MOREAU T. - [T_INFO01] - <TSTI2D 1> INFO
 LOCATION;LANGUAGE=fr:Salle Info 1
 DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE\nProfesseur : MOREAU T.\nGro
  upe : [T_INFO01]\nPartie de classe : &lt;TSTI2D 1&gt; INFO\nSalle : Salle I
- nfo 1\n
+ nfo 1\n\n<strong>Contenu pédagogique : \n</strong><div>Bases de données rel
+ ationnelles : modèle entité-association\, langage SQL (SELECT\, JOIN\, WHER
+ E). Création d'une base bibliothèque.</div>\n\n<strong>Donné le 23/06/2026 
+ : \n</strong><div>Finir le schéma entité-association de la base bibliothèque
+  et écrire les requêtes SQL demandées (feuille distribuée). TP noté le 23/0
+ 6/2026 à 14h — projet base de données à rendre.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE<br/>Professeur : MOREAU
   T.<br/>Groupe : [T_INFO01]<br/>Partie de classe : &lt;TSTI2D 1&gt; INFO<b
- r/>Salle : Salle Info 1<br/>
+ r/>Salle : Salle Info 1<br/><br/><strong>Contenu pédagogique : <br/></stron
+ g><div>Bases de données relationnelles : modèle entité-association, langage 
+ SQL (SELECT, JOIN, WHERE). Création d'une base bibliothèque.</div><br/><str
+ ong>Donné le 23/06/2026 : <br/></strong><div>Finir le schéma entité-associa
+ tion de la base bibliothèque et écrire les requêtes SQL demandées (feuille d
+ istribuée). TP noté le 23/06/2026 à 14h — projet base de données à rendre.<
+ /div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260623T081231Z
@@ -515,12 +626,20 @@ DTEND:20260623T105500Z
 SUMMARY;LANGUAGE=fr:ANGLAIS - SMITH A. - [T_ANG01] - <TSTI2D 1> ANG
 LOCATION;LANGUAGE=fr:S.003
 DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nGroupe : 
- [T_ANG01]\nPartie de classe : &lt;TSTI2D 1&gt; ANG\nSalle : S.003\n
+ [T_ANG01]\nPartie de classe : &lt;TSTI2D 1&gt; ANG\nSalle : S.003\n\n<stro
+ ng>Contenu pédagogique : \n</strong><div>Environment and sustainability : do
+ cumentary analysis on climate change. Writing a structured argument.</div>\n
+ \n<strong>Donné le 23/06/2026 : \n</strong><div>Préparer une présentation o
+ rale de 3 minutes sur "Solutions to climate change" pour le 25/06/2026. DS 
+ anglais le 23/06/2026 à 16h.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
  />Groupe : [T_ANG01]<br/>Partie de classe : &lt;TSTI2D 1&gt; ANG<br/>Salle
-  : S.003<br/>
+  : S.003<br/><br/><strong>Contenu pédagogique : <br/></strong><div>Environm
+ ent and sustainability : documentary analysis on climate change. Writing a s
+ tructured argument.</div><br/><strong>Donné le 23/06/2026 : <br/></strong><
+ div>Préparer une présentation orale de 3 minutes sur "Solutions to climate c
+ hange" pour le 25/06/2026. DS anglais le 23/06/2026 à 16h.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260623T081231Z
@@ -528,16 +647,17 @@ LAST-MODIFIED:20260622T120000Z
 UID:Cours-50826-22-20260623T091231Z-Index-Education
 DTSTART:20260623T140000Z
 DTEND:20260623T145500Z
-SUMMARY;LANGUAGE=fr:TP INFORMATIQUE - MOREAU T.
+SUMMARY;LANGUAGE=fr:TP INFORMATIQUE - MOREAU T. - Projet base de données
 LOCATION;LANGUAGE=fr:Salle Info 1
 DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE\nProfesseur : MOREAU T.\nTyp
- e : Travaux Pratiques\nSalle : Salle Info 1\n\nÀ rendre le 24/06/2026 : Pr
- ojet base de données.
+ e : Travaux Pratiques\nSalle : Salle Info 1\n\n<strong>À rendre le 24/06/2
+ 026 : \n</strong><div>Projet base de données bibliothèque : schéma EA\, scr
+ ipt SQL de création\, 5 requêtes SELECT commentées.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE<br/>Professeur : MOREAU
-  T.<br/>Type : Travaux Pratiques<br/>Salle : Salle Info 1<br/><br/>À rendr
- e le 24/06/2026 : Projet base de données.
+  T.<br/>Type : Travaux Pratiques<br/>Salle : Salle Info 1<br/><br/><strong>
+ À rendre le 24/06/2026 : <br/></strong><div>Projet base de données bibliothè
+ que : schéma EA, script SQL de création, 5 requêtes SELECT commentées.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260623T081231Z
@@ -545,14 +665,15 @@ LAST-MODIFIED:20260622T120000Z
 UID:Cours-50875-22-20260623T091231Z-Index-Education
 DTSTART:20260623T160000Z
 DTEND:20260623T165500Z
-SUMMARY;LANGUAGE=fr:DS ANGLAIS - SMITH A.
+SUMMARY;LANGUAGE=fr:DS ANGLAIS - SMITH A. - Environnement et société
 LOCATION;LANGUAGE=fr:S.003
 DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nType : De
- voir surveillé\nSalle : S.003\n
+ voir surveillé\nSujet : Environnement\, changement climatique\, vocabulaire 
+ thématique\nSalle : S.003\n
 X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
- />Type : Devoir surveillé<br/>Salle : S.003<br/>
+ />Type : Devoir surveillé<br/>Sujet : Environnement, changement climatique, 
+ vocabulaire thématique<br/>Salle : S.003<br/>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260624T081231Z
@@ -564,11 +685,21 @@ SUMMARY;LANGUAGE=fr:PHILOSOPHIE - VATTIER V. - [T_PHIL01] - <TSTI2D 1> PHIL
 LOCATION;LANGUAGE=fr:D.151
 DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nGro
  upe : [T_PHIL01]\nPartie de classe : &lt;TSTI2D 1&gt; PHIL\nSalle : D.151\n
+ \n<strong>Contenu pédagogique : \n</strong><div>La morale : éthiques déonto
+ logique (Kant) et conséquentialiste (Mill). Notion de devoir et de bonheur.
+ </div>\n\n<strong>Donné le 24/06/2026 : \n</strong><div>Rédiger une dissert
+ ation "La morale est-elle une contrainte ou une libération ?" (introduction 
+ + plan détaillé + conclusion). À rendre le 26/06/2026. DS philo le 24/06/20
+ 26 à 16h.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
   V.<br/>Groupe : [T_PHIL01]<br/>Partie de classe : &lt;TSTI2D 1&gt; PHIL<b
- r/>Salle : D.151<br/>
+ r/>Salle : D.151<br/><br/><strong>Contenu pédagogique : <br/></strong><div>L
+ a morale : éthiques déontologique (Kant) et conséquentialiste (Mill). Notio
+ n de devoir et de bonheur.</div><br/><strong>Donné le 24/06/2026 : <br/></s
+ trong><div>Rédiger une dissertation "La morale est-elle une contrainte ou un
+ e libération ?" (introduction + plan détaillé + conclusion). À rendre le 26/
+ 06/2026. DS philo le 24/06/2026 à 16h.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260624T081231Z
@@ -579,12 +710,21 @@ DTEND:20260624T105500Z
 SUMMARY;LANGUAGE=fr:SVT - LEROY C. - [T_SVT01] - <TSTI2D 1> SVT
 LOCATION;LANGUAGE=fr:S.105
 DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nGroupe : [T_S
- VT01]\nPartie de classe : &lt;TSTI2D 1&gt; SVT\nSalle : S.105\n
+ VT01]\nPartie de classe : &lt;TSTI2D 1&gt; SVT\nSalle : S.105\n\n<strong>C
+ ontenu pédagogique : \n</strong><div>Écologie : structure d'un écosystème\,
+  chaînes alimentaires\, flux d'énergie\, notion de biodiversité.</div>\n\n<
+ strong>Donné le 24/06/2026 : \n</strong><div>Faire une étude complète de l'
+ écosystème de la forêt de Brocéliande (document fourni) : producteurs\, con
+ sommateurs\, décomposeurs\, impacts humains. À rendre le 25/06/2026.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Gr
  oupe : [T_SVT01]<br/>Partie de classe : &lt;TSTI2D 1&gt; SVT<br/>Salle : S
- .105<br/>
+ .105<br/><br/><strong>Contenu pédagogique : <br/></strong><div>Écologie : st
+ ructure d'un écosystème, chaînes alimentaires, flux d'énergie, notion de bi
+ odiversité.</div><br/><strong>Donné le 24/06/2026 : <br/></strong><div>Faire
+  une étude complète de l'écosystème de la forêt de Brocéliande (document fo
+ urni) : producteurs, consommateurs, décomposeurs, impacts humains. À rendre 
+ le 25/06/2026.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260624T081231Z
@@ -592,16 +732,19 @@ LAST-MODIFIED:20260623T120000Z
 UID:Cours-62239-3-20260624T091231Z-Index-Education
 DTSTART:20260624T140000Z
 DTEND:20260624T145500Z
-SUMMARY;LANGUAGE=fr:DM SVT - LEROY C.
+SUMMARY;LANGUAGE=fr:DM SVT - LEROY C. - Étude d'un écosystème
 LOCATION;LANGUAGE=fr:S.105
 DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nType : Devoir
-  à la maison\nSalle : S.105\n\nÀ rendre le 25/06/2026 : Étude d'un écosys
- tème.
+  à la maison\nSalle : S.105\n\n<strong>À rendre le 25/06/2026 : \n</strong
+ ><div>Étude de l'écosystème forêt de Brocéliande : producteurs\, consommate
+ urs\, décomposeurs\, schéma de la chaîne alimentaire et impacts humains.</di
+ v>
 X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Ty
- pe : Devoir à la maison<br/>Salle : S.105<br/><br/>À rendre le 25/06/2026 
- : Étude d'un écosystème.
+ pe : Devoir à la maison<br/>Salle : S.105<br/><br/><strong>À rendre le 25/0
+ 6/2026 : <br/></strong><div>Étude de l'écosystème forêt de Brocéliande : pr
+ oducteurs, consommateurs, décomposeurs, schéma de la chaîne alimentaire et i
+ mpacts humains.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260624T081231Z
@@ -609,14 +752,15 @@ LAST-MODIFIED:20260623T120000Z
 UID:Cours-62524-21-20260624T091231Z-Index-Education
 DTSTART:20260624T160000Z
 DTEND:20260624T165500Z
-SUMMARY;LANGUAGE=fr:DS PHILOSOPHIE - VATTIER V.
+SUMMARY;LANGUAGE=fr:DS PHILOSOPHIE - VATTIER V. - Morale et liberté
 LOCATION;LANGUAGE=fr:D.151
 DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nTyp
- e : Devoir surveillé\nSalle : D.151\n
+ e : Devoir surveillé\nSujet : La morale (Kant\, Mill) et la liberté (Sartre
+ )\nSalle : D.151\n
 X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
-  V.<br/>Type : Devoir surveillé<br/>Salle : D.151<br/>
+  V.<br/>Type : Devoir surveillé<br/>Sujet : La morale (Kant, Mill) et la li
+ berté (Sartre)<br/>Salle : D.151<br/>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260625T081231Z
@@ -629,12 +773,20 @@ SUMMARY;LANGUAGE=fr:MATHÉMATIQUES - DUPONT J. - [T_MATH01] - <TSTI2D 1> MA
 LOCATION;LANGUAGE=fr:S.101
 DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nGr
  oupe : [T_MATH01]\nPartie de classe : &lt;TSTI2D 1&gt; MATH\nSalle : S.101
- \n
+ \n\n<strong>Contenu pédagogique : \n</strong><div>Suites numériques : suites
+  arithmétiques\, géométriques\, raisonnement par récurrence.</div>\n\n<stro
+ ng>Donné le 25/06/2026 : \n</strong><div>Exercices sur les probabilités con
+ ditionnelles et arbres de probabilité (feuille d'exercices). À rendre le 26/
+ 06/2026. Bac Blanc maths le 25/06/2026 à 16h.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
- T J.<br/>Groupe : [T_MATH01]<br/>Partie de classe : &lt;TSTI2D 1&gt; MATH
- br/>Salle : S.101<br/>
+ T J.<br/>Groupe : [T_MATH01]<br/>Partie de classe : &lt;TSTI2D 1&gt; MATH<
+ br/>Salle : S.101<br/><br/><strong>Contenu pédagogique : <br/></strong><div>
+ Suites numériques : suites arithmétiques, géométriques, raisonnement par réc
+ urrence.</div><br/><strong>Donné le 25/06/2026 : <br/></strong><div>Exercice
+ s sur les probabilités conditionnelles et arbres de probabilité (feuille d'e
+ xercices). À rendre le 26/06/2026. Bac Blanc maths le 25/06/2026 à 16h.</d
+ iv>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260625T081231Z
@@ -646,11 +798,18 @@ SUMMARY;LANGUAGE=fr:PHYSIQUE-CHIMIE - MARTIN L. - [T_PC02] - <TSTI2D 1> PC
 LOCATION;LANGUAGE=fr:S.204
 DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
  Groupe : [T_PC02]\nPartie de classe : &lt;TSTI2D 1&gt; PC\nSalle : S.204\n
+ \n<strong>Contenu pédagogique : \n</strong><div>Électricité : loi d'Ohm\, c
+ ircuits en série et en parallèle\, puissance et énergie électrique.</div>\n
+ \n<strong>Donné le 25/06/2026 : \n</strong><div>Exercices sur l'électricité
+  et les circuits (feuille distribuée). À rendre le 26/06/2026.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
  TIN L.<br/>Groupe : [T_PC02]<br/>Partie de classe : &lt;TSTI2D 1&gt; PC<br
- />Salle : S.204<br/>
+ />Salle : S.204<br/><br/><strong>Contenu pédagogique : <br/></strong><div>É
+ lectricité : loi d'Ohm, circuits en série et en parallèle, puissance et éne
+ rgie électrique.</div><br/><strong>Donné le 25/06/2026 : <br/></strong><div>
+ Exercices sur l'électricité et les circuits (feuille distribuée). À rendre l
+ e 26/06/2026.</div>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260625T081231Z
@@ -658,16 +817,15 @@ LAST-MODIFIED:20260624T120000Z
 UID:Cours-65462-3-20260625T091231Z-Index-Education
 DTSTART:20260625T140000Z
 DTEND:20260625T145500Z
-SUMMARY;LANGUAGE=fr:Exercice PHYSIQUE-CHIMIE - MARTIN L.
-LOCATION;LANGUAGE=fr:S.204
-DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
- Type : Exercice\nSalle : S.204\n\nÀ rendre le 26/06/2026 : Exercices sur l
- 'électricité.
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
- TIN L.<br/>Type : Exercice<br/>Salle : S.204<br/><br/>À rendre le 26/06/20
- 26 : Exercices sur l'électricité.
+SUMMARY;LANGUAGE=fr:DS INFORMATIQUE - MOREAU T. - SQL et bases de données
+LOCATION;LANGUAGE=fr:Salle Info 1
+DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE\nProfesseur : MOREAU T.\nTyp
+ e : Devoir surveillé\nSujet : Bases de données relationnelles\, SQL\, modèl
+ e entité-association\nSalle : Salle Info 1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE<br/>Professeur : MOREAU
+  T.<br/>Type : Devoir surveillé<br/>Sujet : Bases de données relationnelles,
+  SQL, modèle entité-association<br/>Salle : Salle Info 1<br/>
 END:VEVENT
-
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260625T081231Z
@@ -675,225 +833,14 @@ LAST-MODIFIED:20260624T120000Z
 UID:Cours-49901-4-20260625T091231Z-Index-Education
 DTSTART:20260625T160000Z
 DTEND:20260625T165500Z
-SUMMARY;LANGUAGE=fr:Bac Blanc MATHÉMATIQUES - DUPONT J.
+SUMMARY;LANGUAGE=fr:Bac Blanc MATHÉMATIQUES - DUPONT J. - Suites et probabil
+ ités
 LOCATION;LANGUAGE=fr:S.101
 DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nTy
- pe : Bac Blanc\nSalle : S.101\n
+ pe : Bac Blanc\nSujet : Suites\, probabilités conditionnelles\, fonctions ex
+ ponentielles\nSalle : S.101\n
 X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
- T J.<br/>Type : Bac Blanc<br/>Salle : S.101<br/>
+ T J.<br/>Type : Bac Blanc<br/>Sujet : Suites, probabilités conditionnelles, 
+ fonctions exponentielles<br/>Salle : S.101<br/>
 END:VEVENT
-
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260625T081231Z
-LAST-MODIFIED:20260624T120000Z
-UID:Cours-49904-4-20260625T091231Z-Index-Education
-DTSTART:20260625T140000Z
-DTEND:20260625T145500Z
-SUMMARY;LANGUAGE=fr:DS INFORMATIQUE - MOREAU T.
-LOCATION;LANGUAGE=fr:Salle Info 1
-DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE\nProfesseur : MOREAU T.\nTyp
- e : Devoir surveillé\nSalle : Salle Info 1\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE<br/>Professeur : MOREAU
-  T.<br/>Type : Devoir surveillé<br/>Salle : Salle Info 1<br/>
-END:VEVENT
-
-BEGIN:VEVENT
-CATEGORIES:Devoir
-DTSTAMP:20260615T081231Z
-LAST-MODIFIED:20260614T120000Z
-UID:Devoir-50434-1-20260615T091231Z-Index-Education
-DTSTART:20260615T140000Z
-DTEND:20260615T145500Z
-SUMMARY;LANGUAGE=fr:DM MATHÉMATIQUES - DUPONT J. - Dérivées et applications
-LOCATION;LANGUAGE=fr:S.101
-DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nTy
- pe : Devoir à la maison\nSujet : Exercices sur les dérivées et leurs applic
- ations.\nÀ rendre le 16/06/2026.\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
- T J.<br/>Type : Devoir à la maison<br/>Sujet : Exercices sur les dérivées 
- et leurs applications.<br/>À rendre le 16/06/2026.<br/>
-END:VEVENT
-
-BEGIN:VEVENT
-CATEGORIES:Devoir
-DTSTAMP:20260616T081231Z
-LAST-MODIFIED:20260615T120000Z
-UID:Devoir-50848-1-20260616T091231Z-Index-Education
-DTSTART:20260616T140000Z
-DTEND:20260616T145500Z
-SUMMARY;LANGUAGE=fr:DM PHYSIQUE-CHIMIE - MARTIN L. - Travail des forces et 
- énergie
-LOCATION;LANGUAGE=fr:S.204
-DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
- Type : Devoir à la maison\nSujet : Contrôle sur le chapitre 8 (le travail 
- des forces\, le théorème de l'énergie cinétique et la conservation de l'éne
- rgie mécanique) et chapitre 9 (demi-équation électronique et équation bilan
-  d'oxydoréduction).\nÀ rendre le 17/06/2026.\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
- TIN L.<br/>Type : Devoir à la maison<br/>Sujet : Contrôle sur le chapitre 
- 8 (le travail des forces, le théorème de l'énergie cinétique et la conserva
- tion de l'énergie mécanique) et chapitre 9 (demi-équation électronique et é
- quation bilan d'oxydoréduction).<br/>À rendre le 17/06/2026.<br/>
-END:VEVENT
-
-BEGIN:VEVENT
-CATEGORIES:Devoir
-DTSTAMP:20260617T081231Z
-LAST-MODIFIED:20260616T120000Z
-UID:Devoir-50875-1-20260617T091231Z-Index-Education
-DTSTART:20260617T140000Z
-DTEND:20260616T145500Z
-SUMMARY;LANGUAGE=fr:DM ESPAGNOL - GARCIA S. - Valencia et gastronomie
-LOCATION;LANGUAGE=fr:S.102
-DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL\nProfesseur : GARCIA S.\nType : 
- Devoir à la maison\nSujet : Contrôle de connaissances: lieux emblématiques\
- , caractéristiques\, activités\, monuments Valencia/éléments de gastronomie
- .\nÀ rendre le 18/06/2026.\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.
- br/>Type : Devoir à la maison<br/>Sujet : Contrôle de connaissances: lieux 
- emblématiques, caractéristiques, activités, monuments Valencia/éléments de 
- gastronomie.<br/>À rendre le 18/06/2026.<br/>
-END:VEVENT
-
-BEGIN:VEVENT
-CATEGORIES:Devoir
-DTSTAMP:20260618T081231Z
-LAST-MODIFIED:20260617T120000Z
-UID:Devoir-51035-1-20260618T091231Z-Index-Education
-DTSTART:20260618T140000Z
-DTEND:20260618T145500Z
-SUMMARY;LANGUAGE=fr:DM HISTOIRE-GÉOGRAPHIE - DURAND M. - Colonisation et WW
- I
-LOCATION;LANGUAGE=fr:S.301
-DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
- M.\nType : Devoir à la maison\nSujet : Préparer évaluation d'histoire. Prog
- ramme: la colonisation et la première guerre mondiale.\nÀ rendre le 19/06/2
- 026.\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
-  DURAND M.<br/>Type : Devoir à la maison<br/>Sujet : Préparer évaluation d
- 'histoire. Programme: la colonisation et la première guerre mondiale.<br/>À 
- rendre le 19/06/2026.<br/>
-END:VEVENT
-
-BEGIN:VEVENT
-CATEGORIES:Devoir
-DTSTAMP:20260619T081231Z
-LAST-MODIFIED:20260618T120000Z
-UID:Devoir-51036-1-20260619T091231Z-Index-Education
-DTSTART:20260619T140000Z
-DTEND:20260619T145500Z
-SUMMARY;LANGUAGE=fr:DM FRANÇAIS - LEFEVRE P. - Commentaire composé
-LOCATION;LANGUAGE=fr:S.201
-DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS\nProfesseur : LEFEVRE P.\nType :
-  Devoir à la maison\nSujet : Commentaire composé sur un extrait littéraire 
- (Victor Hugo).\nÀ rendre le 20/06/2026.\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.
- <br/>Type : Devoir à la maison<br/>Sujet : Commentaire composé sur un extra
- it littéraire (Victor Hugo).<br/>À rendre le 20/06/2026.<br/>
-END:VEVENT
-
-BEGIN:VEVENT
-CATEGORIES:Devoir
-DTSTAMP:20260620T081231Z
-LAST-MODIFIED:20260619T120000Z
-UID:Devoir-62239-1-20260620T091231Z-Index-Education
-DTSTART:20260620T140000Z
-DTEND:20260620T145500Z
-SUMMARY;LANGUAGE=fr:DM ANGLAIS - SMITH A. - Essay sur la technologie
-LOCATION;LANGUAGE=fr:S.003
-DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nType : De
- voir à la maison\nSujet : Rédiger un essay sur l'impact de la technologie d
- ans la société moderne.\nÀ rendre le 21/06/2026.\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
- />Type : Devoir à la maison<br/>Sujet : Rédiger un essay sur l'impact de l
- a technologie dans la société moderne.<br/>À rendre le 21/06/2026.<br/>
-END:VEVENT
-
-BEGIN:VEVENT
-CATEGORIES:Devoir
-DTSTAMP:20260621T081231Z
-LAST-MODIFIED:20260620T120000Z
-UID:Devoir-62524-1-20260621T091231Z-Index-Education
-DTSTART:20260621T140000Z
-DTEND:20260621T145500Z
-SUMMARY;LANGUAGE=fr:DM PHILOSOPHIE - VATTIER V. - Dissertation sur la morale
-LOCATION;LANGUAGE=fr:D.151
-DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nTyp
- e : Devoir à la maison\nSujet : Dissertation : "La morale est-elle une cont
- rainte ou une libération ?".\nÀ rendre le 22/06/2026.\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
-  V.<br/>Type : Devoir à la maison<br/>Sujet : Dissertation : "La morale est
- -elle une contrainte ou une libération ?"<br/>À rendre le 22/06/2026.<br/>
-END:VEVENT
-
-BEGIN:VEVENT
-CATEGORIES:Devoir
-DTSTAMP:20260622T081231Z
-LAST-MODIFIED:20260621T120000Z
-UID:Devoir-63089-1-20260622T091231Z-Index-Education
-DTSTART:20260622T140000Z
-DTEND:20260622T145500Z
-SUMMARY;LANGUAGE=fr:DM SVT - LEROY C. - Écosystèmes et biodiversité
-LOCATION;LANGUAGE=fr:S.105
-DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nType : Devoir
-  à la maison\nSujet : Étude d'un écosystème local et son impact sur la bio
- diversité.\nÀ rendre le 23/06/2026.\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Ty
- pe : Devoir à la maison<br/>Sujet : Étude d'un écosystème local et son imp
- act sur la biodiversité.<br/>À rendre le 23/06/2026.<br/>
-END:VEVENT
-
-BEGIN:VEVENT
-CATEGORIES:Devoir
-DTSTAMP:20260623T081231Z
-LAST-MODIFIED:20260622T120000Z
-UID:Devoir-65453-1-20260623T091231Z-Index-Education
-DTSTART:20260623T140000Z
-DTEND:20260623T145500Z
-SUMMARY;LANGUAGE=fr:TP INFORMATIQUE - MOREAU T. - Base de données
-LOCATION;LANGUAGE=fr:Salle Info 1
-DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE\nProfesseur : MOREAU T.\nTyp
- e : Travaux Pratiques\nSujet : Projet de base de données pour une bibliothè
- que.\nÀ rendre le 24/06/2026.\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE<br/>Professeur : MOREAU
-  T.<br/>Type : Travaux Pratiques<br/>Sujet : Projet de base de données pour
-  une bibliothèque.<br/>À rendre le 24/06/2026.<br/>
-END:VEVENT
-
-BEGIN:VEVENT
-CATEGORIES:Devoir
-DTSTAMP:20260624T081231Z
-LAST-MODIFIED:20260623T120000Z
-UID:Devoir-65462-1-20260624T091231Z-Index-Education
-DTSTART:20260624T140000Z
-DTEND:20260624T145500Z
-SUMMARY;LANGUAGE=fr:DM PHYSIQUE-CHIMIE - MARTIN L. - Électricité et circuits
-LOCATION;LANGUAGE=fr:S.204
-DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
- Type : Devoir à la maison\nSujet : Exercices sur l'électricité et les circu
- its en série/parallèle.\nÀ rendre le 25/06/2026.\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
- TIN L.<br/>Type : Devoir à la maison<br/>Sujet : Exercices sur l'électrici
- té et les circuits en série/parallèle.<br/>À rendre le 25/06/2026.<br/>
-END:VEVENT
-
-BEGIN:VEVENT
-CATEGORIES:Devoir
-DTSTAMP:20260625T081231Z
-LAST-MODIFIED:20260624T120000Z
-UID:Devoir-49901-1-20260625T091231Z-Index-Education
-DTSTART:20260625T140000Z
-DTEND:20260625T145500Z
-SUMMARY;LANGUAGE=fr:DM MATHÉMATIQUES - DUPONT J. - Probabilités
-LOCATION;LANGUAGE=fr:S.101
-DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nTy
- pe : Devoir à la maison\nSujet : Exercices sur les probabilités conditional
- les et les arbres de probabilité.\nÀ rendre le 26/06/2026.\n
-X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
- T J.<br/>Type : Devoir à la maison<br/>Sujet : Exercices sur les probabilit
- és conditionnelles et les arbres de probabilité.<br/>À rendre le 26/06/2026
- .<br/>
-END:VEVENT
-
 END:VCALENDAR
