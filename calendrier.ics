@@ -926,4 +926,202 @@ Salle : Salle Info 1
 
 END:VEVENT
 
+BEGIN:VEVENT
+CATEGORIES:Devoir
+DTSTAMP:20260615T100000Z
+LAST-MODIFIED:20260614T120000Z
+UID:Devoir-MATH-001-20260615T100000Z-Index-Education
+DTSTART:20260615T140000Z
+DTEND:20260615T150000Z
+SUMMARY;LANGUAGE=fr:DM MATHÉMATIQUES - DUPONT J. - Dérivées et applications
+LOCATION;LANGUAGE=fr:S.101
+DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES
+Professeur : DUPONT J.
+Type : Devoir à la maison
+Sujet : Exercices sur les dérivées et leurs applications.
+À rendre le 16/06/2026.
+
+X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPONT J.<br/>Type : Devoir à la maison<br/>Sujet : Exercices sur les dérivées et leurs applications.<br/>À rendre le 16/06/2026.
+END:VEVENT
+
+BEGIN:VEVENT
+CATEGORIES:Devoir
+DTSTAMP:20260616T100000Z
+LAST-MODIFIED:20260615T120000Z
+UID:Devoir-PC-001-20260616T100000Z-Index-Education
+DTSTART:20260616T140000Z
+DTEND:20260616T150000Z
+SUMMARY;LANGUAGE=fr:DM PHYSIQUE-CHIMIE - MARTIN L. - Travail des forces et énergie
+LOCATION;LANGUAGE=fr:S.204
+DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE
+Professeur : MARTIN L.
+Type : Devoir à la maison
+Sujet : Contrôle sur le chapitre 8 (le travail des forces, le théorème de l'énergie cinétique et la conservation de l'énergie mécanique) et chapitre 9 (demi-équation électronique et équation bilan d'oxydoréduction).
+À rendre le 17/06/2026.
+
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MARTIN L.<br/>Type : Devoir à la maison<br/>Sujet : Contrôle sur le chapitre 8 (le travail des forces, le théorème de l'énergie cinétique et la conservation de l'énergie mécanique) et chapitre 9 (demi-équation électronique et équation bilan d'oxydoréduction).<br/>À rendre le 17/06/2026.
+END:VEVENT
+
+BEGIN:VEVENT
+CATEGORIES:Devoir
+DTSTAMP:20260617T100000Z
+LAST-MODIFIED:20260616T120000Z
+UID:Devoir-ESP-001-20260617T100000Z-Index-Education
+DTSTART:20260617T140000Z
+DTEND:20260617T150000Z
+SUMMARY;LANGUAGE=fr:DM ESPAGNOL - GARCIA S. - Valencia et gastronomie
+LOCATION;LANGUAGE=fr:S.102
+DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL
+Professeur : GARCIA S.
+Type : Devoir à la maison
+Sujet : Contrôle de connaissances: lieux emblématiques, caractéristiques, activités, monuments Valencia/éléments de gastronomie.
+À rendre le 18/06/2026.
+
+X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.<br/>Type : Devoir à la maison<br/>Sujet : Contrôle de connaissances: lieux emblématiques, caractéristiques, activités, monuments Valencia/éléments de gastronomie.<br/>À rendre le 18/06/2026.
+END:VEVENT
+
+BEGIN:VEVENT
+CATEGORIES:Devoir
+DTSTAMP:20260618T100000Z
+LAST-MODIFIED:20260617T120000Z
+UID:Devoir-HG-001-20260618T100000Z-Index-Education
+DTSTART:20260618T140000Z
+DTEND:20260618T150000Z
+SUMMARY;LANGUAGE=fr:DM HISTOIRE-GÉOGRAPHIE - DURAND M. - Colonisation et WWI
+LOCATION;LANGUAGE=fr:S.301
+DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE
+Professeur : DURAND M.
+Type : Devoir à la maison
+Sujet : Préparer évaluation d'histoire. Programme: la colonisation et la première guerre mondiale.
+À rendre le 19/06/2026.
+
+X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur : DURAND M.<br/>Type : Devoir à la maison<br/>Sujet : Préparer évaluation d'histoire. Programme: la colonisation et la première guerre mondiale.<br/>À rendre le 19/06/2026.
+END:VEVENT
+
+BEGIN:VEVENT
+CATEGORIES:Devoir
+DTSTAMP:20260619T100000Z
+LAST-MODIFIED:20260618T120000Z
+UID:Devoir-FR-001-20260619T100000Z-Index-Education
+DTSTART:20260619T140000Z
+DTEND:20260619T150000Z
+SUMMARY;LANGUAGE=fr:DM FRANÇAIS - LEFEVRE P. - Commentaire composé
+LOCATION;LANGUAGE=fr:S.201
+DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS
+Professeur : LEFEVRE P.
+Type : Devoir à la maison
+Sujet : Commentaire composé sur un extrait littéraire (Victor Hugo).
+À rendre le 20/06/2026.
+
+X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.<br/>Type : Devoir à la maison<br/>Sujet : Commentaire composé sur un extrait littéraire (Victor Hugo).<br/>À rendre le 20/06/2026.
+END:VEVENT
+
+BEGIN:VEVENT
+CATEGORIES:Devoir
+DTSTAMP:20260620T100000Z
+LAST-MODIFIED:20260619T120000Z
+UID:Devoir-ANG-001-20260620T100000Z-Index-Education
+DTSTART:20260620T140000Z
+DTEND:20260620T150000Z
+SUMMARY;LANGUAGE=fr:DM ANGLAIS - SMITH A. - Essay sur la technologie
+LOCATION;LANGUAGE=fr:S.003
+DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS
+Professeur : SMITH A.
+Type : Devoir à la maison
+Sujet : Rédiger un essay sur l'impact de la technologie dans la société moderne.
+À rendre le 21/06/2026.
+
+X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br/>Type : Devoir à la maison<br/>Sujet : Rédiger un essay sur l'impact de la technologie dans la société moderne.<br/>À rendre le 21/06/2026.
+END:VEVENT
+
+BEGIN:VEVENT
+CATEGORIES:Devoir
+DTSTAMP:20260621T100000Z
+LAST-MODIFIED:20260620T120000Z
+UID:Devoir-PHIL-001-20260621T100000Z-Index-Education
+DTSTART:20260621T140000Z
+DTEND:20260621T150000Z
+SUMMARY;LANGUAGE=fr:DM PHILOSOPHIE - VATTIER V. - Dissertation sur la morale
+LOCATION;LANGUAGE=fr:D.151
+DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE
+Professeur : VATTIER V.
+Type : Devoir à la maison
+Sujet : Dissertation : "La morale est-elle une contrainte ou une libération ?".
+À rendre le 22/06/2026.
+
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER V.<br/>Type : Devoir à la maison<br/>Sujet : Dissertation : "La morale est-elle une contrainte ou une libération ?"<br/>À rendre le 22/06/2026.
+END:VEVENT
+
+BEGIN:VEVENT
+CATEGORIES:Devoir
+DTSTAMP:20260622T100000Z
+LAST-MODIFIED:20260621T120000Z
+UID:Devoir-SVT-001-20260622T100000Z-Index-Education
+DTSTART:20260622T140000Z
+DTEND:20260622T150000Z
+SUMMARY;LANGUAGE=fr:DM SVT - LEROY C. - Écosystèmes et biodiversité
+LOCATION;LANGUAGE=fr:S.105
+DESCRIPTION;LANGUAGE=fr:Matière : SVT
+Professeur : LEROY C.
+Type : Devoir à la maison
+Sujet : Étude d'un écosystème local et son impact sur la biodiversité.
+À rendre le 23/06/2026.
+
+X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Type : Devoir à la maison<br/>Sujet : Étude d'un écosystème local et son impact sur la biodiversité.<br/>À rendre le 23/06/2026.
+END:VEVENT
+
+BEGIN:VEVENT
+CATEGORIES:Devoir
+DTSTAMP:20260623T100000Z
+LAST-MODIFIED:20260622T120000Z
+UID:Devoir-INFO-001-20260623T100000Z-Index-Education
+DTSTART:20260623T140000Z
+DTEND:20260623T150000Z
+SUMMARY;LANGUAGE=fr:TP INFORMATIQUE - MOREAU T. - Base de données
+LOCATION;LANGUAGE=fr:Salle Info 1
+DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE
+Professeur : MOREAU T.
+Type : Travaux Pratiques
+Sujet : Projet de base de données pour une bibliothèque.
+À rendre le 24/06/2026.
+
+X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE<br/>Professeur : MOREAU T.<br/>Type : Travaux Pratiques<br/>Sujet : Projet de base de données pour une bibliothèque.<br/>À rendre le 24/06/2026.
+END:VEVENT
+
+BEGIN:VEVENT
+CATEGORIES:Devoir
+DTSTAMP:20260624T100000Z
+LAST-MODIFIED:20260623T120000Z
+UID:Devoir-PC-002-20260624T100000Z-Index-Education
+DTSTART:20260624T140000Z
+DTEND:20260624T150000Z
+SUMMARY;LANGUAGE=fr:DM PHYSIQUE-CHIMIE - MARTIN L. - Électricité et circuits
+LOCATION;LANGUAGE=fr:S.204
+DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE
+Professeur : MARTIN L.
+Type : Devoir à la maison
+Sujet : Exercices sur l'électricité et les circuits en série/parallèle.
+À rendre le 25/06/2026.
+
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MARTIN L.<br/>Type : Devoir à la maison<br/>Sujet : Exercices sur l'électricité et les circuits en série/parallèle.<br/>À rendre le 25/06/2026.
+END:VEVENT
+
+BEGIN:VEVENT
+CATEGORIES:Devoir
+DTSTAMP:20260625T100000Z
+LAST-MODIFIED:20260624T120000Z
+UID:Devoir-MATH-002-20260625T100000Z-Index-Education
+DTSTART:20260625T140000Z
+DTEND:20260625T150000Z
+SUMMARY;LANGUAGE=fr:DM MATHÉMATIQUES - DUPONT J. - Probabilités
+LOCATION;LANGUAGE=fr:S.101
+DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES
+Professeur : DUPONT J.
+Type : Devoir à la maison
+Sujet : Exercices sur les probabilités conditionnelles et les arbres de probabilité.
+À rendre le 26/06/2026.
+
+X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPONT J.<br/>Type : Devoir à la maison<br/>Sujet : Exercices sur les probabilités conditionnelles et les arbres de probabilité.<br/>À rendre le 26/06/2026.
+END:VEVENT
+
 END:VCALENDAR
