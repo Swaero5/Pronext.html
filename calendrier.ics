@@ -1,1127 +1,899 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID;LANGUAGE=fr:Copyright Index-Education - Index-Education - ProNote2026 2026
+PRODID;LANGUAGE=fr:Copyright Index-Education - Index-Education - ProNote202
+ 6 2026
 METHOD:PUBLISH
 X-CALSTART:20260615T000000Z
 X-CALEND:20260625T235959Z
-X-WR-CALNAME;LANGUAGE=fr:Calendrier - Berger Julie 04/07/2008 - du 15 juin 2026 au 25 juin 2026
-X-WR-CALDESC;LANGUAGE=fr:Calendrier Berger Julie 04/07/2008 généré par le logiciel PRONOTE (©INDEX ÉDUCATION) le 15 juin 2026 - LYCEE L.Bramson - semaines 24 - 25
+X-WR-CALNAME;LANGUAGE=fr:Calendrier - Berger Julie 04/07/2008 - du 15 juin 
+ 2026 au 25 juin 2026
+X-WR-CALDESC;LANGUAGE=fr:Calendrier Berger Julie 04/07/2008 généré par le l
+ ogiciel PRONOTE (©INDEX ÉDUCATION) le 15 juin 2026 - LYCEE L.Bramson - sem
+ aines 24 - 25
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260615T100000Z
+DTSTAMP:20260615T081231Z
 LAST-MODIFIED:20260614T120000Z
-UID:Cours-001-1-20260615T100000Z-Index-Education
+UID:Cours-49901-1-20260615T091231Z-Index-Education
 DTSTART:20260615T080000Z
-DTEND:20260615T095500Z
-SUMMARY;LANGUAGE=fr:MATHÉMATIQUES - DUPONT J. - [T_MATH01] - <TSTI2D 1> MATH
+DTEND:20260615T085500Z
+SUMMARY;LANGUAGE=fr:MATHÉMATIQUES - DUPONT J. - [T_MATH01] - <TSTI2D 1> MA
+ TH
 LOCATION;LANGUAGE=fr:S.101
-DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES
-Professeur : DUPONT J.
-Groupe : [T_MATH01]
-Partie de classe : <TSTI2D 1> MATH
-Salle : S.101
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES
-Professeur : DUPONT J.
-Groupe : [T_MATH01]
-Partie de classe : &lt;TSTI2D 1&gt; MATH
-Salle : S.101
-
+DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nGr
+ oupe : [T_MATH01]\nPartie de classe : &lt;TSTI2D 1&gt; MATH\nSalle : S.101
+ \n
+X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
+ T J.<br/>Groupe : [T_MATH01]<br/>Partie de classe : &lt;TSTI2D 1&gt; MATH
+ br/>Salle : S.101<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260615T100000Z
+DTSTAMP:20260615T081231Z
 LAST-MODIFIED:20260614T120000Z
-UID:Cours-002-2-20260615T100000Z-Index-Education
+UID:Cours-49904-1-20260615T091231Z-Index-Education
 DTSTART:20260615T100000Z
-DTEND:20260615T115500Z
+DTEND:20260615T105500Z
 SUMMARY;LANGUAGE=fr:PHYSIQUE-CHIMIE - MARTIN L. - [T_PC02] - <TSTI2D 1> PC
 LOCATION;LANGUAGE=fr:S.204
-DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
-Groupe : [T_PC02]
-Partie de classe : <TSTI2D 1> PC
-Salle : S.204
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
-Groupe : [T_PC02]
-Partie de classe : &lt;TSTI2D 1&gt; PC
-Salle : S.204
-
+DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
+ Groupe : [T_PC02]\nPartie de classe : &lt;TSTI2D 1&gt; PC\nSalle : S.204\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
+ TIN L.<br/>Groupe : [T_PC02]<br/>Partie de classe : &lt;TSTI2D 1&gt; PC<br
+ />Salle : S.204<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260615T100000Z
+DTSTAMP:20260615T081231Z
 LAST-MODIFIED:20260614T120000Z
-UID:Evaluation-PC-001-20260615T100000Z-Index-Education
+UID:Cours-50434-1-20260615T091231Z-Index-Education
 DTSTART:20260615T140000Z
-DTEND:20260615T150000Z
+DTEND:20260615T145500Z
 SUMMARY;LANGUAGE=fr:Contrôle PHYSIQUE-CHIMIE - MARTIN L. - Chapitres 8 et 9
 LOCATION;LANGUAGE=fr:S.204
-DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
-Type : Contrôle
-Sujet : Chapitre 8 (le travail des forces, le théorème de l'énergie cinétique et la conservation de l'énergie mécanique) et Chapitre 9 (demi-équation électronique et équation bilan d'oxydoréduction)
-Salle : S.204
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MARTIN L.<br/>Type : Contrôle<br/>Sujet : Chapitre 8 (le travail des forces, le théorème de l'énergie cinétique et la conservation de l'énergie mécanique) et Chapitre 9 (demi-équation électronique et équation bilan d'oxydoréduction)<br/>Salle : S.204
-
+DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
+ Type : Contrôle\nSujet : Chapitre 8 (le travail des forces\, le théorème d
+ e l'énergie cinétique et la conservation de l'énergie mécanique) et Chapit
+ re 9 (demi-équation électronique et équation bilan d'oxydoréduction)\nSall
+ e : S.204\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
+ TIN L.<br/>Type : Contrôle<br/>Sujet : Chapitre 8 (le travail des forces, 
+ le théorème de l'énergie cinétique et la conservation de l'énergie mécaniqu
+ e) et Chapitre 9 (demi-équation électronique et équation bilan d'oxydorédu
+ ction)<br/>Salle : S.204<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260615T100000Z
+DTSTAMP:20260615T081231Z
 LAST-MODIFIED:20260614T120000Z
-UID:Evaluation-MATH-001-20260615T100000Z-Index-Education
+UID:Cours-50848-1-20260615T091231Z-Index-Education
 DTSTART:20260615T160000Z
-DTEND:20260615T170000Z
+DTEND:20260615T165500Z
 SUMMARY;LANGUAGE=fr:DS MATHÉMATIQUES - DUPONT J.
 LOCATION;LANGUAGE=fr:S.101
-DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES
-Professeur : DUPONT J.
-Type : Devoir surveillé
-Salle : S.101
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPONT J.<br/>Type : Devoir surveillé<br/>Salle : S.101
-
+DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nTy
+ pe : Devoir surveillé\nSalle : S.101\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
+ T J.<br/>Type : Devoir surveillé<br/>Salle : S.101<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours - Sortie pédagogique
-DTSTAMP:20260616T100000Z
+DTSTAMP:20260616T081231Z
 LAST-MODIFIED:20260615T120000Z
-UID:Sortie-001-20260616T100000Z-Index-Education
+UID:Cours-50875-1-20260616T091231Z-Index-Education
 DTSTART:20260616T090000Z
-DTEND:20260616T120000Z
+DTEND:20260616T115500Z
 SUMMARY;LANGUAGE=fr:Sortie pédagogique - Musée des Sciences
 LOCATION;LANGUAGE=fr:Extérieur
-DESCRIPTION;LANGUAGE=fr:Type : Sortie pédagogique
-Lieu : Musée des Sciences
-
-X-ALT-DESC;FMTTYPE=text/html:Type : Sortie pédagogique<br/>Lieu : Musée des Sciences
-
+DESCRIPTION;LANGUAGE=fr:Type : Sortie pédagogique\nLieu : Musée des Science
+ s\n
+X-ALT-DESC;FMTTYPE=text/html:Type : Sortie pédagogique<br/>Lieu : Musée des
+  Sciences<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260616T100000Z
+DTSTAMP:20260616T081231Z
 LAST-MODIFIED:20260615T120000Z
-UID:Cours-005-1-20260616T100000Z-Index-Education
+UID:Cours-50826-1-20260616T091231Z-Index-Education
 DTSTART:20260616T080000Z
-DTEND:20260616T095500Z
-SUMMARY;LANGUAGE=fr:HISTOIRE-GÉOGRAPHIE - DURAND M. - [T_HG03] - <TSTI2D 1> HG
+DTEND:20260616T085500Z
+SUMMARY;LANGUAGE=fr:HISTOIRE-GÉOGRAPHIE - DURAND M. - [T_HG03] - <TSTI2D 1
+ > HG
 LOCATION;LANGUAGE=fr:S.301
-DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE
-Professeur : DURAND M.
-Groupe : [T_HG03]
-Partie de classe : <TSTI2D 1> HG
-Salle : S.301
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE
-Professeur : DURAND M.
-Groupe : [T_HG03]
-Partie de classe : &lt;TSTI2D 1&gt; HG
-Salle : S.301
-
+DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
+ M.\nGroupe : [T_HG03]\nPartie de classe : &lt;TSTI2D 1&gt; HG\nSalle : S.3
+ 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
+  DURAND M.<br/>Groupe : [T_HG03]<br/>Partie de classe : &lt;TSTI2D 1&gt; H
+ G<br/>Salle : S.301<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260616T100000Z
+DTSTAMP:20260616T081231Z
 LAST-MODIFIED:20260615T120000Z
-UID:Cours-006-2-20260616T100000Z-Index-Education
+UID:Cours-51035-1-20260616T091231Z-Index-Education
 DTSTART:20260616T100000Z
-DTEND:20260616T115500Z
+DTEND:20260616T105500Z
 SUMMARY;LANGUAGE=fr:ESPAGNOL - GARCIA S. - [T_ESP01] - <TSTI2D 1> ESP
 LOCATION;LANGUAGE=fr:S.102
-DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL
-Professeur : GARCIA S.
-Groupe : [T_ESP01]
-Partie de classe : <TSTI2D 1> ESP
-Salle : S.102
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL
-Professeur : GARCIA S.
-Groupe : [T_ESP01]
-Partie de classe : &lt;TSTI2D 1&gt; ESP
-Salle : S.102
-
+DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL\nProfesseur : GARCIA S.\nGroupe 
+ : [T_ESP01]\nPartie de classe : &lt;TSTI2D 1&gt; ESP\nSalle : S.102\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.
+ br/>Groupe : [T_ESP01]<br/>Partie de classe : &lt;TSTI2D 1&gt; ESP<br/>Sal
+ le : S.102<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260616T100000Z
+DTSTAMP:20260616T081231Z
 LAST-MODIFIED:20260615T120000Z
-UID:Evaluation-ESP-001-20260616T100000Z-Index-Education
+UID:Cours-51036-1-20260616T091231Z-Index-Education
 DTSTART:20260616T140000Z
-DTEND:20260616T150000Z
-SUMMARY;LANGUAGE=fr:Contrôle ESPAGNOL - GARCIA S. - Lieux emblématiques et gastronomie
+DTEND:20260616T145500Z
+SUMMARY;LANGUAGE=fr:Contrôle ESPAGNOL - GARCIA S. - Lieux emblématiques et 
+ gastronomie
 LOCATION;LANGUAGE=fr:S.102
-DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL
-Professeur : GARCIA S.
-Type : Contrôle de connaissances
-Sujet : Lieux emblématiques, caractéristiques, activités, monuments Valencia/éléments de gastronomie
-Salle : S.102
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.<br/>Type : Contrôle de connaissances<br/>Sujet : Lieux emblématiques, caractéristiques, activités, monuments Valencia/éléments de gastronomie<br/>Salle : S.102
-
+DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL\nProfesseur : GARCIA S.\nType : 
+ Contrôle de connaissances\nSujet : Lieux emblématiques\, caractéristiques\,
+  activités\, monuments Valencia/éléments de gastronomie\nSalle : S.102\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.
+ br/>Type : Contrôle de connaissances<br/>Sujet : Lieux emblématiques, carac
+ téristiques, activités, monuments Valencia/éléments de gastronomie<br/>Sall
+ e : S.102<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260616T100000Z
+DTSTAMP:20260616T081231Z
 LAST-MODIFIED:20260615T120000Z
-UID:Evaluation-HG-001-20260616T100000Z-Index-Education
+UID:Cours-62239-1-20260616T091231Z-Index-Education
 DTSTART:20260616T160000Z
-DTEND:20260616T170000Z
+DTEND:20260616T165500Z
 SUMMARY;LANGUAGE=fr:Préparation Évaluation HISTOIRE-GÉOGRAPHIE - DURAND M.
 LOCATION;LANGUAGE=fr:S.301
-DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE
-Professeur : DURAND M.
-Type : Préparation évaluation
-Sujet : La colonisation et la première guerre mondiale
-Salle : S.301
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur : DURAND M.<br/>Type : Préparation évaluation<br/>Sujet : La colonisation et la première guerre mondiale<br/>Salle : S.301
-
+DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
+ M.\nType : Préparation évaluation\nSujet : La colonisation et la première g
+ uerre mondiale\nSalle : S.301\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
+  DURAND M.<br/>Type : Préparation évaluation<br/>Sujet : La colonisation et
+  la première guerre mondiale<br/>Salle : S.301<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours - Prof. absent
-DTSTAMP:20260617T100000Z
+DTSTAMP:20260617T081231Z
 LAST-MODIFIED:20260616T120000Z
-UID:Absence-001-20260617T100000Z-Index-Education
+UID:Cours-50875-20-20260617T091231Z-Index-Education
 DTSTART:20260617T100000Z
-DTEND:20260617T115500Z
+DTEND:20260617T105500Z
 SUMMARY;LANGUAGE=fr:Prof. absent : ANGLAIS - SMITH A.
 LOCATION;LANGUAGE=fr:S.003
-DESCRIPTION;LANGUAGE=fr:Professeur absent
-Matière : ANGLAIS
-Professeur : SMITH A.
-Salle : S.003
-
-X-ALT-DESC;FMTTYPE=text/html:Professeur absent<br/>Matière : ANGLAIS<br/>Professeur : SMITH A.<br/>Salle : S.003
-
+DESCRIPTION;LANGUAGE=fr:Prof. absent\nMatière : ANGLAIS\nProfesseur : SMITH
+  A.\nSalle : S.003\n
+X-ALT-DESC;FMTTYPE=text/html:Prof. absent<br/>Matière : ANGLAIS<br/>Profess
+ eur : SMITH A.<br/>Salle : S.003<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260617T100000Z
+DTSTAMP:20260617T081231Z
 LAST-MODIFIED:20260616T120000Z
-UID:Cours-009-1-20260617T100000Z-Index-Education
+UID:Cours-62524-1-20260617T091231Z-Index-Education
 DTSTART:20260617T080000Z
-DTEND:20260617T095500Z
+DTEND:20260617T085500Z
 SUMMARY;LANGUAGE=fr:INFORMATIQUE - MOREAU T. - [T_INFO01] - <TSTI2D 1> INFO
 LOCATION;LANGUAGE=fr:Salle Info 1
-DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE
-Professeur : MOREAU T.
-Groupe : [T_INFO01]
-Partie de classe : <TSTI2D 1> INFO
-Salle : Salle Info 1
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE
-Professeur : MOREAU T.
-Groupe : [T_INFO01]
-Partie de classe : &lt;TSTI2D 1&gt; INFO
-Salle : Salle Info 1
-
+DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE\nProfesseur : MOREAU T.\nGro
+ upe : [T_INFO01]\nPartie de classe : &lt;TSTI2D 1&gt; INFO\nSalle : Salle I
+ nfo 1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE<br/>Professeur : MOREAU
+  T.<br/>Groupe : [T_INFO01]<br/>Partie de classe : &lt;TSTI2D 1&gt; INFO<b
+ r/>Salle : Salle Info 1<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260617T100000Z
+DTSTAMP:20260617T081231Z
 LAST-MODIFIED:20260616T120000Z
-UID:Cours-010-2-20260617T100000Z-Index-Education
+UID:Cours-63089-1-20260617T091231Z-Index-Education
 DTSTART:20260617T100000Z
-DTEND:20260617T115500Z
+DTEND:20260617T105500Z
 SUMMARY;LANGUAGE=fr:ANGLAIS - SMITH A. - [T_ANG01] - <TSTI2D 1> ANG
 LOCATION;LANGUAGE=fr:S.003
-DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS
-Professeur : SMITH A.
-Groupe : [T_ANG01]
-Partie de classe : <TSTI2D 1> ANG
-Salle : S.003
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS
-Professeur : SMITH A.
-Groupe : [T_ANG01]
-Partie de classe : &lt;TSTI2D 1&gt; ANG
-Salle : S.003
-
+DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nGroupe : 
+ [T_ANG01]\nPartie de classe : &lt;TSTI2D 1&gt; ANG\nSalle : S.003\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
+ />Groupe : [T_ANG01]<br/>Partie de classe : &lt;TSTI2D 1&gt; ANG<br/>Salle
+  : S.003<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260617T100000Z
+DTSTAMP:20260617T081231Z
 LAST-MODIFIED:20260616T120000Z
-UID:Evaluation-INFO-001-20260617T100000Z-Index-Education
+UID:Cours-65453-1-20260617T091231Z-Index-Education
 DTSTART:20260617T140000Z
-DTEND:20260617T150000Z
+DTEND:20260617T145500Z
 SUMMARY;LANGUAGE=fr:TP INFORMATIQUE - MOREAU T.
 LOCATION;LANGUAGE=fr:Salle Info 1
-DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE
-Professeur : MOREAU T.
-Type : Travaux Pratiques
-Salle : Salle Info 1
-
-À rendre le 18/06/2026 : Algorithme de tri.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE
-Professeur : MOREAU T.
-Type : Travaux Pratiques
-Salle : Salle Info 1
-
-À rendre le 18/06/2026 : 
-Algorithme de tri.
+DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE\nProfesseur : MOREAU T.\nTyp
+ e : Travaux Pratiques\nSalle : Salle Info 1\n\nÀ rendre le 18/06/2026 : Al
+ gorithme de tri.
+X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE<br/>Professeur : MOREAU
+  T.<br/>Type : Travaux Pratiques<br/>Salle : Salle Info 1<br/><br/>À rendr
+ e le 18/06/2026 : Algorithme de tri.
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260617T100000Z
+DTSTAMP:20260617T081231Z
 LAST-MODIFIED:20260616T120000Z
-UID:Evaluation-ANG-001-20260617T100000Z-Index-Education
+UID:Cours-65462-1-20260617T091231Z-Index-Education
 DTSTART:20260617T160000Z
-DTEND:20260617T170000Z
+DTEND:20260617T165500Z
 SUMMARY;LANGUAGE=fr:DS ANGLAIS - SMITH A.
 LOCATION;LANGUAGE=fr:S.003
-DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS
-Professeur : SMITH A.
-Type : Devoir surveillé
-Salle : S.003
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS
-Professeur : SMITH A.
-Type : Devoir surveillé
-Salle : S.003
-
+DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nType : De
+ voir surveillé\nSalle : S.003\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
+ />Type : Devoir surveillé<br/>Salle : S.003<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260618T100000Z
+DTSTAMP:20260618T081231Z
 LAST-MODIFIED:20260617T120000Z
-UID:Cours-013-1-20260618T100000Z-Index-Education
+UID:Cours-49901-2-20260618T091231Z-Index-Education
 DTSTART:20260618T080000Z
-DTEND:20260618T095500Z
+DTEND:20260618T085500Z
 SUMMARY;LANGUAGE=fr:PHILOSOPHIE - VATTIER V. - [T_PHIL01] - <TSTI2D 1> PHIL
 LOCATION;LANGUAGE=fr:D.151
-DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE
-Professeur : VATTIER V.
-Groupe : [T_PHIL01]
-Partie de classe : <TSTI2D 1> PHIL
-Salle : D.151
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE
-Professeur : VATTIER V.
-Groupe : [T_PHIL01]
-Partie de classe : &lt;TSTI2D 1&gt; PHIL
-Salle : D.151
-
+DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nGro
+ upe : [T_PHIL01]\nPartie de classe : &lt;TSTI2D 1&gt; PHIL\nSalle : D.151\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
+  V.<br/>Groupe : [T_PHIL01]<br/>Partie de classe : &lt;TSTI2D 1&gt; PHIL<b
+ r/>Salle : D.151<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260618T100000Z
+DTSTAMP:20260618T081231Z
 LAST-MODIFIED:20260617T120000Z
-UID:Cours-014-2-20260618T100000Z-Index-Education
+UID:Cours-49904-2-20260618T091231Z-Index-Education
 DTSTART:20260618T100000Z
-DTEND:20260618T115500Z
+DTEND:20260618T105500Z
 SUMMARY;LANGUAGE=fr:SVT - LEROY C. - [T_SVT01] - <TSTI2D 1> SVT
 LOCATION;LANGUAGE=fr:S.105
-DESCRIPTION;LANGUAGE=fr:Matière : SVT
-Professeur : LEROY C.
-Groupe : [T_SVT01]
-Partie de classe : <TSTI2D 1> SVT
-Salle : S.105
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : SVT
-Professeur : LEROY C.
-Groupe : [T_SVT01]
-Partie de classe : &lt;TSTI2D 1&gt; SVT
-Salle : S.105
-
+DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nGroupe : [T_S
+ VT01]\nPartie de classe : &lt;TSTI2D 1&gt; SVT\nSalle : S.105\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Gr
+ oupe : [T_SVT01]<br/>Partie de classe : &lt;TSTI2D 1&gt; SVT<br/>Salle : S
+ .105<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260618T100000Z
+DTSTAMP:20260618T081231Z
 LAST-MODIFIED:20260617T120000Z
-UID:Evaluation-PHIL-001-20260618T100000Z-Index-Education
+UID:Cours-50434-2-20260618T091231Z-Index-Education
 DTSTART:20260618T140000Z
-DTEND:20260618T150000Z
+DTEND:20260618T145500Z
 SUMMARY;LANGUAGE=fr:DM PHILOSOPHIE - VATTIER V.
 LOCATION;LANGUAGE=fr:D.151
-DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE
-Professeur : VATTIER V.
-Type : Devoir à la maison
-Salle : D.151
-
-À rendre le 19/06/2026 : Dissertation sur la liberté.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE
-Professeur : VATTIER V.
-Type : Devoir à la maison
-Salle : D.151
-
-À rendre le 19/06/2026 : 
-Dissertation sur la liberté.
+DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nTyp
+ e : Devoir à la maison\nSalle : D.151\n\nÀ rendre le 19/06/2026 : Disserta
+ tion sur la liberté.
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
+  V.<br/>Type : Devoir à la maison<br/>Salle : D.151<br/><br/>À rendre le 1
+ 9/06/2026 : Dissertation sur la liberté.
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260618T100000Z
+DTSTAMP:20260618T081231Z
 LAST-MODIFIED:20260617T120000Z
-UID:Evaluation-SVT-001-20260618T100000Z-Index-Education
+UID:Cours-50848-2-20260618T091231Z-Index-Education
 DTSTART:20260618T160000Z
-DTEND:20260618T170000Z
+DTEND:20260618T165500Z
 SUMMARY;LANGUAGE=fr:DS SVT - LEROY C.
 LOCATION;LANGUAGE=fr:S.105
-DESCRIPTION;LANGUAGE=fr:Matière : SVT
-Professeur : LEROY C.
-Type : Devoir surveillé
-Salle : S.105
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : SVT
-Professeur : LEROY C.
-Type : Devoir surveillé
-Salle : S.105
-
+DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nType : Devoir
+  surveillé\nSalle : S.105\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Ty
+ pe : Devoir surveillé<br/>Salle : S.105<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours - Cours annulé
-DTSTAMP:20260619T100000Z
+DTSTAMP:20260619T081231Z
 LAST-MODIFIED:20260618T120000Z
-UID:Annulation-001-20260619T100000Z-Index-Education
+UID:Cours-50826-21-20260619T091231Z-Index-Education
 DTSTART:20260619T100000Z
-DTEND:20260619T115500Z
+DTEND:20260619T105500Z
 SUMMARY;LANGUAGE=fr:Cours annulé : PHYSIQUE-CHIMIE - MARTIN L.
 LOCATION;LANGUAGE=fr:S.204
-DESCRIPTION;LANGUAGE=fr:Cours annulé
-Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
-Salle : S.204
-
-X-ALT-DESC;FMTTYPE=text/html:Cours annulé<br/>Matière : PHYSIQUE-CHIMIE<br/>Professeur : MARTIN L.<br/>Salle : S.204
-
+DESCRIPTION;LANGUAGE=fr:Cours annulé\nMatière : PHYSIQUE-CHIMIE\nProfesseur
+  : MARTIN L.\nSalle : S.204\n
+X-ALT-DESC;FMTTYPE=text/html:Cours annulé<br/>Matière : PHYSIQUE-CHIMIE<br/
+ >Professeur : MARTIN L.<br/>Salle : S.204<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260619T100000Z
+DTSTAMP:20260619T081231Z
 LAST-MODIFIED:20260618T120000Z
-UID:Cours-017-1-20260619T100000Z-Index-Education
+UID:Cours-50875-21-20260619T091231Z-Index-Education
 DTSTART:20260619T080000Z
-DTEND:20260619T095500Z
-SUMMARY;LANGUAGE=fr:MATHÉMATIQUES - DUPONT J. - [T_MATH01] - <TSTI2D 1> MATH
+DTEND:20260619T085500Z
+SUMMARY;LANGUAGE=fr:MATHÉMATIQUES - DUPONT J. - [T_MATH01] - <TSTI2D 1> MA
+ TH
 LOCATION;LANGUAGE=fr:S.101
-DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES
-Professeur : DUPONT J.
-Groupe : [T_MATH01]
-Partie de classe : <TSTI2D 1> MATH
-Salle : S.101
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES
-Professeur : DUPONT J.
-Groupe : [T_MATH01]
-Partie de classe : &lt;TSTI2D 1&gt; MATH
-Salle : S.101
-
+DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nGr
+ oupe : [T_MATH01]\nPartie de classe : &lt;TSTI2D 1&gt; MATH\nSalle : S.101
+ \n
+X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
+ T J.<br/>Groupe : [T_MATH01]<br/>Partie de classe : &lt;TSTI2D 1&gt; MATH
+ br/>Salle : S.101<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260619T100000Z
+DTSTAMP:20260619T081231Z
 LAST-MODIFIED:20260618T120000Z
-UID:Cours-018-2-20260619T100000Z-Index-Education
+UID:Cours-51035-2-20260619T091231Z-Index-Education
 DTSTART:20260619T100000Z
-DTEND:20260619T115500Z
+DTEND:20260619T105500Z
 SUMMARY;LANGUAGE=fr:PHYSIQUE-CHIMIE - MARTIN L. - [T_PC02] - <TSTI2D 1> PC
 LOCATION;LANGUAGE=fr:S.204
-DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
-Groupe : [T_PC02]
-Partie de classe : <TSTI2D 1> PC
-Salle : S.204
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
-Groupe : [T_PC02]
-Partie de classe : &lt;TSTI2D 1&gt; PC
-Salle : S.204
-
+DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
+ Groupe : [T_PC02]\nPartie de classe : &lt;TSTI2D 1&gt; PC\nSalle : S.204\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
+ TIN L.<br/>Groupe : [T_PC02]<br/>Partie de classe : &lt;TSTI2D 1&gt; PC<br
+ />Salle : S.204<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260619T100000Z
+DTSTAMP:20260619T081231Z
 LAST-MODIFIED:20260618T120000Z
-UID:Evaluation-PC-002-20260619T100000Z-Index-Education
+UID:Cours-51036-2-20260619T091231Z-Index-Education
 DTSTART:20260619T140000Z
-DTEND:20260619T150000Z
+DTEND:20260619T145500Z
 SUMMARY;LANGUAGE=fr:Exercice PHYSIQUE-CHIMIE - MARTIN L.
 LOCATION;LANGUAGE=fr:S.204
-DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
-Type : Exercice
-Salle : S.204
-
-À rendre le 20/06/2026 : Problème sur les réactions chimiques.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
-Type : Exercice
-Salle : S.204
-
-À rendre le 20/06/2026 : 
-Problème sur les réactions chimiques.
+DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
+ Type : Exercice\nSalle : S.204\n\nÀ rendre le 20/06/2026 : Problème sur le
+ s réactions chimiques.
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
+ TIN L.<br/>Type : Exercice<br/>Salle : S.204<br/><br/>À rendre le 20/06/20
+ 26 : Problème sur les réactions chimiques.
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260619T100000Z
+DTSTAMP:20260619T081231Z
 LAST-MODIFIED:20260618T120000Z
-UID:Evaluation-MATH-002-20260619T100000Z-Index-Education
+UID:Cours-62239-2-20260619T091231Z-Index-Education
 DTSTART:20260619T160000Z
-DTEND:20260619T170000Z
+DTEND:20260619T165500Z
 SUMMARY;LANGUAGE=fr:Bac Blanc MATHÉMATIQUES - DUPONT J.
 LOCATION;LANGUAGE=fr:S.101
-DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES
-Professeur : DUPONT J.
-Type : Bac Blanc
-Salle : S.101
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES
-Professeur : DUPONT J.
-Type : Bac Blanc
-Salle : S.101
-
+DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nTy
+ pe : Bac Blanc\nSalle : S.101\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
+ T J.<br/>Type : Bac Blanc<br/>Salle : S.101<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours - Changement de salle
-DTSTAMP:20260620T100000Z
+DTSTAMP:20260620T081231Z
 LAST-MODIFIED:20260619T120000Z
-UID:ChangementSalle-001-20260620T100000Z-Index-Education
+UID:Cours-62524-20-20260620T091231Z-Index-Education
 DTSTART:20260620T100000Z
-DTEND:20260620T115500Z
+DTEND:20260620T105500Z
 SUMMARY;LANGUAGE=fr:Changement de salle : FRANÇAIS - LEFEVRE P.
 LOCATION;LANGUAGE=fr:Amphi A
-DESCRIPTION;LANGUAGE=fr:Changement de salle
-Matière : FRANÇAIS
-Professeur : LEFEVRE P.
-Ancienne salle : S.201
-Nouvelle salle : Amphi A
-
-X-ALT-DESC;FMTTYPE=text/html:Changement de salle<br/>Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.<br/>Ancienne salle : S.201<br/>Nouvelle salle : Amphi A
-
+DESCRIPTION;LANGUAGE=fr:Changement de salle\nMatière : FRANÇAIS\nProfesseur
+  : LEFEVRE P.\nAncienne salle : S.201\nNouvelle salle : Amphi A\n
+X-ALT-DESC;FMTTYPE=text/html:Changement de salle<br/>Matière : FRANÇAIS<br/
+ >Professeur : LEFEVRE P.<br/>Ancienne salle : S.201<br/>Nouvelle salle : Am
+ phi A<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260620T100000Z
+DTSTAMP:20260620T081231Z
 LAST-MODIFIED:20260619T120000Z
-UID:Cours-021-1-20260620T100000Z-Index-Education
+UID:Cours-63089-2-20260620T091231Z-Index-Education
 DTSTART:20260620T080000Z
-DTEND:20260620T095500Z
-SUMMARY;LANGUAGE=fr:HISTOIRE-GÉOGRAPHIE - DURAND M. - [T_HG03] - <TSTI2D 1> HG
+DTEND:20260620T085500Z
+SUMMARY;LANGUAGE=fr:HISTOIRE-GÉOGRAPHIE - DURAND M. - [T_HG03] - <TSTI2D 1
+ > HG
 LOCATION;LANGUAGE=fr:S.301
-DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE
-Professeur : DURAND M.
-Groupe : [T_HG03]
-Partie de classe : <TSTI2D 1> HG
-Salle : S.301
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE
-Professeur : DURAND M.
-Groupe : [T_HG03]
-Partie de classe : &lt;TSTI2D 1&gt; HG
-Salle : S.301
-
+DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
+ M.\nGroupe : [T_HG03]\nPartie de classe : &lt;TSTI2D 1&gt; HG\nSalle : S.3
+ 01\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
+  DURAND M.<br/>Groupe : [T_HG03]<br/>Partie de classe : &lt;TSTI2D 1&gt; H
+ G<br/>Salle : S.301<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260620T100000Z
+DTSTAMP:20260620T081231Z
 LAST-MODIFIED:20260619T120000Z
-UID:Cours-022-2-20260620T100000Z-Index-Education
+UID:Cours-65453-2-20260620T091231Z-Index-Education
 DTSTART:20260620T100000Z
-DTEND:20260620T115500Z
+DTEND:20260620T105500Z
 SUMMARY;LANGUAGE=fr:FRANÇAIS - LEFEVRE P. - [T_FR01] - <TSTI2D 1> FR
 LOCATION;LANGUAGE=fr:S.201
-DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS
-Professeur : LEFEVRE P.
-Groupe : [T_FR01]
-Partie de classe : <TSTI2D 1> FR
-Salle : S.201
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS
-Professeur : LEFEVRE P.
-Groupe : [T_FR01]
-Partie de classe : &lt;TSTI2D 1&gt; FR
-Salle : S.201
-
+DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS\nProfesseur : LEFEVRE P.\nGroupe
+  : [T_FR01]\nPartie de classe : &lt;TSTI2D 1&gt; FR\nSalle : S.201\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.
+ <br/>Groupe : [T_FR01]<br/>Partie de classe : &lt;TSTI2D 1&gt; FR<br/>Sall
+ e : S.201<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260620T100000Z
+DTSTAMP:20260620T081231Z
 LAST-MODIFIED:20260619T120000Z
-UID:Evaluation-FR-001-20260620T100000Z-Index-Education
+UID:Cours-65462-2-20260620T091231Z-Index-Education
 DTSTART:20260620T140000Z
-DTEND:20260620T150000Z
+DTEND:20260620T145500Z
 SUMMARY;LANGUAGE=fr:DM FRANÇAIS - LEFEVRE P.
 LOCATION;LANGUAGE=fr:S.201
-DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS
-Professeur : LEFEVRE P.
-Type : Devoir à la maison
-Salle : S.201
-
-À rendre le 21/06/2026 : Commentaire composé sur un extrait littéraire.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS
-Professeur : LEFEVRE P.
-Type : Devoir à la maison
-Salle : S.201
-
-À rendre le 21/06/2026 : 
-Commentaire composé sur un extrait littéraire.
+DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS\nProfesseur : LEFEVRE P.\nType :
+  Devoir à la maison\nSalle : S.201\n\nÀ rendre le 21/06/2026 : Commentaire
+  composé sur un extrait littéraire.
+X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.
+ <br/>Type : Devoir à la maison<br/>Salle : S.201<br/><br/>À rendre le 21/0
+ 6/2026 : Commentaire composé sur un extrait littéraire.
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260620T100000Z
+DTSTAMP:20260620T081231Z
 LAST-MODIFIED:20260619T120000Z
-UID:Evaluation-HG-002-20260620T100000Z-Index-Education
+UID:Cours-49901-3-20260620T091231Z-Index-Education
 DTSTART:20260620T160000Z
-DTEND:20260620T170000Z
+DTEND:20260620T165500Z
 SUMMARY;LANGUAGE=fr:Interrogation Écrite HISTOIRE-GÉOGRAPHIE - DURAND M.
 LOCATION;LANGUAGE=fr:S.301
-DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE
-Professeur : DURAND M.
-Type : Interrogation écrite
-Salle : S.301
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE
-Professeur : DURAND M.
-Type : Interrogation écrite
-Salle : S.301
-
+DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
+ M.\nType : Interrogation écrite\nSalle : S.301\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
+  DURAND M.<br/>Type : Interrogation écrite<br/>Salle : S.301<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours - Exceptionnel
-DTSTAMP:20260623T100000Z
+DTSTAMP:20260623T081231Z
 LAST-MODIFIED:20260622T120000Z
-UID:Exceptionnel-001-20260623T100000Z-Index-Education
+UID:Cours-49904-3-20260623T091231Z-Index-Education
 DTSTART:20260623T140000Z
-DTEND:20260623T150000Z
+DTEND:20260623T145500Z
 SUMMARY;LANGUAGE=fr:Cours exceptionnel - Conférence sur l'IA
 LOCATION;LANGUAGE=fr:Amphi B
-DESCRIPTION;LANGUAGE=fr:Type : Cours exceptionnel
-Sujet : Conférence sur l'intelligence artificielle
-
-X-ALT-DESC;FMTTYPE=text/html:Type : Cours exceptionnel<br/>Sujet : Conférence sur l'intelligence artificielle
-
+DESCRIPTION;LANGUAGE=fr:Type : Cours exceptionnel\nSujet : Conférence sur l
+ 'intelligence artificielle\n
+X-ALT-DESC;FMTTYPE=text/html:Type : Cours exceptionnel<br/>Sujet : Conféren
+ ce sur l'intelligence artificielle<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260623T100000Z
+DTSTAMP:20260623T081231Z
 LAST-MODIFIED:20260622T120000Z
-UID:Cours-025-1-20260623T100000Z-Index-Education
+UID:Cours-50434-3-20260623T091231Z-Index-Education
 DTSTART:20260623T080000Z
-DTEND:20260623T095500Z
+DTEND:20260623T085500Z
 SUMMARY;LANGUAGE=fr:INFORMATIQUE - MOREAU T. - [T_INFO01] - <TSTI2D 1> INFO
 LOCATION;LANGUAGE=fr:Salle Info 1
-DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE
-Professeur : MOREAU T.
-Groupe : [T_INFO01]
-Partie de classe : <TSTI2D 1> INFO
-Salle : Salle Info 1
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE
-Professeur : MOREAU T.
-Groupe : [T_INFO01]
-Partie de classe : &lt;TSTI2D 1&gt; INFO
-Salle : Salle Info 1
-
+DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE\nProfesseur : MOREAU T.\nGro
+ upe : [T_INFO01]\nPartie de classe : &lt;TSTI2D 1&gt; INFO\nSalle : Salle I
+ nfo 1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE<br/>Professeur : MOREAU
+  T.<br/>Groupe : [T_INFO01]<br/>Partie de classe : &lt;TSTI2D 1&gt; INFO<b
+ r/>Salle : Salle Info 1<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260623T100000Z
+DTSTAMP:20260623T081231Z
 LAST-MODIFIED:20260622T120000Z
-UID:Cours-026-2-20260623T100000Z-Index-Education
+UID:Cours-50848-3-20260623T091231Z-Index-Education
 DTSTART:20260623T100000Z
-DTEND:20260623T115500Z
+DTEND:20260623T105500Z
 SUMMARY;LANGUAGE=fr:ANGLAIS - SMITH A. - [T_ANG01] - <TSTI2D 1> ANG
 LOCATION;LANGUAGE=fr:S.003
-DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS
-Professeur : SMITH A.
-Groupe : [T_ANG01]
-Partie de classe : <TSTI2D 1> ANG
-Salle : S.003
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS
-Professeur : SMITH A.
-Groupe : [T_ANG01]
-Partie de classe : &lt;TSTI2D 1&gt; ANG
-Salle : S.003
-
+DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nGroupe : 
+ [T_ANG01]\nPartie de classe : &lt;TSTI2D 1&gt; ANG\nSalle : S.003\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
+ />Groupe : [T_ANG01]<br/>Partie de classe : &lt;TSTI2D 1&gt; ANG<br/>Salle
+  : S.003<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260623T100000Z
+DTSTAMP:20260623T081231Z
 LAST-MODIFIED:20260622T120000Z
-UID:Evaluation-INFO-002-20260623T100000Z-Index-Education
+UID:Cours-50826-22-20260623T091231Z-Index-Education
 DTSTART:20260623T140000Z
-DTEND:20260623T150000Z
+DTEND:20260623T145500Z
 SUMMARY;LANGUAGE=fr:TP INFORMATIQUE - MOREAU T.
 LOCATION;LANGUAGE=fr:Salle Info 1
-DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE
-Professeur : MOREAU T.
-Type : Travaux Pratiques
-Salle : Salle Info 1
-
-À rendre le 24/06/2026 : Projet base de données.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE
-Professeur : MOREAU T.
-Type : Travaux Pratiques
-Salle : Salle Info 1
-
-À rendre le 24/06/2026 : 
-Projet base de données.
+DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE\nProfesseur : MOREAU T.\nTyp
+ e : Travaux Pratiques\nSalle : Salle Info 1\n\nÀ rendre le 24/06/2026 : Pr
+ ojet base de données.
+X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE<br/>Professeur : MOREAU
+  T.<br/>Type : Travaux Pratiques<br/>Salle : Salle Info 1<br/><br/>À rendr
+ e le 24/06/2026 : Projet base de données.
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260623T100000Z
+DTSTAMP:20260623T081231Z
 LAST-MODIFIED:20260622T120000Z
-UID:Evaluation-ANG-002-20260623T100000Z-Index-Education
+UID:Cours-50875-22-20260623T091231Z-Index-Education
 DTSTART:20260623T160000Z
-DTEND:20260623T170000Z
+DTEND:20260623T165500Z
 SUMMARY;LANGUAGE=fr:DS ANGLAIS - SMITH A.
 LOCATION;LANGUAGE=fr:S.003
-DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS
-Professeur : SMITH A.
-Type : Devoir surveillé
-Salle : S.003
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS
-Professeur : SMITH A.
-Type : Devoir surveillé
-Salle : S.003
-
+DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nType : De
+ voir surveillé\nSalle : S.003\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
+ />Type : Devoir surveillé<br/>Salle : S.003<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260624T100000Z
+DTSTAMP:20260624T081231Z
 LAST-MODIFIED:20260623T120000Z
-UID:Cours-029-1-20260624T100000Z-Index-Education
+UID:Cours-51035-3-20260624T091231Z-Index-Education
 DTSTART:20260624T080000Z
-DTEND:20260624T095500Z
+DTEND:20260624T085500Z
 SUMMARY;LANGUAGE=fr:PHILOSOPHIE - VATTIER V. - [T_PHIL01] - <TSTI2D 1> PHIL
 LOCATION;LANGUAGE=fr:D.151
-DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE
-Professeur : VATTIER V.
-Groupe : [T_PHIL01]
-Partie de classe : <TSTI2D 1> PHIL
-Salle : D.151
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE
-Professeur : VATTIER V.
-Groupe : [T_PHIL01]
-Partie de classe : &lt;TSTI2D 1&gt; PHIL
-Salle : D.151
-
+DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nGro
+ upe : [T_PHIL01]\nPartie de classe : &lt;TSTI2D 1&gt; PHIL\nSalle : D.151\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
+  V.<br/>Groupe : [T_PHIL01]<br/>Partie de classe : &lt;TSTI2D 1&gt; PHIL<b
+ r/>Salle : D.151<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260624T100000Z
+DTSTAMP:20260624T081231Z
 LAST-MODIFIED:20260623T120000Z
-UID:Cours-030-2-20260624T100000Z-Index-Education
+UID:Cours-51036-3-20260624T091231Z-Index-Education
 DTSTART:20260624T100000Z
-DTEND:20260624T115500Z
+DTEND:20260624T105500Z
 SUMMARY;LANGUAGE=fr:SVT - LEROY C. - [T_SVT01] - <TSTI2D 1> SVT
 LOCATION;LANGUAGE=fr:S.105
-DESCRIPTION;LANGUAGE=fr:Matière : SVT
-Professeur : LEROY C.
-Groupe : [T_SVT01]
-Partie de classe : <TSTI2D 1> SVT
-Salle : S.105
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : SVT
-Professeur : LEROY C.
-Groupe : [T_SVT01]
-Partie de classe : &lt;TSTI2D 1&gt; SVT
-Salle : S.105
-
+DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nGroupe : [T_S
+ VT01]\nPartie de classe : &lt;TSTI2D 1&gt; SVT\nSalle : S.105\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Gr
+ oupe : [T_SVT01]<br/>Partie de classe : &lt;TSTI2D 1&gt; SVT<br/>Salle : S
+ .105<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260624T100000Z
+DTSTAMP:20260624T081231Z
 LAST-MODIFIED:20260623T120000Z
-UID:Evaluation-SVT-002-20260624T100000Z-Index-Education
+UID:Cours-62239-3-20260624T091231Z-Index-Education
 DTSTART:20260624T140000Z
-DTEND:20260624T150000Z
+DTEND:20260624T145500Z
 SUMMARY;LANGUAGE=fr:DM SVT - LEROY C.
 LOCATION;LANGUAGE=fr:S.105
-DESCRIPTION;LANGUAGE=fr:Matière : SVT
-Professeur : LEROY C.
-Type : Devoir à la maison
-Salle : S.105
-
-À rendre le 25/06/2026 : Étude d'un écosystème.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : SVT
-Professeur : LEROY C.
-Type : Devoir à la maison
-Salle : S.105
-
-À rendre le 25/06/2026 : 
-Étude d'un écosystème.
+DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nType : Devoir
+  à la maison\nSalle : S.105\n\nÀ rendre le 25/06/2026 : Étude d'un écosys
+ tème.
+X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Ty
+ pe : Devoir à la maison<br/>Salle : S.105<br/><br/>À rendre le 25/06/2026 
+ : Étude d'un écosystème.
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260624T100000Z
+DTSTAMP:20260624T081231Z
 LAST-MODIFIED:20260623T120000Z
-UID:Evaluation-PHIL-002-20260624T100000Z-Index-Education
+UID:Cours-62524-21-20260624T091231Z-Index-Education
 DTSTART:20260624T160000Z
-DTEND:20260624T170000Z
+DTEND:20260624T165500Z
 SUMMARY;LANGUAGE=fr:DS PHILOSOPHIE - VATTIER V.
 LOCATION;LANGUAGE=fr:D.151
-DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE
-Professeur : VATTIER V.
-Type : Devoir surveillé
-Salle : D.151
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE
-Professeur : VATTIER V.
-Type : Devoir surveillé
-Salle : D.151
-
+DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nTyp
+ e : Devoir surveillé\nSalle : D.151\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
+  V.<br/>Type : Devoir surveillé<br/>Salle : D.151<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260625T100000Z
+DTSTAMP:20260625T081231Z
 LAST-MODIFIED:20260624T120000Z
-UID:Cours-033-1-20260625T100000Z-Index-Education
+UID:Cours-63089-3-20260625T091231Z-Index-Education
 DTSTART:20260625T080000Z
-DTEND:20260625T095500Z
-SUMMARY;LANGUAGE=fr:MATHÉMATIQUES - DUPONT J. - [T_MATH01] - <TSTI2D 1> MATH
+DTEND:20260625T085500Z
+SUMMARY;LANGUAGE=fr:MATHÉMATIQUES - DUPONT J. - [T_MATH01] - <TSTI2D 1> MA
+ TH
 LOCATION;LANGUAGE=fr:S.101
-DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES
-Professeur : DUPONT J.
-Groupe : [T_MATH01]
-Partie de classe : <TSTI2D 1> MATH
-Salle : S.101
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES
-Professeur : DUPONT J.
-Groupe : [T_MATH01]
-Partie de classe : &lt;TSTI2D 1&gt; MATH
-Salle : S.101
-
+DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nGr
+ oupe : [T_MATH01]\nPartie de classe : &lt;TSTI2D 1&gt; MATH\nSalle : S.101
+ \n
+X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
+ T J.<br/>Groupe : [T_MATH01]<br/>Partie de classe : &lt;TSTI2D 1&gt; MATH
+ br/>Salle : S.101<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260625T100000Z
+DTSTAMP:20260625T081231Z
 LAST-MODIFIED:20260624T120000Z
-UID:Cours-034-2-20260625T100000Z-Index-Education
+UID:Cours-65453-3-20260625T091231Z-Index-Education
 DTSTART:20260625T100000Z
-DTEND:20260625T115500Z
+DTEND:20260625T105500Z
 SUMMARY;LANGUAGE=fr:PHYSIQUE-CHIMIE - MARTIN L. - [T_PC02] - <TSTI2D 1> PC
 LOCATION;LANGUAGE=fr:S.204
-DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
-Groupe : [T_PC02]
-Partie de classe : <TSTI2D 1> PC
-Salle : S.204
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
-Groupe : [T_PC02]
-Partie de classe : &lt;TSTI2D 1&gt; PC
-Salle : S.204
-
+DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
+ Groupe : [T_PC02]\nPartie de classe : &lt;TSTI2D 1&gt; PC\nSalle : S.204\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
+ TIN L.<br/>Groupe : [T_PC02]<br/>Partie de classe : &lt;TSTI2D 1&gt; PC<br
+ />Salle : S.204<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260625T100000Z
+DTSTAMP:20260625T081231Z
 LAST-MODIFIED:20260624T120000Z
-UID:Evaluation-PC-003-20260625T100000Z-Index-Education
+UID:Cours-65462-3-20260625T091231Z-Index-Education
 DTSTART:20260625T140000Z
-DTEND:20260625T150000Z
+DTEND:20260625T145500Z
 SUMMARY;LANGUAGE=fr:Exercice PHYSIQUE-CHIMIE - MARTIN L.
 LOCATION;LANGUAGE=fr:S.204
-DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
-Type : Exercice
-Salle : S.204
-
-À rendre le 26/06/2026 : Exercices sur l'électricité.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
-Type : Exercice
-Salle : S.204
-
-À rendre le 26/06/2026 : 
-Exercices sur l'électricité.
+DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
+ Type : Exercice\nSalle : S.204\n\nÀ rendre le 26/06/2026 : Exercices sur l
+ 'électricité.
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
+ TIN L.<br/>Type : Exercice<br/>Salle : S.204<br/><br/>À rendre le 26/06/20
+ 26 : Exercices sur l'électricité.
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260625T100000Z
+DTSTAMP:20260625T081231Z
 LAST-MODIFIED:20260624T120000Z
-UID:Evaluation-MATH-003-20260625T100000Z-Index-Education
+UID:Cours-49901-4-20260625T091231Z-Index-Education
 DTSTART:20260625T160000Z
-DTEND:20260625T170000Z
+DTEND:20260625T165500Z
 SUMMARY;LANGUAGE=fr:Bac Blanc MATHÉMATIQUES - DUPONT J.
 LOCATION;LANGUAGE=fr:S.101
-DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES
-Professeur : DUPONT J.
-Type : Bac Blanc
-Salle : S.101
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES
-Professeur : DUPONT J.
-Type : Bac Blanc
-Salle : S.101
-
+DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nTy
+ pe : Bac Blanc\nSalle : S.101\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
+ T J.<br/>Type : Bac Blanc<br/>Salle : S.101<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Évaluation
-DTSTAMP:20260625T100000Z
+DTSTAMP:20260625T081231Z
 LAST-MODIFIED:20260624T120000Z
-UID:Evaluation-INFO-003-20260625T100000Z-Index-Education
+UID:Cours-49904-4-20260625T091231Z-Index-Education
 DTSTART:20260625T140000Z
-DTEND:20260625T150000Z
+DTEND:20260625T145500Z
 SUMMARY;LANGUAGE=fr:DS INFORMATIQUE - MOREAU T.
 LOCATION;LANGUAGE=fr:Salle Info 1
-DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE
-Professeur : MOREAU T.
-Type : Devoir surveillé
-Salle : Salle Info 1
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE
-Professeur : MOREAU T.
-Type : Devoir surveillé
-Salle : Salle Info 1
-
+DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE\nProfesseur : MOREAU T.\nTyp
+ e : Devoir surveillé\nSalle : Salle Info 1\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE<br/>Professeur : MOREAU
+  T.<br/>Type : Devoir surveillé<br/>Salle : Salle Info 1<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Devoir
-DTSTAMP:20260615T100000Z
+DTSTAMP:20260615T081231Z
 LAST-MODIFIED:20260614T120000Z
-UID:Devoir-MATH-001-20260615T100000Z-Index-Education
+UID:Devoir-50434-1-20260615T091231Z-Index-Education
 DTSTART:20260615T140000Z
-DTEND:20260615T150000Z
+DTEND:20260615T145500Z
 SUMMARY;LANGUAGE=fr:DM MATHÉMATIQUES - DUPONT J. - Dérivées et applications
 LOCATION;LANGUAGE=fr:S.101
-DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES
-Professeur : DUPONT J.
-Type : Devoir à la maison
-Sujet : Exercices sur les dérivées et leurs applications.
-À rendre le 16/06/2026.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPONT J.<br/>Type : Devoir à la maison<br/>Sujet : Exercices sur les dérivées et leurs applications.<br/>À rendre le 16/06/2026.
+DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nTy
+ pe : Devoir à la maison\nSujet : Exercices sur les dérivées et leurs applic
+ ations.\nÀ rendre le 16/06/2026.\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
+ T J.<br/>Type : Devoir à la maison<br/>Sujet : Exercices sur les dérivées 
+ et leurs applications.<br/>À rendre le 16/06/2026.<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Devoir
-DTSTAMP:20260616T100000Z
+DTSTAMP:20260616T081231Z
 LAST-MODIFIED:20260615T120000Z
-UID:Devoir-PC-001-20260616T100000Z-Index-Education
+UID:Devoir-50848-1-20260616T091231Z-Index-Education
 DTSTART:20260616T140000Z
-DTEND:20260616T150000Z
-SUMMARY;LANGUAGE=fr:DM PHYSIQUE-CHIMIE - MARTIN L. - Travail des forces et énergie
+DTEND:20260616T145500Z
+SUMMARY;LANGUAGE=fr:DM PHYSIQUE-CHIMIE - MARTIN L. - Travail des forces et 
+ énergie
 LOCATION;LANGUAGE=fr:S.204
-DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
-Type : Devoir à la maison
-Sujet : Contrôle sur le chapitre 8 (le travail des forces, le théorème de l'énergie cinétique et la conservation de l'énergie mécanique) et chapitre 9 (demi-équation électronique et équation bilan d'oxydoréduction).
-À rendre le 17/06/2026.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MARTIN L.<br/>Type : Devoir à la maison<br/>Sujet : Contrôle sur le chapitre 8 (le travail des forces, le théorème de l'énergie cinétique et la conservation de l'énergie mécanique) et chapitre 9 (demi-équation électronique et équation bilan d'oxydoréduction).<br/>À rendre le 17/06/2026.
+DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
+ Type : Devoir à la maison\nSujet : Contrôle sur le chapitre 8 (le travail 
+ des forces\, le théorème de l'énergie cinétique et la conservation de l'éne
+ rgie mécanique) et chapitre 9 (demi-équation électronique et équation bilan
+  d'oxydoréduction).\nÀ rendre le 17/06/2026.\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
+ TIN L.<br/>Type : Devoir à la maison<br/>Sujet : Contrôle sur le chapitre 
+ 8 (le travail des forces, le théorème de l'énergie cinétique et la conserva
+ tion de l'énergie mécanique) et chapitre 9 (demi-équation électronique et é
+ quation bilan d'oxydoréduction).<br/>À rendre le 17/06/2026.<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Devoir
-DTSTAMP:20260617T100000Z
+DTSTAMP:20260617T081231Z
 LAST-MODIFIED:20260616T120000Z
-UID:Devoir-ESP-001-20260617T100000Z-Index-Education
+UID:Devoir-50875-1-20260617T091231Z-Index-Education
 DTSTART:20260617T140000Z
-DTEND:20260617T150000Z
+DTEND:20260616T145500Z
 SUMMARY;LANGUAGE=fr:DM ESPAGNOL - GARCIA S. - Valencia et gastronomie
 LOCATION;LANGUAGE=fr:S.102
-DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL
-Professeur : GARCIA S.
-Type : Devoir à la maison
-Sujet : Contrôle de connaissances: lieux emblématiques, caractéristiques, activités, monuments Valencia/éléments de gastronomie.
-À rendre le 18/06/2026.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.<br/>Type : Devoir à la maison<br/>Sujet : Contrôle de connaissances: lieux emblématiques, caractéristiques, activités, monuments Valencia/éléments de gastronomie.<br/>À rendre le 18/06/2026.
+DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL\nProfesseur : GARCIA S.\nType : 
+ Devoir à la maison\nSujet : Contrôle de connaissances: lieux emblématiques\
+ , caractéristiques\, activités\, monuments Valencia/éléments de gastronomie
+ .\nÀ rendre le 18/06/2026.\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.
+ br/>Type : Devoir à la maison<br/>Sujet : Contrôle de connaissances: lieux 
+ emblématiques, caractéristiques, activités, monuments Valencia/éléments de 
+ gastronomie.<br/>À rendre le 18/06/2026.<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Devoir
-DTSTAMP:20260618T100000Z
+DTSTAMP:20260618T081231Z
 LAST-MODIFIED:20260617T120000Z
-UID:Devoir-HG-001-20260618T100000Z-Index-Education
+UID:Devoir-51035-1-20260618T091231Z-Index-Education
 DTSTART:20260618T140000Z
-DTEND:20260618T150000Z
-SUMMARY;LANGUAGE=fr:DM HISTOIRE-GÉOGRAPHIE - DURAND M. - Colonisation et WWI
+DTEND:20260618T145500Z
+SUMMARY;LANGUAGE=fr:DM HISTOIRE-GÉOGRAPHIE - DURAND M. - Colonisation et WW
+ I
 LOCATION;LANGUAGE=fr:S.301
-DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE
-Professeur : DURAND M.
-Type : Devoir à la maison
-Sujet : Préparer évaluation d'histoire. Programme: la colonisation et la première guerre mondiale.
-À rendre le 19/06/2026.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur : DURAND M.<br/>Type : Devoir à la maison<br/>Sujet : Préparer évaluation d'histoire. Programme: la colonisation et la première guerre mondiale.<br/>À rendre le 19/06/2026.
+DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
+ M.\nType : Devoir à la maison\nSujet : Préparer évaluation d'histoire. Prog
+ ramme: la colonisation et la première guerre mondiale.\nÀ rendre le 19/06/2
+ 026.\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
+  DURAND M.<br/>Type : Devoir à la maison<br/>Sujet : Préparer évaluation d
+ 'histoire. Programme: la colonisation et la première guerre mondiale.<br/>À 
+ rendre le 19/06/2026.<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Devoir
-DTSTAMP:20260619T100000Z
+DTSTAMP:20260619T081231Z
 LAST-MODIFIED:20260618T120000Z
-UID:Devoir-FR-001-20260619T100000Z-Index-Education
+UID:Devoir-51036-1-20260619T091231Z-Index-Education
 DTSTART:20260619T140000Z
-DTEND:20260619T150000Z
+DTEND:20260619T145500Z
 SUMMARY;LANGUAGE=fr:DM FRANÇAIS - LEFEVRE P. - Commentaire composé
 LOCATION;LANGUAGE=fr:S.201
-DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS
-Professeur : LEFEVRE P.
-Type : Devoir à la maison
-Sujet : Commentaire composé sur un extrait littéraire (Victor Hugo).
-À rendre le 20/06/2026.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.<br/>Type : Devoir à la maison<br/>Sujet : Commentaire composé sur un extrait littéraire (Victor Hugo).<br/>À rendre le 20/06/2026.
+DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS\nProfesseur : LEFEVRE P.\nType :
+  Devoir à la maison\nSujet : Commentaire composé sur un extrait littéraire 
+ (Victor Hugo).\nÀ rendre le 20/06/2026.\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.
+ <br/>Type : Devoir à la maison<br/>Sujet : Commentaire composé sur un extra
+ it littéraire (Victor Hugo).<br/>À rendre le 20/06/2026.<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Devoir
-DTSTAMP:20260620T100000Z
+DTSTAMP:20260620T081231Z
 LAST-MODIFIED:20260619T120000Z
-UID:Devoir-ANG-001-20260620T100000Z-Index-Education
+UID:Devoir-62239-1-20260620T091231Z-Index-Education
 DTSTART:20260620T140000Z
-DTEND:20260620T150000Z
+DTEND:20260620T145500Z
 SUMMARY;LANGUAGE=fr:DM ANGLAIS - SMITH A. - Essay sur la technologie
 LOCATION;LANGUAGE=fr:S.003
-DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS
-Professeur : SMITH A.
-Type : Devoir à la maison
-Sujet : Rédiger un essay sur l'impact de la technologie dans la société moderne.
-À rendre le 21/06/2026.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br/>Type : Devoir à la maison<br/>Sujet : Rédiger un essay sur l'impact de la technologie dans la société moderne.<br/>À rendre le 21/06/2026.
+DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nType : De
+ voir à la maison\nSujet : Rédiger un essay sur l'impact de la technologie d
+ ans la société moderne.\nÀ rendre le 21/06/2026.\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
+ />Type : Devoir à la maison<br/>Sujet : Rédiger un essay sur l'impact de l
+ a technologie dans la société moderne.<br/>À rendre le 21/06/2026.<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Devoir
-DTSTAMP:20260621T100000Z
+DTSTAMP:20260621T081231Z
 LAST-MODIFIED:20260620T120000Z
-UID:Devoir-PHIL-001-20260621T100000Z-Index-Education
+UID:Devoir-62524-1-20260621T091231Z-Index-Education
 DTSTART:20260621T140000Z
-DTEND:20260621T150000Z
+DTEND:20260621T145500Z
 SUMMARY;LANGUAGE=fr:DM PHILOSOPHIE - VATTIER V. - Dissertation sur la morale
 LOCATION;LANGUAGE=fr:D.151
-DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE
-Professeur : VATTIER V.
-Type : Devoir à la maison
-Sujet : Dissertation : "La morale est-elle une contrainte ou une libération ?".
-À rendre le 22/06/2026.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER V.<br/>Type : Devoir à la maison<br/>Sujet : Dissertation : "La morale est-elle une contrainte ou une libération ?"<br/>À rendre le 22/06/2026.
+DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nTyp
+ e : Devoir à la maison\nSujet : Dissertation : "La morale est-elle une cont
+ rainte ou une libération ?".\nÀ rendre le 22/06/2026.\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
+  V.<br/>Type : Devoir à la maison<br/>Sujet : Dissertation : "La morale est
+ -elle une contrainte ou une libération ?"<br/>À rendre le 22/06/2026.<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Devoir
-DTSTAMP:20260622T100000Z
+DTSTAMP:20260622T081231Z
 LAST-MODIFIED:20260621T120000Z
-UID:Devoir-SVT-001-20260622T100000Z-Index-Education
+UID:Devoir-63089-1-20260622T091231Z-Index-Education
 DTSTART:20260622T140000Z
-DTEND:20260622T150000Z
+DTEND:20260622T145500Z
 SUMMARY;LANGUAGE=fr:DM SVT - LEROY C. - Écosystèmes et biodiversité
 LOCATION;LANGUAGE=fr:S.105
-DESCRIPTION;LANGUAGE=fr:Matière : SVT
-Professeur : LEROY C.
-Type : Devoir à la maison
-Sujet : Étude d'un écosystème local et son impact sur la biodiversité.
-À rendre le 23/06/2026.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Type : Devoir à la maison<br/>Sujet : Étude d'un écosystème local et son impact sur la biodiversité.<br/>À rendre le 23/06/2026.
+DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nType : Devoir
+  à la maison\nSujet : Étude d'un écosystème local et son impact sur la bio
+ diversité.\nÀ rendre le 23/06/2026.\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Ty
+ pe : Devoir à la maison<br/>Sujet : Étude d'un écosystème local et son imp
+ act sur la biodiversité.<br/>À rendre le 23/06/2026.<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Devoir
-DTSTAMP:20260623T100000Z
+DTSTAMP:20260623T081231Z
 LAST-MODIFIED:20260622T120000Z
-UID:Devoir-INFO-001-20260623T100000Z-Index-Education
+UID:Devoir-65453-1-20260623T091231Z-Index-Education
 DTSTART:20260623T140000Z
-DTEND:20260623T150000Z
+DTEND:20260623T145500Z
 SUMMARY;LANGUAGE=fr:TP INFORMATIQUE - MOREAU T. - Base de données
 LOCATION;LANGUAGE=fr:Salle Info 1
-DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE
-Professeur : MOREAU T.
-Type : Travaux Pratiques
-Sujet : Projet de base de données pour une bibliothèque.
-À rendre le 24/06/2026.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE<br/>Professeur : MOREAU T.<br/>Type : Travaux Pratiques<br/>Sujet : Projet de base de données pour une bibliothèque.<br/>À rendre le 24/06/2026.
+DESCRIPTION;LANGUAGE=fr:Matière : INFORMATIQUE\nProfesseur : MOREAU T.\nTyp
+ e : Travaux Pratiques\nSujet : Projet de base de données pour une bibliothè
+ que.\nÀ rendre le 24/06/2026.\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : INFORMATIQUE<br/>Professeur : MOREAU
+  T.<br/>Type : Travaux Pratiques<br/>Sujet : Projet de base de données pour
+  une bibliothèque.<br/>À rendre le 24/06/2026.<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Devoir
-DTSTAMP:20260624T100000Z
+DTSTAMP:20260624T081231Z
 LAST-MODIFIED:20260623T120000Z
-UID:Devoir-PC-002-20260624T100000Z-Index-Education
+UID:Devoir-65462-1-20260624T091231Z-Index-Education
 DTSTART:20260624T140000Z
-DTEND:20260624T150000Z
+DTEND:20260624T145500Z
 SUMMARY;LANGUAGE=fr:DM PHYSIQUE-CHIMIE - MARTIN L. - Électricité et circuits
 LOCATION;LANGUAGE=fr:S.204
-DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE
-Professeur : MARTIN L.
-Type : Devoir à la maison
-Sujet : Exercices sur l'électricité et les circuits en série/parallèle.
-À rendre le 25/06/2026.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MARTIN L.<br/>Type : Devoir à la maison<br/>Sujet : Exercices sur l'électricité et les circuits en série/parallèle.<br/>À rendre le 25/06/2026.
+DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
+ Type : Devoir à la maison\nSujet : Exercices sur l'électricité et les circu
+ its en série/parallèle.\nÀ rendre le 25/06/2026.\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
+ TIN L.<br/>Type : Devoir à la maison<br/>Sujet : Exercices sur l'électrici
+ té et les circuits en série/parallèle.<br/>À rendre le 25/06/2026.<br/>
 END:VEVENT
 
 BEGIN:VEVENT
 CATEGORIES:Devoir
-DTSTAMP:20260625T100000Z
+DTSTAMP:20260625T081231Z
 LAST-MODIFIED:20260624T120000Z
-UID:Devoir-MATH-002-20260625T100000Z-Index-Education
+UID:Devoir-49901-1-20260625T091231Z-Index-Education
 DTSTART:20260625T140000Z
-DTEND:20260625T150000Z
+DTEND:20260625T145500Z
 SUMMARY;LANGUAGE=fr:DM MATHÉMATIQUES - DUPONT J. - Probabilités
 LOCATION;LANGUAGE=fr:S.101
-DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES
-Professeur : DUPONT J.
-Type : Devoir à la maison
-Sujet : Exercices sur les probabilités conditionnelles et les arbres de probabilité.
-À rendre le 26/06/2026.
-
-X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPONT J.<br/>Type : Devoir à la maison<br/>Sujet : Exercices sur les probabilités conditionnelles et les arbres de probabilité.<br/>À rendre le 26/06/2026.
+DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nTy
+ pe : Devoir à la maison\nSujet : Exercices sur les probabilités conditional
+ les et les arbres de probabilité.\nÀ rendre le 26/06/2026.\n
+X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
+ T J.<br/>Type : Devoir à la maison<br/>Sujet : Exercices sur les probabilit
+ és conditionnelles et les arbres de probabilité.<br/>À rendre le 26/06/2026
+ .<br/>
 END:VEVENT
 
 END:VCALENDAR
