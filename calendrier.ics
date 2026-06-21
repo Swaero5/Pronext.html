@@ -14,991 +14,937 @@ BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260621T081231Z
 LAST-MODIFIED:20260620T120000Z
-UID:Cours-80002-1-20260621T091231Z-Index-Education
+UID:Cours-90002-1-20260621T091231Z-Index-Education
 DTSTART:20260621T080000Z
 DTEND:20260621T085500Z
-SUMMARY;LANGUAGE=fr:PHYSIQUE-CHIMIE - MARTIN L. - [T_PC02] - <1ère G2> PC
-LOCATION;LANGUAGE=fr:S.204
-DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
- Groupe : [T_PC02]\nPartie de classe : &lt;1ère G2&gt; PC\nSalle : S.204\n\
- n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 3 Les ondes mécani
- ques.</div>\n\n<strong>Donné le 21/06/2026 : </strong>\n<div>Relire le cha
- pitre 3 (Les ondes mécaniques) et préparer les questions du prochain cours
- .</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
- TIN L.<br/>Groupe : [T_PC02]<br/>Partie de classe : &lt;1ère G2&gt; PC<br/
- >Salle : S.204<br/><strong>Contenu pédagogique : </strong><div>Chapitre 3 
- Les ondes mécaniques.</div><br/><strong>Donné le 21/06/2026 : </strong><di
- v>Relire le chapitre 3 (Les ondes mécaniques) et préparer les questions du
-  prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260621T081231Z
-LAST-MODIFIED:20260620T120000Z
-UID:Cours-80003-1-20260621T091231Z-Index-Education
-DTSTART:20260621T090000Z
-DTEND:20260621T095500Z
-SUMMARY;LANGUAGE=fr:NSI - MOREAU T. - [T_NSI01] - <1ère G2> NSI
-LOCATION;LANGUAGE=fr:Salle Info 1
-DESCRIPTION;LANGUAGE=fr:Matière : NSI\nProfesseur : MOREAU T.\nGroupe : [T_
- NSI01]\nPartie de classe : &lt;1ère G2&gt; NSI\nSalle : Salle Info 1\n\n<s
- trong>Contenu pédagogique : </strong>\n<div>Chapitre 3 La représentation d
- es données binaires.</div>\n\n<strong>Donné le 21/06/2026 : </strong>\n<di
- v>Relire le chapitre 3 (La représentation des données binaires) et prépare
- r les questions du prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : NSI<br/>Professeur : MOREAU T.<br/>G
- roupe : [T_NSI01]<br/>Partie de classe : &lt;1ère G2&gt; NSI<br/>Salle : S
- alle Info 1<br/><strong>Contenu pédagogique : </strong><div>Chapitre 3 La 
- représentation des données binaires.</div><br/><strong>Donné le 21/06/2026
-  : </strong><div>Relire le chapitre 3 (La représentation des données binai
- res) et préparer les questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260621T081231Z
-LAST-MODIFIED:20260620T120000Z
-UID:Cours-80004-1-20260621T091231Z-Index-Education
-DTSTART:20260621T100000Z
-DTEND:20260621T105500Z
-SUMMARY;LANGUAGE=fr:FRANÇAIS - LEFEVRE P. - [T_FR01] - <2nde 3> FR
-LOCATION;LANGUAGE=fr:Amphi A
-DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS\nProfesseur : LEFEVRE P.\nGroupe
-  : [T_FR01]\nPartie de classe : &lt;2nde 3&gt; FR\nSalle : Amphi A\n\n<str
- ong>Contenu pédagogique : </strong>\n<div>Chapitre 1 Victor Hugo et le rom
- antisme.</div>\n\n<strong>Donné le 21/06/2026 : </strong>\n<div>Relire le 
- chapitre 1 (Victor Hugo et le romantisme) et préparer les questions du pro
- chain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.
- <br/>Groupe : [T_FR01]<br/>Partie de classe : &lt;2nde 3&gt; FR<br/>Salle 
- : Amphi A<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 Victo
- r Hugo et le romantisme.</div><br/><strong>Donné le 21/06/2026 : </strong>
- <div>Relire le chapitre 1 (Victor Hugo et le romantisme) et préparer les q
- uestions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260621T081231Z
-LAST-MODIFIED:20260620T120000Z
-UID:Cours-80005-1-20260621T091231Z-Index-Education
-DTSTART:20260621T110000Z
-DTEND:20260621T115500Z
-SUMMARY;LANGUAGE=fr:ESPAGNOL - GARCIA S. - [T_ESP01] - <Tle G1> ESP
-LOCATION;LANGUAGE=fr:S.102
-DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL\nProfesseur : GARCIA S.\nGroupe 
- : [T_ESP01]\nPartie de classe : &lt;Tle G1&gt; ESP\nSalle : S.102\n\n<stro
- ng>Contenu pédagogique : </strong>\n<div>Chapitre 1 La culture et les trad
- itions de Valence.</div>\n\n<strong>Donné le 21/06/2026 : </strong>\n<div>
- Relire le chapitre 1 (La culture et les traditions de Valence) et préparer
-  les questions du prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.<
- br/>Groupe : [T_ESP01]<br/>Partie de classe : &lt;Tle G1&gt; ESP<br/>Salle
-  : S.102<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 La cul
- ture et les traditions de Valence.</div><br/><strong>Donné le 21/06/2026 :
-  </strong><div>Relire le chapitre 1 (La culture et les traditions de Valen
- ce) et préparer les questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260621T081231Z
-LAST-MODIFIED:20260620T120000Z
-UID:Cours-80006-1-20260621T091231Z-Index-Education
-DTSTART:20260621T140000Z
-DTEND:20260621T145500Z
-SUMMARY;LANGUAGE=fr:Interrogation écrite PHILOSOPHIE - VATTIER V. - Chapitr
- e 1 : La liberté et le déterminisme
-LOCATION;LANGUAGE=fr:D.151
-DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nTyp
- e : Interrogation écrite\nSalle : D.151\n\n<div>Pour le 23/06/2026, une in
- terrogation écrite sur le Chapitre 1 La liberté et le déterminisme.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
-  V.<br/>Type : Interrogation écrite<br/>Salle : D.151<br/><div>Pour le 23/
- 06/2026, une interrogation écrite sur le Chapitre 1 La liberté et le déter
- minisme.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260622T081231Z
-LAST-MODIFIED:20260621T120000Z
-UID:Cours-80007-1-20260622T091231Z-Index-Education
-DTSTART:20260622T080000Z
-DTEND:20260622T085500Z
-SUMMARY;LANGUAGE=fr:ANGLAIS - SMITH A. - [T_ANG01] - <Tle G1> ANG
-LOCATION;LANGUAGE=fr:S.003
-DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nGroupe : 
- [T_ANG01]\nPartie de classe : &lt;Tle G1&gt; ANG\nSalle : S.003\n\n<strong
- >Contenu pédagogique : </strong>\n<div>Chapitre 1 Technology and society.<
- /div>\n\n<strong>Donné le 22/06/2026 : </strong>\n<div>Relire le chapitre 
- 1 (Technology and society) et préparer les questions du prochain cours.</d
- iv>
-X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
- />Groupe : [T_ANG01]<br/>Partie de classe : &lt;Tle G1&gt; ANG<br/>Salle :
-  S.003<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 Technolo
- gy and society.</div><br/><strong>Donné le 22/06/2026 : </strong><div>Reli
- re le chapitre 1 (Technology and society) et préparer les questions du pro
- chain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260622T081231Z
-LAST-MODIFIED:20260621T120000Z
-UID:Cours-80008-1-20260622T091231Z-Index-Education
-DTSTART:20260622T090000Z
-DTEND:20260622T095500Z
-SUMMARY;LANGUAGE=fr:Interrogation écrite FRANÇAIS - LEFEVRE P. - Chapitre 3
-  : Le théâtre classique : Molière
-LOCATION;LANGUAGE=fr:Amphi A
-DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS\nProfesseur : LEFEVRE P.\nType :
-  Interrogation écrite\nSalle : Amphi A\n\n<div>Pour le 24/06/2026, une int
- errogation écrite sur le Chapitre 3 Le théâtre classique : Molière.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.
- <br/>Type : Interrogation écrite<br/>Salle : Amphi A<br/><div>Pour le 24/0
- 6/2026, une interrogation écrite sur le Chapitre 3 Le théâtre classique : 
- Molière.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260622T081231Z
-LAST-MODIFIED:20260621T120000Z
-UID:Cours-80009-1-20260622T091231Z-Index-Education
-DTSTART:20260622T100000Z
-DTEND:20260622T105500Z
 SUMMARY;LANGUAGE=fr:SES - BLANC E. - [T_SES01] - <1ère G2> SES
 LOCATION;LANGUAGE=fr:S.210
 DESCRIPTION;LANGUAGE=fr:Matière : SES\nProfesseur : BLANC E.\nGroupe : [T_S
- ES01]\nPartie de classe : &lt;1ère G2&gt; SES\nSalle : S.210\n\n<strong>Co
- ntenu pédagogique : </strong>\n<div>Chapitre 1 La création monétaire.</div
- >\n\n<strong>Donné le 22/06/2026 : </strong>\n<div>Relire le chapitre 1 (L
- a création monétaire) et préparer les questions du prochain cours.</div>
+ ES01]\nPartie de classe : &lt\;1ère G2&gt\; SES\nSalle : S.210\n\n<strong>
+ Contenu pédagogique : </strong>\n<div>Chapitre 1 La création monétaire.</d
+ iv>
 X-ALT-DESC;FMTTYPE=text/html:Matière : SES<br/>Professeur : BLANC E.<br/>Gr
  oupe : [T_SES01]<br/>Partie de classe : &lt;1ère G2&gt; SES<br/>Salle : S.
  210<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 La création
-  monétaire.</div><br/><strong>Donné le 22/06/2026 : </strong><div>Relire l
- e chapitre 1 (La création monétaire) et préparer les questions du prochain
-  cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260622T081231Z
-LAST-MODIFIED:20260621T120000Z
-UID:Cours-80010-1-20260622T091231Z-Index-Education
-DTSTART:20260622T110000Z
-DTEND:20260622T115500Z
-SUMMARY;LANGUAGE=fr:TP noté PHILOSOPHIE - VATTIER V. - Chapitre 1 : La libe
- rté et le déterminisme
-LOCATION;LANGUAGE=fr:D.151
-DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nTyp
- e : TP noté\nSalle : D.151\n\n<div>Pour le 24/06/2026, un TP noté sur le C
- hapitre 1 La liberté et le déterminisme.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
-  V.<br/>Type : TP noté<br/>Salle : D.151<br/><div>Pour le 24/06/2026, un T
- P noté sur le Chapitre 1 La liberté et le déterminisme.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260622T081231Z
-LAST-MODIFIED:20260621T120000Z
-UID:Cours-80011-1-20260622T091231Z-Index-Education
-DTSTART:20260622T140000Z
-DTEND:20260622T145500Z
-SUMMARY;LANGUAGE=fr:DM HISTOIRE-GÉOGRAPHIE - DURAND M. - Chapitre 1 : La Pr
- emière Guerre mondiale
-LOCATION;LANGUAGE=fr:S.301
-DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
- M.\nType : DM\nSalle : S.301\n\n<div>Pour demain, le DM à rendre sur le Ch
- apitre 1 La Première Guerre mondiale.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
-  DURAND M.<br/>Type : DM<br/>Salle : S.301<br/><div>Pour demain, le DM à r
- endre sur le Chapitre 1 La Première Guerre mondiale.</div>
+  monétaire.</div>
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260622T081231Z
-LAST-MODIFIED:20260621T120000Z
-UID:Cours-80012-1-20260622T091231Z-Index-Education
-DTSTART:20260622T160000Z
-DTEND:20260622T165500Z
+DTSTAMP:20260621T081231Z
+LAST-MODIFIED:20260620T120000Z
+UID:Cours-90003-1-20260621T091231Z-Index-Education
+DTSTART:20260621T090000Z
+DTEND:20260621T095500Z
+SUMMARY;LANGUAGE=fr:SVT - LEROY C. - [T_SVT01] - <2nde 3> SVT
+LOCATION;LANGUAGE=fr:S.105
+DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nGroupe : [T_S
+ VT01]\nPartie de classe : &lt\;2nde 3&gt\; SVT\nSalle : S.105\n\n<strong>C
+ ontenu pédagogique : </strong>\n<div>Chapitre 4 La tectonique des plaques.
+ </div>\n\n<strong>Donné le 21/06/2026 : </strong>\n<div>Apprendre les poin
+ ts clés du chapitre 4 (La tectonique des plaques).</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Gr
+ oupe : [T_SVT01]<br/>Partie de classe : &lt;2nde 3&gt; SVT<br/>Salle : S.1
+ 05<br/><strong>Contenu pédagogique : </strong><div>Chapitre 4 La tectoniqu
+ e des plaques.</div><br/><strong>Donné le 21/06/2026 : </strong><div>Appre
+ ndre les points clés du chapitre 4 (La tectonique des plaques).</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260621T081231Z
+LAST-MODIFIED:20260620T120000Z
+UID:Cours-90004-1-20260621T091231Z-Index-Education
+DTSTART:20260621T100000Z
+DTEND:20260621T105500Z
 SUMMARY;LANGUAGE=fr:LATIN - ROUX M. - [T_LAT01] - <3e A> LAT
 LOCATION;LANGUAGE=fr:S.115
 DESCRIPTION;LANGUAGE=fr:Matière : LATIN\nProfesseur : ROUX M.\nGroupe : [T_
- LAT01]\nPartie de classe : &lt;3e A&gt; LAT\nSalle : S.115\n\n<strong>Cont
- enu pédagogique : </strong>\n<div>Chapitre 4 Jules César et la conquête de
- s Gaules.</div>\n\n<strong>Donné le 22/06/2026 : </strong>\n<div>Relire le
-  chapitre 4 (Jules César et la conquête des Gaules) et préparer les questi
- ons du prochain cours.</div>
+ LAT01]\nPartie de classe : &lt\;3e A&gt\; LAT\nSalle : S.115\n\n<strong>Co
+ ntenu pédagogique : </strong>\n<div>Chapitre 1 La mythologie romaine : les
+  dieux de l'Olympe.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : LATIN<br/>Professeur : ROUX M.<br/>G
  roupe : [T_LAT01]<br/>Partie de classe : &lt;3e A&gt; LAT<br/>Salle : S.11
- 5<br/><strong>Contenu pédagogique : </strong><div>Chapitre 4 Jules César e
- t la conquête des Gaules.</div><br/><strong>Donné le 22/06/2026 : </strong
- ><div>Relire le chapitre 4 (Jules César et la conquête des Gaules) et prép
- arer les questions du prochain cours.</div>
+ 5<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 La mythologie
+  romaine : les dieux de l'Olympe.</div>
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260623T081231Z
-LAST-MODIFIED:20260622T120000Z
-UID:Cours-80013-1-20260623T091231Z-Index-Education
-DTSTART:20260623T080000Z
-DTEND:20260623T085500Z
-SUMMARY;LANGUAGE=fr:PHILOSOPHIE - VATTIER V. - [T_PHIL01] - <Tle G1> PHIL
-LOCATION;LANGUAGE=fr:D.151
-DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nGro
- upe : [T_PHIL01]\nPartie de classe : &lt;Tle G1&gt; PHIL\nSalle : D.151\n\
- n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 2 La morale : devo
- ir et bonheur.</div>\n\n<strong>Donné le 23/06/2026 : </strong>\n<div>Reli
- re le chapitre 2 (La morale : devoir et bonheur) et préparer les questions
-  du prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
-  V.<br/>Groupe : [T_PHIL01]<br/>Partie de classe : &lt;Tle G1&gt; PHIL<br/
- >Salle : D.151<br/><strong>Contenu pédagogique : </strong><div>Chapitre 2 
- La morale : devoir et bonheur.</div><br/><strong>Donné le 23/06/2026 : </s
- trong><div>Relire le chapitre 2 (La morale : devoir et bonheur) et prépare
- r les questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260623T081231Z
-LAST-MODIFIED:20260622T120000Z
-UID:Cours-80014-1-20260623T091231Z-Index-Education
-DTSTART:20260623T090000Z
-DTEND:20260623T095500Z
-SUMMARY;LANGUAGE=fr:DM FRANÇAIS - LEFEVRE P. - Chapitre 1 : Victor Hugo et 
- le romantisme
-LOCATION;LANGUAGE=fr:Amphi A
-DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS\nProfesseur : LEFEVRE P.\nType :
-  DM\nSalle : Amphi A\n\n<div>Pour demain, le DM à rendre sur le Chapitre 1
-  Victor Hugo et le romantisme.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.
- <br/>Type : DM<br/>Salle : Amphi A<br/><div>Pour demain, le DM à rendre su
- r le Chapitre 1 Victor Hugo et le romantisme.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260623T081231Z
-LAST-MODIFIED:20260622T120000Z
-UID:Cours-80015-1-20260623T091231Z-Index-Education
-DTSTART:20260623T100000Z
-DTEND:20260623T105500Z
-SUMMARY;LANGUAGE=fr:Contrôle HISTOIRE-GÉOGRAPHIE - DURAND M. - Chapitre 2 :
-  La révolution industrielle
-LOCATION;LANGUAGE=fr:S.301
-DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
- M.\nType : Contrôle\nSalle : S.301\n\n<div>Pour demain, un contrôle sur le
-  Chapitre 2 La révolution industrielle.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
-  DURAND M.<br/>Type : Contrôle<br/>Salle : S.301<br/><div>Pour demain, un 
- contrôle sur le Chapitre 2 La révolution industrielle.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260623T081231Z
-LAST-MODIFIED:20260622T120000Z
-UID:Cours-80016-1-20260623T091231Z-Index-Education
-DTSTART:20260623T110000Z
-DTEND:20260623T115500Z
+DTSTAMP:20260621T081231Z
+LAST-MODIFIED:20260620T120000Z
+UID:Cours-90005-1-20260621T091231Z-Index-Education
+DTSTART:20260621T110000Z
+DTEND:20260621T115500Z
 SUMMARY;LANGUAGE=fr:EMC - SIMON N. - [T_EMC01] - <4e B> EMC
 LOCATION;LANGUAGE=fr:S.215
 DESCRIPTION;LANGUAGE=fr:Matière : EMC\nProfesseur : SIMON N.\nGroupe : [T_E
- MC01]\nPartie de classe : &lt;4e B&gt; EMC\nSalle : S.215\n\n<strong>Conte
- nu pédagogique : </strong>\n<div>Chapitre 3 La citoyenneté et le vote.</di
- v>\n\n<strong>Donné le 23/06/2026 : </strong>\n<div>Relire le chapitre 3 (
- La citoyenneté et le vote) et préparer les questions du prochain cours.</d
- iv>
+ MC01]\nPartie de classe : &lt\;4e B&gt\; EMC\nSalle : S.215\n\n<strong>Con
+ tenu pédagogique : </strong>\n<div>Chapitre 1 La liberté d'expression et s
+ es limites.</div>\n\n<strong>Donné le 21/06/2026 : </strong>\n<div>Faire l
+ es exercices d'application du chapitre 1.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : EMC<br/>Professeur : SIMON N.<br/>Gr
  oupe : [T_EMC01]<br/>Partie de classe : &lt;4e B&gt; EMC<br/>Salle : S.215
- <br/><strong>Contenu pédagogique : </strong><div>Chapitre 3 La citoyenneté
-  et le vote.</div><br/><strong>Donné le 23/06/2026 : </strong><div>Relire 
- le chapitre 3 (La citoyenneté et le vote) et préparer les questions du pro
- chain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260623T081231Z
-LAST-MODIFIED:20260622T120000Z
-UID:Cours-80017-1-20260623T091231Z-Index-Education
-DTSTART:20260623T140000Z
-DTEND:20260623T145500Z
-SUMMARY;LANGUAGE=fr:TP noté LATIN - ROUX M. - Chapitre 2 : La vie quotidien
- ne à Rome
-LOCATION;LANGUAGE=fr:S.115
-DESCRIPTION;LANGUAGE=fr:Matière : LATIN\nProfesseur : ROUX M.\nType : TP no
- té\nSalle : S.115\n\n<div>Pour le 25/06/2026, un TP noté sur le Chapitre 2
-  La vie quotidienne à Rome.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : LATIN<br/>Professeur : ROUX M.<br/>T
- ype : TP noté<br/>Salle : S.115<br/><div>Pour le 25/06/2026, un TP noté su
- r le Chapitre 2 La vie quotidienne à Rome.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260623T081231Z
-LAST-MODIFIED:20260622T120000Z
-UID:Cours-80018-1-20260623T091231Z-Index-Education
-DTSTART:20260623T160000Z
-DTEND:20260623T165500Z
-SUMMARY;LANGUAGE=fr:Évaluation ANGLAIS - SMITH A. - Chapitre 1 : Technology
-  and society
-LOCATION;LANGUAGE=fr:S.003
-DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nType : Év
- aluation\nSalle : S.003\n\n<div>Pour demain, une évaluation sur le Chapitr
- e 1 Technology and society.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
- />Type : Évaluation<br/>Salle : S.003<br/><div>Pour demain, une évaluation
-  sur le Chapitre 1 Technology and society.</div>
+ <br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 La liberté d'e
+ xpression et ses limites.</div><br/><strong>Donné le 21/06/2026 : </strong
+ ><div>Faire les exercices d'application du chapitre 1.</div>
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260624T081231Z
-LAST-MODIFIED:20260623T120000Z
-UID:Cours-80019-1-20260624T091231Z-Index-Education
-DTSTART:20260624T080000Z
-DTEND:20260624T085500Z
-SUMMARY;LANGUAGE=fr:SES - BLANC E. - [T_SES01] - <1ère G2> SES
-LOCATION;LANGUAGE=fr:S.210
-DESCRIPTION;LANGUAGE=fr:Matière : SES\nProfesseur : BLANC E.\nGroupe : [T_S
- ES01]\nPartie de classe : &lt;1ère G2&gt; SES\nSalle : S.210\n\n<strong>Co
- ntenu pédagogique : </strong>\n<div>Chapitre 3 La socialisation et les gro
- upes sociaux.</div>\n\n<strong>Donné le 24/06/2026 : </strong>\n<div>Relir
- e le chapitre 3 (La socialisation et les groupes sociaux) et préparer les 
- questions du prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : SES<br/>Professeur : BLANC E.<br/>Gr
- oupe : [T_SES01]<br/>Partie de classe : &lt;1ère G2&gt; SES<br/>Salle : S.
- 210<br/><strong>Contenu pédagogique : </strong><div>Chapitre 3 La socialis
- ation et les groupes sociaux.</div><br/><strong>Donné le 24/06/2026 : </st
- rong><div>Relire le chapitre 3 (La socialisation et les groupes sociaux) e
- t préparer les questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260624T081231Z
-LAST-MODIFIED:20260623T120000Z
-UID:Cours-80020-1-20260624T091231Z-Index-Education
-DTSTART:20260624T100000Z
-DTEND:20260624T105500Z
-SUMMARY;LANGUAGE=fr:Évaluation NSI - MOREAU T. - Chapitre 4 : Les structure
- s de données : listes et piles
-LOCATION;LANGUAGE=fr:Salle Info 1
-DESCRIPTION;LANGUAGE=fr:Matière : NSI\nProfesseur : MOREAU T.\nType : Évalu
- ation\nSalle : Salle Info 1\n\n<div>Pour demain, une évaluation sur le Cha
- pitre 4 Les structures de données : listes et piles.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : NSI<br/>Professeur : MOREAU T.<br/>T
- ype : Évaluation<br/>Salle : Salle Info 1<br/><div>Pour demain, une évalua
- tion sur le Chapitre 4 Les structures de données : listes et piles.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260624T081231Z
-LAST-MODIFIED:20260623T120000Z
-UID:Cours-80021-1-20260624T091231Z-Index-Education
-DTSTART:20260624T110000Z
-DTEND:20260624T115500Z
-SUMMARY;LANGUAGE=fr:MATHÉMATIQUES - DUPONT J. - [T_MATH01] - <1ère G2> MATH
-LOCATION;LANGUAGE=fr:S.101
-DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nGr
- oupe : [T_MATH01]\nPartie de classe : &lt;1ère G2&gt; MATH\nSalle : S.101\
- n\n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 3 Le produit sca
- laire dans le plan.</div>\n\n<strong>Donné le 24/06/2026 : </strong>\n<div
- >Relire le chapitre 3 (Le produit scalaire dans le plan) et préparer les q
- uestions du prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
- T J.<br/>Groupe : [T_MATH01]<br/>Partie de classe : &lt;1ère G2&gt; MATH<b
- r/>Salle : S.101<br/><strong>Contenu pédagogique : </strong><div>Chapitre 
- 3 Le produit scalaire dans le plan.</div><br/><strong>Donné le 24/06/2026 
- : </strong><div>Relire le chapitre 3 (Le produit scalaire dans le plan) et
-  préparer les questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260624T081231Z
-LAST-MODIFIED:20260623T120000Z
-UID:Cours-80022-1-20260624T091231Z-Index-Education
-DTSTART:20260624T140000Z
-DTEND:20260624T145500Z
-SUMMARY;LANGUAGE=fr:DM PHILOSOPHIE - VATTIER V. - Chapitre 1 : La liberté e
- t le déterminisme
+DTSTAMP:20260621T081231Z
+LAST-MODIFIED:20260620T120000Z
+UID:Cours-90006-1-20260621T091231Z-Index-Education
+DTSTART:20260621T140000Z
+DTEND:20260621T145500Z
+SUMMARY;LANGUAGE=fr:PHILOSOPHIE - VATTIER V. - [T_PHIL01] - <Tle G1> PHIL
 LOCATION;LANGUAGE=fr:D.151
-DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nTyp
- e : DM\nSalle : D.151\n\n<div>Pour demain, le DM à rendre sur le Chapitre 
- 1 La liberté et le déterminisme.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
-  V.<br/>Type : DM<br/>Salle : D.151<br/><div>Pour demain, le DM à rendre s
- ur le Chapitre 1 La liberté et le déterminisme.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260624T081231Z
-LAST-MODIFIED:20260623T120000Z
-UID:Cours-80023-1-20260624T091231Z-Index-Education
-DTSTART:20260624T160000Z
-DTEND:20260624T165500Z
-SUMMARY;LANGUAGE=fr:FRANÇAIS - LEFEVRE P. - [T_FR01] - <2nde 3> FR
-LOCATION;LANGUAGE=fr:Amphi A
-DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS\nProfesseur : LEFEVRE P.\nGroupe
-  : [T_FR01]\nPartie de classe : &lt;2nde 3&gt; FR\nSalle : Amphi A\n\n<str
- ong>Contenu pédagogique : </strong>\n<div>Chapitre 2 La poésie engagée.</d
- iv>\n\n<strong>Donné le 24/06/2026 : </strong>\n<div>Relire le chapitre 2 
- (La poésie engagée) et préparer les questions du prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.
- <br/>Groupe : [T_FR01]<br/>Partie de classe : &lt;2nde 3&gt; FR<br/>Salle 
- : Amphi A<br/><strong>Contenu pédagogique : </strong><div>Chapitre 2 La po
- ésie engagée.</div><br/><strong>Donné le 24/06/2026 : </strong><div>Relire
-  le chapitre 2 (La poésie engagée) et préparer les questions du prochain c
- ours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260625T081231Z
-LAST-MODIFIED:20260624T120000Z
-UID:Cours-80024-1-20260625T091231Z-Index-Education
-DTSTART:20260625T080000Z
-DTEND:20260625T085500Z
-SUMMARY;LANGUAGE=fr:LATIN - ROUX M. - [T_LAT01] - <3e A> LAT
-LOCATION;LANGUAGE=fr:S.115
-DESCRIPTION;LANGUAGE=fr:Matière : LATIN\nProfesseur : ROUX M.\nGroupe : [T_
- LAT01]\nPartie de classe : &lt;3e A&gt; LAT\nSalle : S.115\n\n<strong>Cont
- enu pédagogique : </strong>\n<div>Chapitre 2 La vie quotidienne à Rome.</d
- iv>\n\n<strong>Donné le 25/06/2026 : </strong>\n<div>Relire le chapitre 2 
- (La vie quotidienne à Rome) et préparer les questions du prochain cours.</
+DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nGro
+ upe : [T_PHIL01]\nPartie de classe : &lt\;Tle G1&gt\; PHIL\nSalle : D.151\
+ n\n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 3 La conscience 
+ et l'inconscient.</div>\n\n<strong>Donné le 21/06/2026 : </strong>\n<div>A
+ pprendre les points clés du chapitre 3 (La conscience et l'inconscient).</
  div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : LATIN<br/>Professeur : ROUX M.<br/>G
- roupe : [T_LAT01]<br/>Partie de classe : &lt;3e A&gt; LAT<br/>Salle : S.11
- 5<br/><strong>Contenu pédagogique : </strong><div>Chapitre 2 La vie quotid
- ienne à Rome.</div><br/><strong>Donné le 25/06/2026 : </strong><div>Relire
-  le chapitre 2 (La vie quotidienne à Rome) et préparer les questions du pr
- ochain cours.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
+  V.<br/>Groupe : [T_PHIL01]<br/>Partie de classe : &lt;Tle G1&gt; PHIL<br/
+ >Salle : D.151<br/><strong>Contenu pédagogique : </strong><div>Chapitre 3 
+ La conscience et l'inconscient.</div><br/><strong>Donné le 21/06/2026 : </
+ strong><div>Apprendre les points clés du chapitre 3 (La conscience et l'in
+ conscient).</div>
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260625T081231Z
-LAST-MODIFIED:20260624T120000Z
-UID:Cours-80025-1-20260625T091231Z-Index-Education
-DTSTART:20260625T090000Z
-DTEND:20260625T095500Z
+DTSTAMP:20260621T081231Z
+LAST-MODIFIED:20260620T120000Z
+UID:Cours-90007-1-20260621T091231Z-Index-Education
+DTSTART:20260621T160000Z
+DTEND:20260621T165500Z
 SUMMARY;LANGUAGE=fr:ALLEMAND - WEBER H. - [T_ALL01] - <3e A> ALL
 LOCATION;LANGUAGE=fr:S.110
 DESCRIPTION;LANGUAGE=fr:Matière : ALLEMAND\nProfesseur : WEBER H.\nGroupe :
-  [T_ALL01]\nPartie de classe : &lt;3e A&gt; ALL\nSalle : S.110\n\n<strong>
- Contenu pédagogique : </strong>\n<div>Chapitre 2 Le Perfekt : formation et
-  emploi.</div>\n\n<strong>Donné le 25/06/2026 : </strong>\n<div>Relire le 
- chapitre 2 (Le Perfekt : formation et emploi) et préparer les questions du
-  prochain cours.</div>
+  [T_ALL01]\nPartie de classe : &lt\;3e A&gt\; ALL\nSalle : S.110\n\n<stron
+ g>Contenu pédagogique : </strong>\n<div>Chapitre 1 Le quotidien à Berlin.<
+ /div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : ALLEMAND<br/>Professeur : WEBER H.<b
  r/>Groupe : [T_ALL01]<br/>Partie de classe : &lt;3e A&gt; ALL<br/>Salle : 
- S.110<br/><strong>Contenu pédagogique : </strong><div>Chapitre 2 Le Perfek
- t : formation et emploi.</div><br/><strong>Donné le 25/06/2026 : </strong>
- <div>Relire le chapitre 2 (Le Perfekt : formation et emploi) et préparer l
- es questions du prochain cours.</div>
+ S.110<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 Le quotid
+ ien à Berlin.</div>
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260625T081231Z
-LAST-MODIFIED:20260624T120000Z
-UID:Cours-80026-1-20260625T091231Z-Index-Education
-DTSTART:20260625T100000Z
-DTEND:20260625T105500Z
-SUMMARY;LANGUAGE=fr:HISTOIRE-GÉOGRAPHIE - DURAND M. - [T_HG03] - <2nde 3> H
- G
-LOCATION;LANGUAGE=fr:S.301
-DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
- M.\nGroupe : [T_HG03]\nPartie de classe : &lt;2nde 3&gt; HG\nSalle : S.301
- \n\n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 2 La révolution
-  industrielle.</div>\n\n<strong>Donné le 25/06/2026 : </strong>\n<div>Reli
- re le chapitre 2 (La révolution industrielle) et préparer les questions du
-  prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
-  DURAND M.<br/>Groupe : [T_HG03]<br/>Partie de classe : &lt;2nde 3&gt; HG<
- br/>Salle : S.301<br/><strong>Contenu pédagogique : </strong><div>Chapitre
-  2 La révolution industrielle.</div><br/><strong>Donné le 25/06/2026 : </s
- trong><div>Relire le chapitre 2 (La révolution industrielle) et préparer l
- es questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260625T081231Z
-LAST-MODIFIED:20260624T120000Z
-UID:Cours-80027-1-20260625T091231Z-Index-Education
-DTSTART:20260625T110000Z
-DTEND:20260625T115500Z
-SUMMARY;LANGUAGE=fr:PHILOSOPHIE - VATTIER V. - [T_PHIL01] - <Tle G1> PHIL
-LOCATION;LANGUAGE=fr:D.151
-DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nGro
- upe : [T_PHIL01]\nPartie de classe : &lt;Tle G1&gt; PHIL\nSalle : D.151\n\
- n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 1 La liberté et le
-  déterminisme.</div>\n\n<strong>Donné le 25/06/2026 : </strong>\n<div>Reli
- re le chapitre 1 (La liberté et le déterminisme) et préparer les questions
-  du prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
-  V.<br/>Groupe : [T_PHIL01]<br/>Partie de classe : &lt;Tle G1&gt; PHIL<br/
- >Salle : D.151<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 
- La liberté et le déterminisme.</div><br/><strong>Donné le 25/06/2026 : </s
- trong><div>Relire le chapitre 1 (La liberté et le déterminisme) et prépare
- r les questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260625T081231Z
-LAST-MODIFIED:20260624T120000Z
-UID:Cours-80028-1-20260625T091231Z-Index-Education
-DTSTART:20260625T160000Z
-DTEND:20260625T165500Z
-SUMMARY;LANGUAGE=fr:Devoir surveillé MATHÉMATIQUES - DUPONT J. - Chapitre 4
-  : Les probabilités conditionnelles
-LOCATION;LANGUAGE=fr:S.101
-DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nTy
- pe : Devoir surveillé\nSalle : S.101\n\n<div>Pour demain, un devoir survei
- llé sur le Chapitre 4 Les probabilités conditionnelles.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
- T J.<br/>Type : Devoir surveillé<br/>Salle : S.101<br/><div>Pour demain, u
- n devoir surveillé sur le Chapitre 4 Les probabilités conditionnelles.</di
- v>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260626T081231Z
-LAST-MODIFIED:20260625T120000Z
-UID:Cours-80029-1-20260626T091231Z-Index-Education
-DTSTART:20260626T080000Z
-DTEND:20260626T085500Z
-SUMMARY;LANGUAGE=fr:EMC - SIMON N. - [T_EMC01] - <4e B> EMC
-LOCATION;LANGUAGE=fr:S.215
-DESCRIPTION;LANGUAGE=fr:Matière : EMC\nProfesseur : SIMON N.\nGroupe : [T_E
- MC01]\nPartie de classe : &lt;4e B&gt; EMC\nSalle : S.215\n\n<strong>Conte
- nu pédagogique : </strong>\n<div>Chapitre 4 La lutte contre les discrimina
- tions.</div>\n\n<strong>Donné le 26/06/2026 : </strong>\n<div>Relire le ch
- apitre 4 (La lutte contre les discriminations) et préparer les questions d
- u prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : EMC<br/>Professeur : SIMON N.<br/>Gr
- oupe : [T_EMC01]<br/>Partie de classe : &lt;4e B&gt; EMC<br/>Salle : S.215
- <br/><strong>Contenu pédagogique : </strong><div>Chapitre 4 La lutte contr
- e les discriminations.</div><br/><strong>Donné le 26/06/2026 : </strong><d
- iv>Relire le chapitre 4 (La lutte contre les discriminations) et préparer 
- les questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260626T081231Z
-LAST-MODIFIED:20260625T120000Z
-UID:Cours-80030-1-20260626T091231Z-Index-Education
-DTSTART:20260626T090000Z
-DTEND:20260626T095500Z
-SUMMARY;LANGUAGE=fr:Interrogation écrite PHYSIQUE-CHIMIE - MARTIN L. - Chap
- itre 3 : Les ondes mécaniques
-LOCATION;LANGUAGE=fr:S.204
-DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
- Type : Interrogation écrite\nSalle : S.204\n\n<div>Pour demain, une interr
- ogation écrite sur le Chapitre 3 Les ondes mécaniques.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
- TIN L.<br/>Type : Interrogation écrite<br/>Salle : S.204<br/><div>Pour dem
- ain, une interrogation écrite sur le Chapitre 3 Les ondes mécaniques.</div
- >
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260626T081231Z
-LAST-MODIFIED:20260625T120000Z
-UID:Cours-80031-1-20260626T091231Z-Index-Education
-DTSTART:20260626T100000Z
-DTEND:20260626T105500Z
-SUMMARY;LANGUAGE=fr:LATIN - ROUX M. - [T_LAT01] - <3e A> LAT
-LOCATION;LANGUAGE=fr:S.115
-DESCRIPTION;LANGUAGE=fr:Matière : LATIN\nProfesseur : ROUX M.\nGroupe : [T_
- LAT01]\nPartie de classe : &lt;3e A&gt; LAT\nSalle : S.115\n\n<strong>Cont
- enu pédagogique : </strong>\n<div>Chapitre 4 Jules César et la conquête de
- s Gaules.</div>\n\n<strong>Donné le 26/06/2026 : </strong>\n<div>Relire le
-  chapitre 4 (Jules César et la conquête des Gaules) et préparer les questi
- ons du prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : LATIN<br/>Professeur : ROUX M.<br/>G
- roupe : [T_LAT01]<br/>Partie de classe : &lt;3e A&gt; LAT<br/>Salle : S.11
- 5<br/><strong>Contenu pédagogique : </strong><div>Chapitre 4 Jules César e
- t la conquête des Gaules.</div><br/><strong>Donné le 26/06/2026 : </strong
- ><div>Relire le chapitre 4 (Jules César et la conquête des Gaules) et prép
- arer les questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260626T081231Z
-LAST-MODIFIED:20260625T120000Z
-UID:Cours-80032-1-20260626T091231Z-Index-Education
-DTSTART:20260626T110000Z
-DTEND:20260626T115500Z
-SUMMARY;LANGUAGE=fr:ESPAGNOL - GARCIA S. - [T_ESP01] - <Tle G1> ESP
-LOCATION;LANGUAGE=fr:S.102
-DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL\nProfesseur : GARCIA S.\nGroupe 
- : [T_ESP01]\nPartie de classe : &lt;Tle G1&gt; ESP\nSalle : S.102\n\n<stro
- ng>Contenu pédagogique : </strong>\n<div>Chapitre 2 L'immigration en Améri
- que latine.</div>\n\n<strong>Donné le 26/06/2026 : </strong>\n<div>Relire 
- le chapitre 2 (L'immigration en Amérique latine) et préparer les questions
-  du prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.<
- br/>Groupe : [T_ESP01]<br/>Partie de classe : &lt;Tle G1&gt; ESP<br/>Salle
-  : S.102<br/><strong>Contenu pédagogique : </strong><div>Chapitre 2 L'immi
- gration en Amérique latine.</div><br/><strong>Donné le 26/06/2026 : </stro
- ng><div>Relire le chapitre 2 (L'immigration en Amérique latine) et prépare
- r les questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260626T081231Z
-LAST-MODIFIED:20260625T120000Z
-UID:Cours-80033-1-20260626T091231Z-Index-Education
-DTSTART:20260626T140000Z
-DTEND:20260626T145500Z
-SUMMARY;LANGUAGE=fr:DM SES - BLANC E. - Chapitre 3 : La socialisation et le
- s groupes sociaux
-LOCATION;LANGUAGE=fr:S.210
-DESCRIPTION;LANGUAGE=fr:Matière : SES\nProfesseur : BLANC E.\nType : DM\nSa
- lle : S.210\n\n<div>Pour le 28/06/2026, le DM à rendre sur le Chapitre 3 L
- a socialisation et les groupes sociaux.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : SES<br/>Professeur : BLANC E.<br/>Ty
- pe : DM<br/>Salle : S.210<br/><div>Pour le 28/06/2026, le DM à rendre sur 
- le Chapitre 3 La socialisation et les groupes sociaux.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260626T081231Z
-LAST-MODIFIED:20260625T120000Z
-UID:Cours-80034-1-20260626T091231Z-Index-Education
-DTSTART:20260626T160000Z
-DTEND:20260626T165500Z
-SUMMARY;LANGUAGE=fr:DM SVT - LEROY C. - Chapitre 2 : La biodiversité et son
-  évolution
-LOCATION;LANGUAGE=fr:S.105
-DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nType : DM\nSa
- lle : S.105\n\n<div>Pour demain, le DM à rendre sur le Chapitre 2 La biodi
- versité et son évolution.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Ty
- pe : DM<br/>Salle : S.105<br/><div>Pour demain, le DM à rendre sur le Chap
- itre 2 La biodiversité et son évolution.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260627T081231Z
-LAST-MODIFIED:20260626T120000Z
-UID:Cours-80035-1-20260627T091231Z-Index-Education
-DTSTART:20260627T080000Z
-DTEND:20260627T085500Z
-SUMMARY;LANGUAGE=fr:SVT - LEROY C. - [T_SVT01] - <2nde 3> SVT
-LOCATION;LANGUAGE=fr:S.105
-DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nGroupe : [T_S
- VT01]\nPartie de classe : &lt;2nde 3&gt; SVT\nSalle : S.105\n\n<strong>Con
- tenu pédagogique : </strong>\n<div>Chapitre 2 La biodiversité et son évolu
- tion.</div>\n\n<strong>Donné le 27/06/2026 : </strong>\n<div>Relire le cha
- pitre 2 (La biodiversité et son évolution) et préparer les questions du pr
- ochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Gr
- oupe : [T_SVT01]<br/>Partie de classe : &lt;2nde 3&gt; SVT<br/>Salle : S.1
- 05<br/><strong>Contenu pédagogique : </strong><div>Chapitre 2 La biodivers
- ité et son évolution.</div><br/><strong>Donné le 27/06/2026 : </strong><di
- v>Relire le chapitre 2 (La biodiversité et son évolution) et préparer les 
- questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260627T081231Z
-LAST-MODIFIED:20260626T120000Z
-UID:Cours-80036-1-20260627T091231Z-Index-Education
-DTSTART:20260627T090000Z
-DTEND:20260627T095500Z
-SUMMARY;LANGUAGE=fr:MATHÉMATIQUES - DUPONT J. - [T_MATH01] - <1ère G2> MATH
-LOCATION;LANGUAGE=fr:S.101
-DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nGr
- oupe : [T_MATH01]\nPartie de classe : &lt;1ère G2&gt; MATH\nSalle : S.101\
- n\n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 3 Le produit sca
- laire dans le plan.</div>\n\n<strong>Donné le 27/06/2026 : </strong>\n<div
- >Relire le chapitre 3 (Le produit scalaire dans le plan) et préparer les q
- uestions du prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
- T J.<br/>Groupe : [T_MATH01]<br/>Partie de classe : &lt;1ère G2&gt; MATH<b
- r/>Salle : S.101<br/><strong>Contenu pédagogique : </strong><div>Chapitre 
- 3 Le produit scalaire dans le plan.</div><br/><strong>Donné le 27/06/2026 
- : </strong><div>Relire le chapitre 3 (Le produit scalaire dans le plan) et
-  préparer les questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260627T081231Z
-LAST-MODIFIED:20260626T120000Z
-UID:Cours-80037-1-20260627T091231Z-Index-Education
-DTSTART:20260627T100000Z
-DTEND:20260627T105500Z
-SUMMARY;LANGUAGE=fr:ANGLAIS - SMITH A. - [T_ANG01] - <Tle G1> ANG
-LOCATION;LANGUAGE=fr:S.003
-DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nGroupe : 
- [T_ANG01]\nPartie de classe : &lt;Tle G1&gt; ANG\nSalle : S.003\n\n<strong
- >Contenu pédagogique : </strong>\n<div>Chapitre 1 Technology and society.<
- /div>\n\n<strong>Donné le 27/06/2026 : </strong>\n<div>Relire le chapitre 
- 1 (Technology and society) et préparer les questions du prochain cours.</d
- iv>
-X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
- />Groupe : [T_ANG01]<br/>Partie de classe : &lt;Tle G1&gt; ANG<br/>Salle :
-  S.003<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 Technolo
- gy and society.</div><br/><strong>Donné le 27/06/2026 : </strong><div>Reli
- re le chapitre 1 (Technology and society) et préparer les questions du pro
- chain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260627T081231Z
-LAST-MODIFIED:20260626T120000Z
-UID:Cours-80038-1-20260627T091231Z-Index-Education
-DTSTART:20260627T110000Z
-DTEND:20260627T115500Z
-SUMMARY;LANGUAGE=fr:DM ALLEMAND - WEBER H. - Chapitre 4 : La chute du mur d
- e Berlin
-LOCATION;LANGUAGE=fr:S.110
-DESCRIPTION;LANGUAGE=fr:Matière : ALLEMAND\nProfesseur : WEBER H.\nType : D
- M\nSalle : S.110\n\n<div>Pour le 29/06/2026, le DM à rendre sur le Chapitr
- e 4 La chute du mur de Berlin.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : ALLEMAND<br/>Professeur : WEBER H.<b
- r/>Type : DM<br/>Salle : S.110<br/><div>Pour le 29/06/2026, le DM à rendre
-  sur le Chapitre 4 La chute du mur de Berlin.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260627T081231Z
-LAST-MODIFIED:20260626T120000Z
-UID:Cours-80039-1-20260627T091231Z-Index-Education
-DTSTART:20260627T160000Z
-DTEND:20260627T165500Z
+DTSTAMP:20260622T081231Z
+LAST-MODIFIED:20260621T120000Z
+UID:Cours-90008-1-20260622T091231Z-Index-Education
+DTSTART:20260622T080000Z
+DTEND:20260622T085500Z
 SUMMARY;LANGUAGE=fr:FRANÇAIS - LEFEVRE P. - [T_FR01] - <2nde 3> FR
 LOCATION;LANGUAGE=fr:Amphi A
 DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS\nProfesseur : LEFEVRE P.\nGroupe
-  : [T_FR01]\nPartie de classe : &lt;2nde 3&gt; FR\nSalle : Amphi A\n\n<str
- ong>Contenu pédagogique : </strong>\n<div>Chapitre 4 L'argumentation : Mon
- taigne et les Lumières.</div>\n\n<strong>Donné le 27/06/2026 : </strong>\n
- <div>Relire le chapitre 4 (L'argumentation : Montaigne et les Lumières) et
-  préparer les questions du prochain cours.</div>
+  : [T_FR01]\nPartie de classe : &lt\;2nde 3&gt\; FR\nSalle : Amphi A\n\n<s
+ trong>Contenu pédagogique : </strong>\n<div>Chapitre 1 Victor Hugo et le r
+ omantisme.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.
  <br/>Groupe : [T_FR01]<br/>Partie de classe : &lt;2nde 3&gt; FR<br/>Salle 
- : Amphi A<br/><strong>Contenu pédagogique : </strong><div>Chapitre 4 L'arg
- umentation : Montaigne et les Lumières.</div><br/><strong>Donné le 27/06/2
- 026 : </strong><div>Relire le chapitre 4 (L'argumentation : Montaigne et l
- es Lumières) et préparer les questions du prochain cours.</div>
+ : Amphi A<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 Victo
+ r Hugo et le romantisme.</div>
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260628T081231Z
-LAST-MODIFIED:20260627T120000Z
-UID:Cours-80040-1-20260628T091231Z-Index-Education
-DTSTART:20260628T090000Z
-DTEND:20260628T095500Z
-SUMMARY;LANGUAGE=fr:PHILOSOPHIE - VATTIER V. - [T_PHIL01] - <Tle G1> PHIL
-LOCATION;LANGUAGE=fr:D.151
-DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nGro
- upe : [T_PHIL01]\nPartie de classe : &lt;Tle G1&gt; PHIL\nSalle : D.151\n\
- n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 1 La liberté et le
-  déterminisme.</div>\n\n<strong>Donné le 28/06/2026 : </strong>\n<div>Reli
- re le chapitre 1 (La liberté et le déterminisme) et préparer les questions
-  du prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
-  V.<br/>Groupe : [T_PHIL01]<br/>Partie de classe : &lt;Tle G1&gt; PHIL<br/
- >Salle : D.151<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 
- La liberté et le déterminisme.</div><br/><strong>Donné le 28/06/2026 : </s
- trong><div>Relire le chapitre 1 (La liberté et le déterminisme) et prépare
- r les questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260628T081231Z
-LAST-MODIFIED:20260627T120000Z
-UID:Cours-80041-1-20260628T091231Z-Index-Education
-DTSTART:20260628T100000Z
-DTEND:20260628T105500Z
+DTSTAMP:20260622T081231Z
+LAST-MODIFIED:20260621T120000Z
+UID:Cours-90009-1-20260622T091231Z-Index-Education
+DTSTART:20260622T090000Z
+DTEND:20260622T095500Z
 SUMMARY;LANGUAGE=fr:NSI - MOREAU T. - [T_NSI01] - <1ère G2> NSI
 LOCATION;LANGUAGE=fr:Salle Info 1
 DESCRIPTION;LANGUAGE=fr:Matière : NSI\nProfesseur : MOREAU T.\nGroupe : [T_
- NSI01]\nPartie de classe : &lt;1ère G2&gt; NSI\nSalle : Salle Info 1\n\n<s
- trong>Contenu pédagogique : </strong>\n<div>Chapitre 4 Les structures de d
- onnées : listes et piles.</div>\n\n<strong>Donné le 28/06/2026 : </strong>
- \n<div>Relire le chapitre 4 (Les structures de données : listes et piles) 
- et préparer les questions du prochain cours.</div>
+ NSI01]\nPartie de classe : &lt\;1ère G2&gt\; NSI\nSalle : Salle Info 1\n\n
+ <strong>Contenu pédagogique : </strong>\n<div>Chapitre 4 Les structures de
+  données : listes et piles.</div>\n\n<strong>Donné le 22/06/2026 : </stron
+ g>\n<div>Compléter la fiche de synthèse sur Les structures de données : li
+ stes et piles.</div>
 X-ALT-DESC;FMTTYPE=text/html:Matière : NSI<br/>Professeur : MOREAU T.<br/>G
  roupe : [T_NSI01]<br/>Partie de classe : &lt;1ère G2&gt; NSI<br/>Salle : S
  alle Info 1<br/><strong>Contenu pédagogique : </strong><div>Chapitre 4 Les
-  structures de données : listes et piles.</div><br/><strong>Donné le 28/06
- /2026 : </strong><div>Relire le chapitre 4 (Les structures de données : li
- stes et piles) et préparer les questions du prochain cours.</div>
+  structures de données : listes et piles.</div><br/><strong>Donné le 22/06
+ /2026 : </strong><div>Compléter la fiche de synthèse sur Les structures de
+  données : listes et piles.</div>
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Cours
-DTSTAMP:20260628T081231Z
-LAST-MODIFIED:20260627T120000Z
-UID:Cours-80042-1-20260628T091231Z-Index-Education
-DTSTART:20260628T110000Z
-DTEND:20260628T115500Z
-SUMMARY;LANGUAGE=fr:SVT - LEROY C. - [T_SVT01] - <2nde 3> SVT
-LOCATION;LANGUAGE=fr:S.105
-DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nGroupe : [T_S
- VT01]\nPartie de classe : &lt;2nde 3&gt; SVT\nSalle : S.105\n\n<strong>Con
- tenu pédagogique : </strong>\n<div>Chapitre 3 Le système immunitaire.</div
- >\n\n<strong>Donné le 28/06/2026 : </strong>\n<div>Relire le chapitre 3 (L
- e système immunitaire) et préparer les questions du prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Gr
- oupe : [T_SVT01]<br/>Partie de classe : &lt;2nde 3&gt; SVT<br/>Salle : S.1
- 05<br/><strong>Contenu pédagogique : </strong><div>Chapitre 3 Le système i
- mmunitaire.</div><br/><strong>Donné le 28/06/2026 : </strong><div>Relire l
- e chapitre 3 (Le système immunitaire) et préparer les questions du prochai
- n cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260628T081231Z
-LAST-MODIFIED:20260627T120000Z
-UID:Cours-80043-1-20260628T091231Z-Index-Education
-DTSTART:20260628T140000Z
-DTEND:20260628T145500Z
-SUMMARY;LANGUAGE=fr:Bac Blanc ESPAGNOL - GARCIA S. - Chapitre 4 : Le futur 
- et le conditionnel
-LOCATION;LANGUAGE=fr:S.102
-DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL\nProfesseur : GARCIA S.\nType : 
- Bac Blanc\nSalle : S.102\n\n<div>Pour demain, le Bac Blanc sur le Chapitre
-  4 Le futur et le conditionnel.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.<
- br/>Type : Bac Blanc<br/>Salle : S.102<br/><div>Pour demain, le Bac Blanc 
- sur le Chapitre 4 Le futur et le conditionnel.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260628T081231Z
-LAST-MODIFIED:20260627T120000Z
-UID:Cours-80044-1-20260628T091231Z-Index-Education
-DTSTART:20260628T160000Z
-DTEND:20260628T165500Z
-SUMMARY;LANGUAGE=fr:HISTOIRE-GÉOGRAPHIE - DURAND M. - [T_HG03] - <2nde 3> H
- G
-LOCATION;LANGUAGE=fr:S.301
-DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
- M.\nGroupe : [T_HG03]\nPartie de classe : &lt;2nde 3&gt; HG\nSalle : S.301
- \n\n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 1 La Première G
- uerre mondiale.</div>\n\n<strong>Donné le 28/06/2026 : </strong>\n<div>Rel
- ire le chapitre 1 (La Première Guerre mondiale) et préparer les questions 
- du prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
-  DURAND M.<br/>Groupe : [T_HG03]<br/>Partie de classe : &lt;2nde 3&gt; HG<
- br/>Salle : S.301<br/><strong>Contenu pédagogique : </strong><div>Chapitre
-  1 La Première Guerre mondiale.</div><br/><strong>Donné le 28/06/2026 : </
- strong><div>Relire le chapitre 1 (La Première Guerre mondiale) et préparer
-  les questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260629T081231Z
-LAST-MODIFIED:20260628T120000Z
-UID:Cours-80045-1-20260629T091231Z-Index-Education
-DTSTART:20260629T080000Z
-DTEND:20260629T085500Z
-SUMMARY;LANGUAGE=fr:HISTOIRE-GÉOGRAPHIE - DURAND M. - [T_HG03] - <2nde 3> H
- G
-LOCATION;LANGUAGE=fr:S.301
-DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
- M.\nGroupe : [T_HG03]\nPartie de classe : &lt;2nde 3&gt; HG\nSalle : S.301
- \n\n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 3 La mondialisa
- tion et ses territoires.</div>\n\n<strong>Donné le 29/06/2026 : </strong>\
- n<div>Relire le chapitre 3 (La mondialisation et ses territoires) et prépa
- rer les questions du prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
-  DURAND M.<br/>Groupe : [T_HG03]<br/>Partie de classe : &lt;2nde 3&gt; HG<
- br/>Salle : S.301<br/><strong>Contenu pédagogique : </strong><div>Chapitre
-  3 La mondialisation et ses territoires.</div><br/><strong>Donné le 29/06/
- 2026 : </strong><div>Relire le chapitre 3 (La mondialisation et ses territ
- oires) et préparer les questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260629T081231Z
-LAST-MODIFIED:20260628T120000Z
-UID:Cours-80046-1-20260629T091231Z-Index-Education
-DTSTART:20260629T090000Z
-DTEND:20260629T095500Z
-SUMMARY;LANGUAGE=fr:ANGLAIS - SMITH A. - [T_ANG01] - <Tle G1> ANG
-LOCATION;LANGUAGE=fr:S.003
-DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nGroupe : 
- [T_ANG01]\nPartie de classe : &lt;Tle G1&gt; ANG\nSalle : S.003\n\n<strong
- >Contenu pédagogique : </strong>\n<div>Chapitre 2 The American Dream.</div
- >\n\n<strong>Donné le 29/06/2026 : </strong>\n<div>Relire le chapitre 2 (T
- he American Dream) et préparer les questions du prochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
- />Groupe : [T_ANG01]<br/>Partie de classe : &lt;Tle G1&gt; ANG<br/>Salle :
-  S.003<br/><strong>Contenu pédagogique : </strong><div>Chapitre 2 The Amer
- ican Dream.</div><br/><strong>Donné le 29/06/2026 : </strong><div>Relire l
- e chapitre 2 (The American Dream) et préparer les questions du prochain co
- urs.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260629T081231Z
-LAST-MODIFIED:20260628T120000Z
-UID:Cours-80047-1-20260629T091231Z-Index-Education
-DTSTART:20260629T100000Z
-DTEND:20260629T105500Z
-SUMMARY;LANGUAGE=fr:SVT - LEROY C. - [T_SVT01] - <2nde 3> SVT
-LOCATION;LANGUAGE=fr:S.105
-DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nGroupe : [T_S
- VT01]\nPartie de classe : &lt;2nde 3&gt; SVT\nSalle : S.105\n\n<strong>Con
- tenu pédagogique : </strong>\n<div>Chapitre 2 La biodiversité et son évolu
- tion.</div>\n\n<strong>Donné le 29/06/2026 : </strong>\n<div>Relire le cha
- pitre 2 (La biodiversité et son évolution) et préparer les questions du pr
- ochain cours.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Gr
- oupe : [T_SVT01]<br/>Partie de classe : &lt;2nde 3&gt; SVT<br/>Salle : S.1
- 05<br/><strong>Contenu pédagogique : </strong><div>Chapitre 2 La biodivers
- ité et son évolution.</div><br/><strong>Donné le 29/06/2026 : </strong><di
- v>Relire le chapitre 2 (La biodiversité et son évolution) et préparer les 
- questions du prochain cours.</div>
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Cours
-DTSTAMP:20260629T081231Z
-LAST-MODIFIED:20260628T120000Z
-UID:Cours-80048-1-20260629T091231Z-Index-Education
-DTSTART:20260629T110000Z
-DTEND:20260629T115500Z
+DTSTAMP:20260622T081231Z
+LAST-MODIFIED:20260621T120000Z
+UID:Cours-90010-1-20260622T091231Z-Index-Education
+DTSTART:20260622T100000Z
+DTEND:20260622T105500Z
 SUMMARY;LANGUAGE=fr:ESPAGNOL - GARCIA S. - [T_ESP01] - <Tle G1> ESP
 LOCATION;LANGUAGE=fr:S.102
 DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL\nProfesseur : GARCIA S.\nGroupe 
- : [T_ESP01]\nPartie de classe : &lt;Tle G1&gt; ESP\nSalle : S.102\n\n<stro
- ng>Contenu pédagogique : </strong>\n<div>Chapitre 2 L'immigration en Améri
- que latine.</div>\n\n<strong>Donné le 29/06/2026 : </strong>\n<div>Relire 
- le chapitre 2 (L'immigration en Amérique latine) et préparer les questions
-  du prochain cours.</div>
+ : [T_ESP01]\nPartie de classe : &lt\;Tle G1&gt\; ESP\nSalle : S.102\n\n<st
+ rong>Contenu pédagogique : </strong>\n<div>Chapitre 1 La culture et les tr
+ aditions de Valence.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.<
+ br/>Groupe : [T_ESP01]<br/>Partie de classe : &lt;Tle G1&gt; ESP<br/>Salle
+  : S.102<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 La cul
+ ture et les traditions de Valence.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260622T081231Z
+LAST-MODIFIED:20260621T120000Z
+UID:Cours-90011-1-20260622T091231Z-Index-Education
+DTSTART:20260622T110000Z
+DTEND:20260622T115500Z
+SUMMARY;LANGUAGE=fr:SES - BLANC E. - [T_SES01] - <1ère G2> SES
+LOCATION;LANGUAGE=fr:S.210
+DESCRIPTION;LANGUAGE=fr:Matière : SES\nProfesseur : BLANC E.\nGroupe : [T_S
+ ES01]\nPartie de classe : &lt\;1ère G2&gt\; SES\nSalle : S.210\n\n<strong>
+ Contenu pédagogique : </strong>\n<div>Chapitre 1 La création monétaire.</d
+ iv>\n\n<strong>Donné le 22/06/2026 : </strong>\n<div>Apprendre les points 
+ clés du chapitre 1 (La création monétaire).</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : SES<br/>Professeur : BLANC E.<br/>Gr
+ oupe : [T_SES01]<br/>Partie de classe : &lt;1ère G2&gt; SES<br/>Salle : S.
+ 210<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 La création
+  monétaire.</div><br/><strong>Donné le 22/06/2026 : </strong><div>Apprendr
+ e les points clés du chapitre 1 (La création monétaire).</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260622T081231Z
+LAST-MODIFIED:20260621T120000Z
+UID:Cours-90012-1-20260622T091231Z-Index-Education
+DTSTART:20260622T140000Z
+DTEND:20260622T145500Z
+SUMMARY;LANGUAGE=fr:HISTOIRE-GÉOGRAPHIE - DURAND M. - [T_HG03] - <2nde 3> H
+ G
+LOCATION;LANGUAGE=fr:S.301
+DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
+ M.\nGroupe : [T_HG03]\nPartie de classe : &lt\;2nde 3&gt\; HG\nSalle : S.3
+ 01\n\n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 2 La révoluti
+ on industrielle.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
+  DURAND M.<br/>Groupe : [T_HG03]<br/>Partie de classe : &lt;2nde 3&gt; HG<
+ br/>Salle : S.301<br/><strong>Contenu pédagogique : </strong><div>Chapitre
+  2 La révolution industrielle.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260622T081231Z
+LAST-MODIFIED:20260621T120000Z
+UID:Cours-90013-1-20260622T091231Z-Index-Education
+DTSTART:20260622T160000Z
+DTEND:20260622T165500Z
+SUMMARY;LANGUAGE=fr:SVT - LEROY C. - [T_SVT01] - <2nde 3> SVT
+LOCATION;LANGUAGE=fr:S.105
+DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nGroupe : [T_S
+ VT01]\nPartie de classe : &lt\;2nde 3&gt\; SVT\nSalle : S.105\n\n<strong>C
+ ontenu pédagogique : </strong>\n<div>Chapitre 1 La photosynthèse et la con
+ version de l'énergie solaire.</div>\n\n<strong>Donné le 22/06/2026 : </str
+ ong>\n<div>Relire le chapitre 1 (La photosynthèse et la conversion de l'én
+ ergie solaire) avant la prochaine séance.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Gr
+ oupe : [T_SVT01]<br/>Partie de classe : &lt;2nde 3&gt; SVT<br/>Salle : S.1
+ 05<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 La photosynt
+ hèse et la conversion de l'énergie solaire.</div><br/><strong>Donné le 22/
+ 06/2026 : </strong><div>Relire le chapitre 1 (La photosynthèse et la conve
+ rsion de l'énergie solaire) avant la prochaine séance.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260623T081231Z
+LAST-MODIFIED:20260622T120000Z
+UID:Cours-90014-1-20260623T091231Z-Index-Education
+DTSTART:20260623T080000Z
+DTEND:20260623T085500Z
+SUMMARY;LANGUAGE=fr:PHYSIQUE-CHIMIE - MARTIN L. - [T_PC02] - <1ère G2> PC
+LOCATION;LANGUAGE=fr:S.204
+DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
+ Groupe : [T_PC02]\nPartie de classe : &lt\;1ère G2&gt\; PC\nSalle : S.204\
+ n\n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 1 Les transforma
+ tions chimiques et leur suivi.</div>\n\n<strong>Donné le 23/06/2026 : </st
+ rong>\n<div>Faire les exercices d'application du chapitre 1.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
+ TIN L.<br/>Groupe : [T_PC02]<br/>Partie de classe : &lt;1ère G2&gt; PC<br/
+ >Salle : S.204<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 
+ Les transformations chimiques et leur suivi.</div><br/><strong>Donné le 23
+ /06/2026 : </strong><div>Faire les exercices d'application du chapitre 1.<
+ /div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260623T081231Z
+LAST-MODIFIED:20260622T120000Z
+UID:Cours-90015-1-20260623T091231Z-Index-Education
+DTSTART:20260623T090000Z
+DTEND:20260623T095500Z
+SUMMARY;LANGUAGE=fr:HISTOIRE-GÉOGRAPHIE - DURAND M. - [T_HG03] - <2nde 3> H
+ G
+LOCATION;LANGUAGE=fr:S.301
+DESCRIPTION;LANGUAGE=fr:Matière : HISTOIRE-GÉOGRAPHIE\nProfesseur : DURAND 
+ M.\nGroupe : [T_HG03]\nPartie de classe : &lt\;2nde 3&gt\; HG\nSalle : S.3
+ 01\n\n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 2 La révoluti
+ on industrielle.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : HISTOIRE-GÉOGRAPHIE<br/>Professeur :
+  DURAND M.<br/>Groupe : [T_HG03]<br/>Partie de classe : &lt;2nde 3&gt; HG<
+ br/>Salle : S.301<br/><strong>Contenu pédagogique : </strong><div>Chapitre
+  2 La révolution industrielle.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260623T081231Z
+LAST-MODIFIED:20260622T120000Z
+UID:Cours-90016-1-20260623T091231Z-Index-Education
+DTSTART:20260623T100000Z
+DTEND:20260623T105500Z
+SUMMARY;LANGUAGE=fr:Traduction ALLEMAND - WEBER H.
+LOCATION;LANGUAGE=fr:S.110
+DESCRIPTION;LANGUAGE=fr:Matière : ALLEMAND\nProfesseur : WEBER H.\nType : T
+ raduction\nSalle : S.110\n\n<div>Annonce : une traduction (version) demain
+ \, au programme : les 20 derniers mots de vocabulaire appris.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : ALLEMAND<br/>Professeur : WEBER H.<b
+ r/>Type : Traduction<br/>Salle : S.110<br/><div>Annonce : une traduction (
+ version) demain, au programme : les 20 derniers mots de vocabulaire appris
+ .</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260623T081231Z
+LAST-MODIFIED:20260622T120000Z
+UID:Cours-90017-1-20260623T091231Z-Index-Education
+DTSTART:20260623T110000Z
+DTEND:20260623T115500Z
+SUMMARY;LANGUAGE=fr:PHILOSOPHIE - VATTIER V. - [T_PHIL01] - <Tle G1> PHIL
+LOCATION;LANGUAGE=fr:D.151
+DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nGro
+ upe : [T_PHIL01]\nPartie de classe : &lt\;Tle G1&gt\; PHIL\nSalle : D.151\
+ n\n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 1 La liberté et 
+ le déterminisme.</div>\n\n<strong>Donné le 23/06/2026 : </strong>\n<div>Co
+ mpléter la fiche de synthèse sur La liberté et le déterminisme.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
+  V.<br/>Groupe : [T_PHIL01]<br/>Partie de classe : &lt;Tle G1&gt; PHIL<br/
+ >Salle : D.151<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 
+ La liberté et le déterminisme.</div><br/><strong>Donné le 23/06/2026 : </s
+ trong><div>Compléter la fiche de synthèse sur La liberté et le déterminism
+ e.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260623T081231Z
+LAST-MODIFIED:20260622T120000Z
+UID:Cours-90018-1-20260623T091231Z-Index-Education
+DTSTART:20260623T140000Z
+DTEND:20260623T145500Z
+SUMMARY;LANGUAGE=fr:QCM LATIN - ROUX M.
+LOCATION;LANGUAGE=fr:S.115
+DESCRIPTION;LANGUAGE=fr:Matière : LATIN\nProfesseur : ROUX M.\nType : QCM\n
+ Salle : S.115\n\n<div>Un QCM demain portant sur les 20 derniers mots de vo
+ cabulaire appris.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : LATIN<br/>Professeur : ROUX M.<br/>T
+ ype : QCM<br/>Salle : S.115<br/><div>Un QCM demain portant sur les 20 dern
+ iers mots de vocabulaire appris.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260623T081231Z
+LAST-MODIFIED:20260622T120000Z
+UID:Cours-90019-1-20260623T091231Z-Index-Education
+DTSTART:20260623T160000Z
+DTEND:20260623T165500Z
+SUMMARY;LANGUAGE=fr:DM SES - BLANC E.
+LOCATION;LANGUAGE=fr:S.210
+DESCRIPTION;LANGUAGE=fr:Matière : SES\nProfesseur : BLANC E.\nType : DM\nSa
+ lle : S.210\n\n<div>N'oubliez pas de rendre votre travail sur le chapitre 
+ 2 (Les inégalités économiques et sociales) demain.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : SES<br/>Professeur : BLANC E.<br/>Ty
+ pe : DM<br/>Salle : S.210<br/><div>N'oubliez pas de rendre votre travail s
+ ur le chapitre 2 (Les inégalités économiques et sociales) demain.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260624T081231Z
+LAST-MODIFIED:20260623T120000Z
+UID:Cours-90020-1-20260624T091231Z-Index-Education
+DTSTART:20260624T080000Z
+DTEND:20260624T085500Z
+SUMMARY;LANGUAGE=fr:Exposé oral LATIN - ROUX M.
+LOCATION;LANGUAGE=fr:S.115
+DESCRIPTION;LANGUAGE=fr:Matière : LATIN\nProfesseur : ROUX M.\nType : Expos
+ é oral\nSalle : S.115\n\n<div>Exposé oral demain — pensez à revoir un suje
+ t au choix parmi ceux donnés en classe.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : LATIN<br/>Professeur : ROUX M.<br/>T
+ ype : Exposé oral<br/>Salle : S.115<br/><div>Exposé oral demain — pensez à
+  revoir un sujet au choix parmi ceux donnés en classe.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260624T081231Z
+LAST-MODIFIED:20260623T120000Z
+UID:Cours-90021-1-20260624T091231Z-Index-Education
+DTSTART:20260624T090000Z
+DTEND:20260624T095500Z
+SUMMARY;LANGUAGE=fr:NSI - MOREAU T. - [T_NSI01] - <1ère G2> NSI
+LOCATION;LANGUAGE=fr:Salle Info 1
+DESCRIPTION;LANGUAGE=fr:Matière : NSI\nProfesseur : MOREAU T.\nGroupe : [T_
+ NSI01]\nPartie de classe : &lt\;1ère G2&gt\; NSI\nSalle : Salle Info 1\n\n
+ <strong>Contenu pédagogique : </strong>\n<div>Chapitre 2 Les bases de donn
+ ées relationnelles.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : NSI<br/>Professeur : MOREAU T.<br/>G
+ roupe : [T_NSI01]<br/>Partie de classe : &lt;1ère G2&gt; NSI<br/>Salle : S
+ alle Info 1<br/><strong>Contenu pédagogique : </strong><div>Chapitre 2 Les
+  bases de données relationnelles.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260624T081231Z
+LAST-MODIFIED:20260623T120000Z
+UID:Cours-90022-1-20260624T091231Z-Index-Education
+DTSTART:20260624T100000Z
+DTEND:20260624T105500Z
+SUMMARY;LANGUAGE=fr:MATHÉMATIQUES - DUPONT J. - [T_MATH01] - <1ère G2> MATH
+LOCATION;LANGUAGE=fr:S.101
+DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nGr
+ oupe : [T_MATH01]\nPartie de classe : &lt\;1ère G2&gt\; MATH\nSalle : S.10
+ 1\n\n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 4 Les probabil
+ ités conditionnelles.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
+ T J.<br/>Groupe : [T_MATH01]<br/>Partie de classe : &lt;1ère G2&gt; MATH<b
+ r/>Salle : S.101<br/><strong>Contenu pédagogique : </strong><div>Chapitre 
+ 4 Les probabilités conditionnelles.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260624T081231Z
+LAST-MODIFIED:20260623T120000Z
+UID:Cours-90023-1-20260624T091231Z-Index-Education
+DTSTART:20260624T140000Z
+DTEND:20260624T145500Z
+SUMMARY;LANGUAGE=fr:Interrogation écrite ANGLAIS - SMITH A.
+LOCATION;LANGUAGE=fr:S.003
+DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nType : In
+ terrogation écrite\nSalle : S.003\n\n<div>Interrogation écrite demain sur 
+ le chapitre 4 (Human rights and citizenship)\, soyez prêts !</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
+ />Type : Interrogation écrite<br/>Salle : S.003<br/><div>Interrogation écr
+ ite demain sur le chapitre 4 (Human rights and citizenship), soyez prêts !
+ </div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260624T081231Z
+LAST-MODIFIED:20260623T120000Z
+UID:Cours-90024-1-20260624T091231Z-Index-Education
+DTSTART:20260624T160000Z
+DTEND:20260624T165500Z
+SUMMARY;LANGUAGE=fr:Dictée ALLEMAND - WEBER H.
+LOCATION;LANGUAGE=fr:S.110
+DESCRIPTION;LANGUAGE=fr:Matière : ALLEMAND\nProfesseur : WEBER H.\nType : D
+ ictée\nSalle : S.110\n\n<div>Dictée surprise demain ! Révisez le chapitre 
+ 1 (Le quotidien à Berlin).</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : ALLEMAND<br/>Professeur : WEBER H.<b
+ r/>Type : Dictée<br/>Salle : S.110<br/><div>Dictée surprise demain ! Révis
+ ez le chapitre 1 (Le quotidien à Berlin).</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260625T081231Z
+LAST-MODIFIED:20260624T120000Z
+UID:Cours-90025-1-20260625T091231Z-Index-Education
+DTSTART:20260625T080000Z
+DTEND:20260625T085500Z
+SUMMARY;LANGUAGE=fr:ALLEMAND - WEBER H. - [T_ALL01] - <3e A> ALL
+LOCATION;LANGUAGE=fr:S.110
+DESCRIPTION;LANGUAGE=fr:Matière : ALLEMAND\nProfesseur : WEBER H.\nGroupe :
+  [T_ALL01]\nPartie de classe : &lt\;3e A&gt\; ALL\nSalle : S.110\n\n<stron
+ g>Contenu pédagogique : </strong>\n<div>Chapitre 3 Les fêtes et traditions
+  allemandes.</div>\n\n<strong>Donné le 25/06/2026 : </strong>\n<div>Complé
+ ter la fiche de synthèse sur Les fêtes et traditions allemandes.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : ALLEMAND<br/>Professeur : WEBER H.<b
+ r/>Groupe : [T_ALL01]<br/>Partie de classe : &lt;3e A&gt; ALL<br/>Salle : 
+ S.110<br/><strong>Contenu pédagogique : </strong><div>Chapitre 3 Les fêtes
+  et traditions allemandes.</div><br/><strong>Donné le 25/06/2026 : </stron
+ g><div>Compléter la fiche de synthèse sur Les fêtes et traditions allemand
+ es.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260625T081231Z
+LAST-MODIFIED:20260624T120000Z
+UID:Cours-90026-1-20260625T091231Z-Index-Education
+DTSTART:20260625T090000Z
+DTEND:20260625T095500Z
+SUMMARY;LANGUAGE=fr:Évaluation MATHÉMATIQUES - DUPONT J.
+LOCATION;LANGUAGE=fr:S.101
+DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nTy
+ pe : Évaluation\nSalle : S.101\n\n<div>Évaluation demain sur le chapitre 1
+  (Les suites numériques)\, soyez prêts !</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
+ T J.<br/>Type : Évaluation<br/>Salle : S.101<br/><div>Évaluation demain su
+ r le chapitre 1 (Les suites numériques), soyez prêts !</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260625T081231Z
+LAST-MODIFIED:20260624T120000Z
+UID:Cours-90027-1-20260625T091231Z-Index-Education
+DTSTART:20260625T100000Z
+DTEND:20260625T105500Z
+SUMMARY;LANGUAGE=fr:DM EMC - SIMON N.
+LOCATION;LANGUAGE=fr:S.215
+DESCRIPTION;LANGUAGE=fr:Matière : EMC\nProfesseur : SIMON N.\nType : DM\nSa
+ lle : S.215\n\n<div>Pour ce samedi (27/06)\, à rendre : le travail sur les
+  chapitres 3 et 2.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : EMC<br/>Professeur : SIMON N.<br/>Ty
+ pe : DM<br/>Salle : S.215<br/><div>Pour ce samedi (27/06), à rendre : le t
+ ravail sur les chapitres 3 et 2.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260625T081231Z
+LAST-MODIFIED:20260624T120000Z
+UID:Cours-90028-1-20260625T091231Z-Index-Education
+DTSTART:20260625T110000Z
+DTEND:20260625T115500Z
+SUMMARY;LANGUAGE=fr:ANGLAIS - SMITH A. - [T_ANG01] - <Tle G1> ANG
+LOCATION;LANGUAGE=fr:S.003
+DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nGroupe : 
+ [T_ANG01]\nPartie de classe : &lt\;Tle G1&gt\; ANG\nSalle : S.003\n\n<stro
+ ng>Contenu pédagogique : </strong>\n<div>Chapitre 1 Technology and society
+ .</div>\n\n<strong>Donné le 25/06/2026 : </strong>\n<div>Relire le chapitr
+ e 1 (Technology and society) avant la prochaine séance.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
+ />Groupe : [T_ANG01]<br/>Partie de classe : &lt;Tle G1&gt; ANG<br/>Salle :
+  S.003<br/><strong>Contenu pédagogique : </strong><div>Chapitre 1 Technolo
+ gy and society.</div><br/><strong>Donné le 25/06/2026 : </strong><div>Reli
+ re le chapitre 1 (Technology and society) avant la prochaine séance.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260625T081231Z
+LAST-MODIFIED:20260624T120000Z
+UID:Cours-90029-1-20260625T091231Z-Index-Education
+DTSTART:20260625T140000Z
+DTEND:20260625T145500Z
+SUMMARY;LANGUAGE=fr:TP noté PHYSIQUE-CHIMIE - MARTIN L.
+LOCATION;LANGUAGE=fr:S.204
+DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
+ Type : TP noté\nSalle : S.204\n\n<div>Pour ce samedi (27/06) : un TP noté 
+ sur l'ensemble des notions vues depuis la rentrée de la séquence.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
+ TIN L.<br/>Type : TP noté<br/>Salle : S.204<br/><div>Pour ce samedi (27/06
+ ) : un TP noté sur l'ensemble des notions vues depuis la rentrée de la séq
+ uence.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260625T081231Z
+LAST-MODIFIED:20260624T120000Z
+UID:Cours-90030-1-20260625T091231Z-Index-Education
+DTSTART:20260625T160000Z
+DTEND:20260625T165500Z
+SUMMARY;LANGUAGE=fr:Devoir surveillé SVT - LEROY C.
+LOCATION;LANGUAGE=fr:S.105
+DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nType : Devoir
+  surveillé\nSalle : S.105\n\n<div>Attention\, un devoir surveillé demain —
+  focus sur les chapitres 4 et 2.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Ty
+ pe : Devoir surveillé<br/>Salle : S.105<br/><div>Attention, un devoir surv
+ eillé demain — focus sur les chapitres 4 et 2.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260626T081231Z
+LAST-MODIFIED:20260625T120000Z
+UID:Cours-90031-1-20260626T091231Z-Index-Education
+DTSTART:20260626T080000Z
+DTEND:20260626T085500Z
+SUMMARY;LANGUAGE=fr:FRANÇAIS - LEFEVRE P. - [T_FR01] - <2nde 3> FR
+LOCATION;LANGUAGE=fr:Amphi A
+DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS\nProfesseur : LEFEVRE P.\nGroupe
+  : [T_FR01]\nPartie de classe : &lt\;2nde 3&gt\; FR\nSalle : Amphi A\n\n<s
+ trong>Contenu pédagogique : </strong>\n<div>Chapitre 3 Le théâtre classiqu
+ e : Molière.</div>\n\n<strong>Donné le 26/06/2026 : </strong>\n<div>Relire
+  le chapitre 3 (Le théâtre classique : Molière) avant la prochaine séance.
+ </div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.
+ <br/>Groupe : [T_FR01]<br/>Partie de classe : &lt;2nde 3&gt; FR<br/>Salle 
+ : Amphi A<br/><strong>Contenu pédagogique : </strong><div>Chapitre 3 Le th
+ éâtre classique : Molière.</div><br/><strong>Donné le 26/06/2026 : </stron
+ g><div>Relire le chapitre 3 (Le théâtre classique : Molière) avant la proc
+ haine séance.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260626T081231Z
+LAST-MODIFIED:20260625T120000Z
+UID:Cours-90032-1-20260626T091231Z-Index-Education
+DTSTART:20260626T090000Z
+DTEND:20260626T095500Z
+SUMMARY;LANGUAGE=fr:Interrogation écrite ALLEMAND - WEBER H.
+LOCATION;LANGUAGE=fr:S.110
+DESCRIPTION;LANGUAGE=fr:Matière : ALLEMAND\nProfesseur : WEBER H.\nType : I
+ nterrogation écrite\nSalle : S.110\n\n<div>Interrogation écrite ce dimanch
+ e (28/06) sur le chapitre 1 (Le quotidien à Berlin)\, soyez prêts !</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : ALLEMAND<br/>Professeur : WEBER H.<b
+ r/>Type : Interrogation écrite<br/>Salle : S.110<br/><div>Interrogation éc
+ rite ce dimanche (28/06) sur le chapitre 1 (Le quotidien à Berlin), soyez 
+ prêts !</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260626T081231Z
+LAST-MODIFIED:20260625T120000Z
+UID:Cours-90033-1-20260626T091231Z-Index-Education
+DTSTART:20260626T100000Z
+DTEND:20260626T105500Z
+SUMMARY;LANGUAGE=fr:PHILOSOPHIE - VATTIER V. - [T_PHIL01] - <Tle G1> PHIL
+LOCATION;LANGUAGE=fr:D.151
+DESCRIPTION;LANGUAGE=fr:Matière : PHILOSOPHIE\nProfesseur : VATTIER V.\nGro
+ upe : [T_PHIL01]\nPartie de classe : &lt\;Tle G1&gt\; PHIL\nSalle : D.151\
+ n\n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 2 La morale : de
+ voir et bonheur.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHILOSOPHIE<br/>Professeur : VATTIER
+  V.<br/>Groupe : [T_PHIL01]<br/>Partie de classe : &lt;Tle G1&gt; PHIL<br/
+ >Salle : D.151<br/><strong>Contenu pédagogique : </strong><div>Chapitre 2 
+ La morale : devoir et bonheur.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260626T081231Z
+LAST-MODIFIED:20260625T120000Z
+UID:Cours-90034-1-20260626T091231Z-Index-Education
+DTSTART:20260626T110000Z
+DTEND:20260626T115500Z
+SUMMARY;LANGUAGE=fr:Épreuve type bac MATHÉMATIQUES - DUPONT J.
+LOCATION;LANGUAGE=fr:S.101
+DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nTy
+ pe : Épreuve type bac\nSalle : S.101\n\n<div>Pour demain : une épreuve typ
+ e bac sur les chapitres 2 et 3.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
+ T J.<br/>Type : Épreuve type bac<br/>Salle : S.101<br/><div>Pour demain : 
+ une épreuve type bac sur les chapitres 2 et 3.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260626T081231Z
+LAST-MODIFIED:20260625T120000Z
+UID:Cours-90035-1-20260626T091231Z-Index-Education
+DTSTART:20260626T140000Z
+DTEND:20260626T145500Z
+SUMMARY;LANGUAGE=fr:Quiz ESPAGNOL - GARCIA S.
+LOCATION;LANGUAGE=fr:S.102
+DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL\nProfesseur : GARCIA S.\nType : 
+ Quiz\nSalle : S.102\n\n<div>Quiz ce dimanche (28/06) sur le point de gramm
+ aire vu dans le chapitre 1\, soyez prêts !</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.<
+ br/>Type : Quiz<br/>Salle : S.102<br/><div>Quiz ce dimanche (28/06) sur le
+  point de grammaire vu dans le chapitre 1, soyez prêts !</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260626T081231Z
+LAST-MODIFIED:20260625T120000Z
+UID:Cours-90036-1-20260626T091231Z-Index-Education
+DTSTART:20260626T160000Z
+DTEND:20260626T165500Z
+SUMMARY;LANGUAGE=fr:Interrogation surprise NSI - MOREAU T.
+LOCATION;LANGUAGE=fr:Salle Info 1
+DESCRIPTION;LANGUAGE=fr:Matière : NSI\nProfesseur : MOREAU T.\nType : Inter
+ rogation surprise\nSalle : Salle Info 1\n\n<div>Une interrogation surprise
+  demain portant sur le chapitre 2 (Les bases de données relationnelles).</
+ div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : NSI<br/>Professeur : MOREAU T.<br/>T
+ ype : Interrogation surprise<br/>Salle : Salle Info 1<br/><div>Une interro
+ gation surprise demain portant sur le chapitre 2 (Les bases de données rel
+ ationnelles).</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260627T081231Z
+LAST-MODIFIED:20260626T120000Z
+UID:Cours-90037-1-20260627T091231Z-Index-Education
+DTSTART:20260627T080000Z
+DTEND:20260627T085500Z
+SUMMARY;LANGUAGE=fr:LATIN - ROUX M. - [T_LAT01] - <3e A> LAT
+LOCATION;LANGUAGE=fr:S.115
+DESCRIPTION;LANGUAGE=fr:Matière : LATIN\nProfesseur : ROUX M.\nGroupe : [T_
+ LAT01]\nPartie de classe : &lt\;3e A&gt\; LAT\nSalle : S.115\n\n<strong>Co
+ ntenu pédagogique : </strong>\n<div>Chapitre 4 Jules César et la conquête 
+ des Gaules.</div>\n\n<strong>Donné le 27/06/2026 : </strong>\n<div>Relire 
+ le chapitre 4 (Jules César et la conquête des Gaules) avant la prochaine s
+ éance.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : LATIN<br/>Professeur : ROUX M.<br/>G
+ roupe : [T_LAT01]<br/>Partie de classe : &lt;3e A&gt; LAT<br/>Salle : S.11
+ 5<br/><strong>Contenu pédagogique : </strong><div>Chapitre 4 Jules César e
+ t la conquête des Gaules.</div><br/><strong>Donné le 27/06/2026 : </strong
+ ><div>Relire le chapitre 4 (Jules César et la conquête des Gaules) avant l
+ a prochaine séance.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260627T081231Z
+LAST-MODIFIED:20260626T120000Z
+UID:Cours-90038-1-20260627T091231Z-Index-Education
+DTSTART:20260627T090000Z
+DTEND:20260627T095500Z
+SUMMARY;LANGUAGE=fr:NSI - MOREAU T. - [T_NSI01] - <1ère G2> NSI
+LOCATION;LANGUAGE=fr:Salle Info 1
+DESCRIPTION;LANGUAGE=fr:Matière : NSI\nProfesseur : MOREAU T.\nGroupe : [T_
+ NSI01]\nPartie de classe : &lt\;1ère G2&gt\; NSI\nSalle : Salle Info 1\n\n
+ <strong>Contenu pédagogique : </strong>\n<div>Chapitre 3 La représentation
+  des données binaires.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : NSI<br/>Professeur : MOREAU T.<br/>G
+ roupe : [T_NSI01]<br/>Partie de classe : &lt;1ère G2&gt; NSI<br/>Salle : S
+ alle Info 1<br/><strong>Contenu pédagogique : </strong><div>Chapitre 3 La 
+ représentation des données binaires.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260627T081231Z
+LAST-MODIFIED:20260626T120000Z
+UID:Cours-90039-1-20260627T091231Z-Index-Education
+DTSTART:20260627T100000Z
+DTEND:20260627T105500Z
+SUMMARY;LANGUAGE=fr:TP noté SVT - LEROY C.
+LOCATION;LANGUAGE=fr:S.105
+DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nType : TP not
+ é\nSalle : S.105\n\n<div>Révisions pour demain : les exercices faits en cl
+ asse cette semaine (TP noté).</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Ty
+ pe : TP noté<br/>Salle : S.105<br/><div>Révisions pour demain : les exerci
+ ces faits en classe cette semaine (TP noté).</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260627T081231Z
+LAST-MODIFIED:20260626T120000Z
+UID:Cours-90040-1-20260627T091231Z-Index-Education
+DTSTART:20260627T110000Z
+DTEND:20260627T115500Z
+SUMMARY;LANGUAGE=fr:Interrogation surprise FRANÇAIS - LEFEVRE P.
+LOCATION;LANGUAGE=fr:Amphi A
+DESCRIPTION;LANGUAGE=fr:Matière : FRANÇAIS\nProfesseur : LEFEVRE P.\nType :
+  Interrogation surprise\nSalle : Amphi A\n\n<div>Une interrogation surpris
+ e demain portant sur l'ensemble des œuvres étudiées ce trimestre.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : FRANÇAIS<br/>Professeur : LEFEVRE P.
+ <br/>Type : Interrogation surprise<br/>Salle : Amphi A<br/><div>Une interr
+ ogation surprise demain portant sur l'ensemble des œuvres étudiées ce trim
+ estre.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260627T081231Z
+LAST-MODIFIED:20260626T120000Z
+UID:Cours-90041-1-20260627T091231Z-Index-Education
+DTSTART:20260627T140000Z
+DTEND:20260627T145500Z
+SUMMARY;LANGUAGE=fr:Devoir à la maison ESPAGNOL - GARCIA S.
+LOCATION;LANGUAGE=fr:S.102
+DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL\nProfesseur : GARCIA S.\nType : 
+ Devoir à la maison\nSalle : S.102\n\n<div>N'oubliez pas de rendre votre tr
+ avail sur le point de grammaire vu dans le chapitre 2 demain.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.<
+ br/>Type : Devoir à la maison<br/>Salle : S.102<br/><div>N'oubliez pas de 
+ rendre votre travail sur le point de grammaire vu dans le chapitre 2 demai
+ n.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260628T081231Z
+LAST-MODIFIED:20260627T120000Z
+UID:Cours-90042-1-20260628T091231Z-Index-Education
+DTSTART:20260628T080000Z
+DTEND:20260628T085500Z
+SUMMARY;LANGUAGE=fr:SES - BLANC E. - [T_SES01] - <1ère G2> SES
+LOCATION;LANGUAGE=fr:S.210
+DESCRIPTION;LANGUAGE=fr:Matière : SES\nProfesseur : BLANC E.\nGroupe : [T_S
+ ES01]\nPartie de classe : &lt\;1ère G2&gt\; SES\nSalle : S.210\n\n<strong>
+ Contenu pédagogique : </strong>\n<div>Chapitre 2 Les inégalités économique
+ s et sociales.</div>\n\n<strong>Donné le 28/06/2026 : </strong>\n<div>Appr
+ endre les points clés du chapitre 2 (Les inégalités économiques et sociale
+ s).</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : SES<br/>Professeur : BLANC E.<br/>Gr
+ oupe : [T_SES01]<br/>Partie de classe : &lt;1ère G2&gt; SES<br/>Salle : S.
+ 210<br/><strong>Contenu pédagogique : </strong><div>Chapitre 2 Les inégali
+ tés économiques et sociales.</div><br/><strong>Donné le 28/06/2026 : </str
+ ong><div>Apprendre les points clés du chapitre 2 (Les inégalités économiqu
+ es et sociales).</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260628T081231Z
+LAST-MODIFIED:20260627T120000Z
+UID:Cours-90043-1-20260628T091231Z-Index-Education
+DTSTART:20260628T090000Z
+DTEND:20260628T095500Z
+SUMMARY;LANGUAGE=fr:ANGLAIS - SMITH A. - [T_ANG01] - <Tle G1> ANG
+LOCATION;LANGUAGE=fr:S.003
+DESCRIPTION;LANGUAGE=fr:Matière : ANGLAIS\nProfesseur : SMITH A.\nGroupe : 
+ [T_ANG01]\nPartie de classe : &lt\;Tle G1&gt\; ANG\nSalle : S.003\n\n<stro
+ ng>Contenu pédagogique : </strong>\n<div>Chapitre 4 Human rights and citiz
+ enship.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : ANGLAIS<br/>Professeur : SMITH A.<br
+ />Groupe : [T_ANG01]<br/>Partie de classe : &lt;Tle G1&gt; ANG<br/>Salle :
+  S.003<br/><strong>Contenu pédagogique : </strong><div>Chapitre 4 Human ri
+ ghts and citizenship.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260628T081231Z
+LAST-MODIFIED:20260627T120000Z
+UID:Cours-90044-1-20260628T091231Z-Index-Education
+DTSTART:20260628T100000Z
+DTEND:20260628T105500Z
+SUMMARY;LANGUAGE=fr:Devoir surveillé SVT - LEROY C.
+LOCATION;LANGUAGE=fr:S.105
+DESCRIPTION;LANGUAGE=fr:Matière : SVT\nProfesseur : LEROY C.\nType : Devoir
+  surveillé\nSalle : S.105\n\n<div>À prévoir demain : un devoir surveillé s
+ ur l'ensemble des notions vues depuis la rentrée de la séquence.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : SVT<br/>Professeur : LEROY C.<br/>Ty
+ pe : Devoir surveillé<br/>Salle : S.105<br/><div>À prévoir demain : un dev
+ oir surveillé sur l'ensemble des notions vues depuis la rentrée de la séqu
+ ence.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260628T081231Z
+LAST-MODIFIED:20260627T120000Z
+UID:Cours-90045-1-20260628T091231Z-Index-Education
+DTSTART:20260628T110000Z
+DTEND:20260628T115500Z
+SUMMARY;LANGUAGE=fr:ESPAGNOL - GARCIA S. - [T_ESP01] - <Tle G1> ESP
+LOCATION;LANGUAGE=fr:S.102
+DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL\nProfesseur : GARCIA S.\nGroupe 
+ : [T_ESP01]\nPartie de classe : &lt\;Tle G1&gt\; ESP\nSalle : S.102\n\n<st
+ rong>Contenu pédagogique : </strong>\n<div>Chapitre 2 L'immigration en Amé
+ rique latine.</div>\n\n<strong>Donné le 28/06/2026 : </strong>\n<div>Appre
+ ndre les points clés du chapitre 2 (L'immigration en Amérique latine).</di
+ v>
 X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.<
  br/>Groupe : [T_ESP01]<br/>Partie de classe : &lt;Tle G1&gt; ESP<br/>Salle
   : S.102<br/><strong>Contenu pédagogique : </strong><div>Chapitre 2 L'immi
- gration en Amérique latine.</div><br/><strong>Donné le 29/06/2026 : </stro
- ng><div>Relire le chapitre 2 (L'immigration en Amérique latine) et prépare
- r les questions du prochain cours.</div>
+ gration en Amérique latine.</div><br/><strong>Donné le 28/06/2026 : </stro
+ ng><div>Apprendre les points clés du chapitre 2 (L'immigration en Amérique
+  latine).</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260628T081231Z
+LAST-MODIFIED:20260627T120000Z
+UID:Cours-90046-1-20260628T091231Z-Index-Education
+DTSTART:20260628T140000Z
+DTEND:20260628T145500Z
+SUMMARY;LANGUAGE=fr:DS NSI - MOREAU T.
+LOCATION;LANGUAGE=fr:Salle Info 1
+DESCRIPTION;LANGUAGE=fr:Matière : NSI\nProfesseur : MOREAU T.\nType : DS\nS
+ alle : Salle Info 1\n\n<div>N'oubliez pas : un DS demain sur le chapitre 3
+  (La représentation des données binaires).</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : NSI<br/>Professeur : MOREAU T.<br/>T
+ ype : DS<br/>Salle : Salle Info 1<br/><div>N'oubliez pas : un DS demain su
+ r le chapitre 3 (La représentation des données binaires).</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Évaluation
+DTSTAMP:20260628T081231Z
+LAST-MODIFIED:20260627T120000Z
+UID:Cours-90047-1-20260628T091231Z-Index-Education
+DTSTART:20260628T160000Z
+DTEND:20260628T165500Z
+SUMMARY;LANGUAGE=fr:Exposé oral ALLEMAND - WEBER H.
+LOCATION;LANGUAGE=fr:S.110
+DESCRIPTION;LANGUAGE=fr:Matière : ALLEMAND\nProfesseur : WEBER H.\nType : E
+ xposé oral\nSalle : S.110\n\n<div>Exposé oral surprise demain ! Révisez le
+ s 20 derniers mots de vocabulaire appris.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : ALLEMAND<br/>Professeur : WEBER H.<b
+ r/>Type : Exposé oral<br/>Salle : S.110<br/><div>Exposé oral surprise dema
+ in ! Révisez les 20 derniers mots de vocabulaire appris.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260629T081231Z
+LAST-MODIFIED:20260628T120000Z
+UID:Cours-90048-1-20260629T091231Z-Index-Education
+DTSTART:20260629T080000Z
+DTEND:20260629T085500Z
+SUMMARY;LANGUAGE=fr:MATHÉMATIQUES - DUPONT J. - [T_MATH01] - <1ère G2> MATH
+LOCATION;LANGUAGE=fr:S.101
+DESCRIPTION;LANGUAGE=fr:Matière : MATHÉMATIQUES\nProfesseur : DUPONT J.\nGr
+ oupe : [T_MATH01]\nPartie de classe : &lt\;1ère G2&gt\; MATH\nSalle : S.10
+ 1\n\n<strong>Contenu pédagogique : </strong>\n<div>Chapitre 3 Le produit s
+ calaire dans le plan.</div>\n\n<strong>Donné le 29/06/2026 : </strong>\n<d
+ iv>Faire les exercices d'application du chapitre 3.</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
+ T J.<br/>Groupe : [T_MATH01]<br/>Partie de classe : &lt;1ère G2&gt; MATH<b
+ r/>Salle : S.101<br/><strong>Contenu pédagogique : </strong><div>Chapitre 
+ 3 Le produit scalaire dans le plan.</div><br/><strong>Donné le 29/06/2026 
+ : </strong><div>Faire les exercices d'application du chapitre 3.</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260629T081231Z
+LAST-MODIFIED:20260628T120000Z
+UID:Cours-90049-1-20260629T091231Z-Index-Education
+DTSTART:20260629T090000Z
+DTEND:20260629T095500Z
+SUMMARY;LANGUAGE=fr:ALLEMAND - WEBER H. - [T_ALL01] - <3e A> ALL
+LOCATION;LANGUAGE=fr:S.110
+DESCRIPTION;LANGUAGE=fr:Matière : ALLEMAND\nProfesseur : WEBER H.\nGroupe :
+  [T_ALL01]\nPartie de classe : &lt\;3e A&gt\; ALL\nSalle : S.110\n\n<stron
+ g>Contenu pédagogique : </strong>\n<div>Chapitre 4 La chute du mur de Berl
+ in.</div>\n\n<strong>Donné le 29/06/2026 : </strong>\n<div>Apprendre les p
+ oints clés du chapitre 4 (La chute du mur de Berlin).</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : ALLEMAND<br/>Professeur : WEBER H.<b
+ r/>Groupe : [T_ALL01]<br/>Partie de classe : &lt;3e A&gt; ALL<br/>Salle : 
+ S.110<br/><strong>Contenu pédagogique : </strong><div>Chapitre 4 La chute 
+ du mur de Berlin.</div><br/><strong>Donné le 29/06/2026 : </strong><div>Ap
+ prendre les points clés du chapitre 4 (La chute du mur de Berlin).</div>
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Cours
+DTSTAMP:20260629T081231Z
+LAST-MODIFIED:20260628T120000Z
+UID:Cours-90050-1-20260629T091231Z-Index-Education
+DTSTART:20260629T100000Z
+DTEND:20260629T105500Z
+SUMMARY;LANGUAGE=fr:EMC - SIMON N. - [T_EMC01] - <4e B> EMC
+LOCATION;LANGUAGE=fr:S.215
+DESCRIPTION;LANGUAGE=fr:Matière : EMC\nProfesseur : SIMON N.\nGroupe : [T_E
+ MC01]\nPartie de classe : &lt\;4e B&gt\; EMC\nSalle : S.215\n\n<strong>Con
+ tenu pédagogique : </strong>\n<div>Chapitre 3 La citoyenneté et le vote.</
+ div>\n\n<strong>Donné le 29/06/2026 : </strong>\n<div>Apprendre les points
+  clés du chapitre 3 (La citoyenneté et le vote).</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : EMC<br/>Professeur : SIMON N.<br/>Gr
+ oupe : [T_EMC01]<br/>Partie de classe : &lt;4e B&gt; EMC<br/>Salle : S.215
+ <br/><strong>Contenu pédagogique : </strong><div>Chapitre 3 La citoyenneté
+  et le vote.</div><br/><strong>Donné le 29/06/2026 : </strong><div>Apprend
+ re les points clés du chapitre 3 (La citoyenneté et le vote).</div>
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260629T081231Z
 LAST-MODIFIED:20260628T120000Z
-UID:Cours-80049-1-20260629T091231Z-Index-Education
+UID:Cours-90051-1-20260629T091231Z-Index-Education
 DTSTART:20260629T140000Z
 DTEND:20260629T145500Z
-SUMMARY;LANGUAGE=fr:DM NSI - MOREAU T. - Chapitre 2 : Les bases de données 
- relationnelles
-LOCATION;LANGUAGE=fr:Salle Info 1
-DESCRIPTION;LANGUAGE=fr:Matière : NSI\nProfesseur : MOREAU T.\nType : DM\nS
- alle : Salle Info 1\n\n<div>Pour demain, le DM à rendre sur le Chapitre 2 
- Les bases de données relationnelles.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : NSI<br/>Professeur : MOREAU T.<br/>T
- ype : DM<br/>Salle : Salle Info 1<br/><div>Pour demain, le DM à rendre sur
-  le Chapitre 2 Les bases de données relationnelles.</div>
+SUMMARY;LANGUAGE=fr:Devoir surveillé ESPAGNOL - GARCIA S.
+LOCATION;LANGUAGE=fr:S.102
+DESCRIPTION;LANGUAGE=fr:Matière : ESPAGNOL\nProfesseur : GARCIA S.\nType : 
+ Devoir surveillé\nSalle : S.102\n\n<div>Devoir surveillé surprise demain !
+  Révisez le chapitre 3 (Les mouvements sociaux en Espagne).</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : ESPAGNOL<br/>Professeur : GARCIA S.<
+ br/>Type : Devoir surveillé<br/>Salle : S.102<br/><div>Devoir surveillé su
+ rprise demain ! Révisez le chapitre 3 (Les mouvements sociaux en Espagne).
+ </div>
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Évaluation
 DTSTAMP:20260629T081231Z
 LAST-MODIFIED:20260628T120000Z
-UID:Cours-80050-1-20260629T091231Z-Index-Education
+UID:Cours-90052-1-20260629T091231Z-Index-Education
 DTSTART:20260629T160000Z
 DTEND:20260629T165500Z
-SUMMARY;LANGUAGE=fr:Devoir à la maison LATIN - ROUX M. - Chapitre 3 : Les d
- éclinaisons latines
-LOCATION;LANGUAGE=fr:S.115
-DESCRIPTION;LANGUAGE=fr:Matière : LATIN\nProfesseur : ROUX M.\nType : Devoi
- r à la maison\nSalle : S.115\n\n<div>Pour demain, le devoir à la maison à 
- rendre sur le Chapitre 3 Les déclinaisons latines.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : LATIN<br/>Professeur : ROUX M.<br/>T
- ype : Devoir à la maison<br/>Salle : S.115<br/><div>Pour demain, le devoir
-  à la maison à rendre sur le Chapitre 3 Les déclinaisons latines.</div>
+SUMMARY;LANGUAGE=fr:DS PHYSIQUE-CHIMIE - MARTIN L.
+LOCATION;LANGUAGE=fr:S.204
+DESCRIPTION;LANGUAGE=fr:Matière : PHYSIQUE-CHIMIE\nProfesseur : MARTIN L.\n
+ Type : DS\nSalle : S.204\n\n<div>DS demain sur le chapitre 1 (Les transfor
+ mations chimiques et leur suivi)\, soyez prêts !</div>
+X-ALT-DESC;FMTTYPE=text/html:Matière : PHYSIQUE-CHIMIE<br/>Professeur : MAR
+ TIN L.<br/>Type : DS<br/>Salle : S.204<br/><div>DS demain sur le chapitre 
+ 1 (Les transformations chimiques et leur suivi), soyez prêts !</div>
 END:VEVENT
 END:VCALENDAR
