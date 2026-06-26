@@ -478,22 +478,6 @@ X-ALT-DESC;FMTTYPE=text/html:Matière : MATHÉMATIQUES<br/>Professeur : DUPON
  r le chapitre 1 (Les suites numériques), soyez prêts !</div>
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Évaluation
-DTSTAMP:20260625T081231Z
-LAST-MODIFIED:20260624T120000Z
-UID:Cours-90027-1-20260625T091231Z-Index-Education
-DTSTART:20260625T100000Z
-DTEND:20260625T105500Z
-SUMMARY;LANGUAGE=fr:DM EMC - SIMON N.
-LOCATION;LANGUAGE=fr:S.215
-DESCRIPTION;LANGUAGE=fr:Matière : EMC\nProfesseur : SIMON N.\nType : DM\nSa
- lle : S.215\n\n<div>Pour ce samedi (27/06)\, à rendre : le travail sur les
-  chapitres 3 et 2.</div>
-X-ALT-DESC;FMTTYPE=text/html:Matière : EMC<br/>Professeur : SIMON N.<br/>Ty
- pe : DM<br/>Salle : S.215<br/><div>Pour ce samedi (27/06), à rendre : le t
- ravail sur les chapitres 3 et 2.</div>
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Cours
 DTSTAMP:20260625T081231Z
 LAST-MODIFIED:20260624T120000Z
